@@ -1,0 +1,1401 @@
+ID,District,Neighborhood,PropertyType,CancellationPolicy,Accommodates,RoomType,Bathrooms,Bedrooms,CleaningFee,Latitude,Longitude,ReviewRating
+8760775,Manhattan,Murray Hill,Apartment,flexible,1,Private room,1.0,1.0,63.82763650662635,40.7493999719911,-73.9782264510214,95.0
+16425551,Manhattan,Chinatown,Apartment,flexible,1,Private room,1.0,1.0,35.0,40.71621985754168,-73.9912297081128,95.0
+15043585,Manhattan,Hell's Kitchen,Apartment,flexible,2,Private room,1.0,1.0,63.82763650662635,40.76109596604285,-73.98760185584219,90.0
+16516930,Manhattan,Gramercy,Apartment,strict,6,Entire home/apt,1.0,3.0,150.0,40.73647492770125,-73.9851358339556,60.0
+1891017,Manhattan,Chelsea,Apartment,strict,2,Entire home/apt,1.0,0.0,69.0,40.75066050965895,-74.0037742708188,96.0
+6976282,Manhattan,Hell's Kitchen,Apartment,strict,2,Private room,1.0,3.0,50.0,40.76163851476787,-73.99055673569943,97.0
+176653,Manhattan,East Village,Apartment,flexible,1,Private room,1.0,1.0,63.82763650662635,40.729736211087015,-73.98201380548653,94.0
+15675520,Manhattan,Greenwich Village,Apartment,flexible,4,Entire home/apt,1.0,1.0,299.0,40.732408458336955,-73.99659905271301,80.0
+9822823,Manhattan,Little Italy,Apartment,strict,6,Entire home/apt,1.0,2.0,90.0,40.71985782954735,-73.99678084224254,94.0
+11568637,Manhattan,Lower East Side,Apartment,moderate,2,Entire home/apt,1.0,1.0,55.0,40.72077994593325,-73.9869898199582,93.0
+1742654,Manhattan,Hell's Kitchen,Apartment,strict,2,Entire home/apt,1.0,1.0,125.0,40.76708000695932,-73.98600282204065,100.0
+17608203,Manhattan,Roosevelt Island,Apartment,moderate,2,Private room,1.0,1.0,8.0,40.76137422837021,-73.95077447931938,100.0
+15092133,Manhattan,Upper East Side,Apartment,flexible,2,Private room,1.0,1.0,10.0,40.776043269020384,-73.95419232819944,84.0
+16846366,Manhattan,Upper West Side,Apartment,moderate,6,Entire home/apt,2.5,3.0,100.0,40.78429819833561,-73.98262157867539,100.0
+7611764,Manhattan,Washington Heights,Apartment,flexible,2,Private room,1.0,1.0,10.0,40.83430865249515,-73.94020067235161,100.0
+10165064,Manhattan,Upper West Side,Apartment,strict,3,Entire home/apt,1.0,1.0,65.0,40.79436662913702,-73.97152275944553,99.0
+11178582,Manhattan,Chinatown,Apartment,strict,2,Private room,1.0,1.0,30.0,40.71312098025098,-73.99668639592707,95.0
+8008601,Manhattan,Chelsea,Apartment,flexible,1,Private room,1.0,1.0,63.82763650662635,40.743204936272505,-74.00106052028555,80.0
+16000178,Manhattan,Harlem,Apartment,flexible,5,Entire home/apt,1.0,1.0,50.0,40.81221379615933,-73.94508321228697,89.0
+6385364,Manhattan,Lower East Side,Apartment,flexible,1,Private room,2.0,1.0,63.82763650662635,40.71880143843756,-73.99451527590847,100.0
+2407196,Manhattan,Harlem,House,moderate,2,Private room,1.0,1.0,30.0,40.81904472586397,-73.94325285592456,97.0
+10092851,Manhattan,Chelsea,Apartment,flexible,2,Private room,1.0,1.0,25.0,40.74090353151759,-74.00294754564057,92.0
+15644337,Manhattan,West Village,Apartment,moderate,2,Entire home/apt,1.0,0.0,40.0,40.73225033007277,-74.00315269485942,100.0
+2700596,Manhattan,Harlem,House,moderate,1,Private room,1.0,1.0,30.0,40.80696788377736,-73.95202587900695,95.0
+10135523,Manhattan,Nolita,Other,moderate,1,Private room,0.0,1.0,63.82763650662635,40.72300538291194,-73.99435874035125,83.0
+64283,Manhattan,Harlem,Apartment,strict,2,Private room,1.0,1.0,20.0,40.8233045631842,-73.93626625258571,80.0
+2183423,Manhattan,Harlem,Apartment,strict,6,Entire home/apt,1.0,2.0,63.82763650662635,40.81333285405945,-73.9419358797917,92.0
+4037426,Manhattan,Washington Heights,Apartment,flexible,2,Private room,2.0,1.0,10.0,40.850111329082964,-73.93686075823555,89.0
+12540167,Manhattan,Hell's Kitchen,Apartment,moderate,3,Entire home/apt,1.0,0.0,50.0,40.76131627687017,-73.98761982067192,78.0
+12451425,Manhattan,Murray Hill,Apartment,flexible,2,Entire home/apt,1.0,0.0,63.82763650662635,40.74893328172863,-73.97036674871794,100.0
+1696381,Manhattan,East Harlem,Apartment,strict,2,Private room,1.0,1.0,30.0,40.797703279811394,-73.93753845175667,96.0
+934002,Manhattan,Upper East Side,Apartment,moderate,2,Private room,2.5,1.0,50.0,40.77617943293399,-73.95148373483146,97.0
+753622,Manhattan,East Village,Apartment,strict,1,Private room,1.0,1.0,30.0,40.73232905150769,-73.98694707343799,91.0
+14139651,Manhattan,Kips Bay,Apartment,moderate,2,Entire home/apt,1.0,0.0,50.0,40.74505595071162,-73.97933504632651,100.0
+13283578,Manhattan,East Harlem,Apartment,strict,2,Private room,1.0,1.0,70.0,40.79653674180676,-73.94703599341821,85.0
+9967314,Manhattan,Hell's Kitchen,Apartment,moderate,3,Entire home/apt,1.0,1.0,75.0,40.760182113278454,-73.99591419721125,85.0
+4909438,Manhattan,East Village,Apartment,flexible,2,Entire home/apt,1.0,0.0,63.82763650662635,40.73036917949327,-73.98267886383519,100.0
+7350310,Manhattan,East Village,Apartment,strict,2,Shared room,1.0,1.0,25.0,40.72961630880985,-73.98359933236988,80.0
+5561046,Manhattan,Tribeca,Apartment,flexible,3,Entire home/apt,1.5,1.0,100.0,40.720687324749925,-74.00738054078215,100.0
+14148988,Manhattan,Midtown,Apartment,strict,2,Entire home/apt,1.0,0.0,20.0,40.75246754575566,-73.97304873804839,100.0
+23481,Manhattan,Harlem,Apartment,strict,4,Entire home/apt,1.0,1.0,125.0,40.80709698305865,-73.95038395798285,90.0
+4091823,Manhattan,Upper West Side,Apartment,flexible,3,Entire home/apt,1.0,1.0,75.0,40.79793664688019,-73.96120821626096,66.0
+8992894,Manhattan,Harlem,Townhouse,strict,6,Entire home/apt,2.5,4.0,250.0,40.80048516102914,-73.95533120369242,97.0
+772538,Manhattan,West Village,Apartment,strict,1,Private room,1.0,1.0,90.0,40.7320549980078,-74.00699524615109,90.0
+14851292,Manhattan,East Harlem,Apartment,flexible,2,Entire home/apt,1.0,1.0,50.0,40.81505804614626,-73.93566570556794,96.0
+16662650,Manhattan,East Harlem,Apartment,strict,10,Entire home/apt,1.0,4.0,125.0,40.79901939039197,-73.93945112849411,97.0
+16789526,Manhattan,East Village,Apartment,flexible,2,Private room,1.0,1.0,30.0,40.72434225312193,-73.98084316506831,100.0
+9496206,Manhattan,East Village,Apartment,strict,2,Private room,2.0,1.0,75.0,40.72620628811561,-73.98120995343886,94.0
+7344066,Manhattan,West Village,Apartment,strict,2,Entire home/apt,1.0,1.0,85.0,40.73222266412426,-74.00287217635899,89.0
+14452731,Manhattan,Harlem,Apartment,moderate,2,Private room,1.0,1.0,63.82763650662635,40.8211162380183,-73.95111628521134,96.0
+8290724,Manhattan,West Village,Apartment,moderate,3,Entire home/apt,1.0,1.0,75.0,40.73434696980864,-73.9990288820535,100.0
+6942211,Manhattan,Upper West Side,Townhouse,strict,3,Entire home/apt,1.0,1.0,80.0,40.789053852687424,-73.9674792677048,93.0
+16048836,Manhattan,East Village,Apartment,strict,2,Entire home/apt,1.0,1.0,70.0,40.72542100468426,-73.98539151486901,100.0
+9214901,Manhattan,Hell's Kitchen,Apartment,moderate,3,Entire home/apt,1.0,1.0,85.0,40.75410167107411,-73.99542814232592,100.0
+15718829,Manhattan,East Village,Apartment,moderate,1,Private room,1.0,1.0,25.0,40.72797816898184,-73.97729547936086,98.0
+1645105,Manhattan,Chelsea,Apartment,strict,2,Entire home/apt,1.0,1.0,80.0,40.74417630714469,-73.99868471090798,93.0
+2297549,Manhattan,East Harlem,Apartment,moderate,2,Private room,1.0,1.0,20.0,40.796088592112405,-73.93580228019417,95.0
+806314,Manhattan,Upper East Side,Apartment,strict,2,Private room,1.0,1.0,70.0,40.769416290234425,-73.95641403536362,98.0
+14447134,Manhattan,Kips Bay,Apartment,flexible,2,Private room,1.0,1.0,20.0,40.741344979198544,-73.98059904157334,95.0
+204598,Manhattan,SoHo,Apartment,strict,2,Entire home/apt,1.0,1.0,75.0,40.72522184914696,-74.0023389918843,93.0
+7676659,Manhattan,Harlem,Apartment,moderate,1,Private room,1.0,1.0,63.82763650662635,40.81087147309696,-73.94790000438486,92.0
+941625,Manhattan,Upper West Side,Apartment,strict,2,Private room,1.5,1.0,50.0,40.79809252473029,-73.9623317651759,89.0
+17745707,Manhattan,Battery Park City,Apartment,strict,2,Entire home/apt,1.0,0.0,125.0,40.71042774456881,-74.0159222102936,100.0
+8153005,Manhattan,East Village,Apartment,flexible,4,Entire home/apt,1.0,2.0,63.82763650662635,40.7284471032506,-73.97989117077014,87.0
+13318239,Manhattan,East Harlem,Apartment,moderate,2,Private room,1.0,1.0,150.0,40.78849684059982,-73.94939758278588,70.0
+563442,Manhattan,West Village,Apartment,strict,2,Entire home/apt,1.0,1.0,100.0,40.73513570098174,-73.99953810405401,88.0
+16352457,Manhattan,West Village,Apartment,strict,4,Entire home/apt,1.0,1.0,25.0,40.735534494348826,-74.00571172084082,100.0
+8881253,Manhattan,Hell's Kitchen,Apartment,strict,2,Private room,1.0,1.0,60.0,40.76373634092706,-73.99422074375357,100.0
+11961592,Manhattan,Upper West Side,Apartment,strict,6,Entire home/apt,2.0,2.0,100.0,40.774799927532,-73.97778805159041,100.0
+2493176,Manhattan,Upper East Side,Apartment,flexible,3,Entire home/apt,1.0,0.0,50.0,40.77573917166296,-73.95239614956769,96.0
+14043464,Manhattan,East Village,Apartment,strict,2,Entire home/apt,1.0,2.0,35.0,40.731559418080934,-73.98626771187456,83.0
+2671737,Manhattan,Washington Heights,Apartment,moderate,2,Private room,1.0,1.0,25.0,40.83676834744226,-73.94314447209572,60.0
+811129,Manhattan,Chelsea,Apartment,moderate,1,Shared room,1.0,1.0,25.0,40.7497700907761,-73.99702491358453,100.0
+15583747,Manhattan,East Harlem,Apartment,strict,10,Entire home/apt,1.0,4.0,100.0,40.79719620102886,-73.93925513173069,84.0
+3463385,Manhattan,Upper East Side,Apartment,strict,2,Private room,1.0,1.0,63.82763650662635,40.76717467534038,-73.95532354553221,89.0
+7858096,Manhattan,Gramercy,Apartment,strict,2,Private room,1.0,1.0,10.0,40.73569520316628,-73.98086579954357,80.0
+16589844,Manhattan,Hell's Kitchen,Apartment,strict,6,Entire home/apt,2.0,3.0,125.0,40.76233318384833,-73.99750787266571,89.0
+13125371,Manhattan,Harlem,Apartment,strict,6,Entire home/apt,1.0,3.0,100.0,40.81751999639224,-73.94543561377566,82.0
+14968525,Manhattan,East Village,Apartment,strict,1,Entire home/apt,1.0,1.0,55.0,40.724074359860566,-73.98137973996343,97.0
+18042412,Manhattan,East Village,Apartment,strict,2,Private room,1.0,1.0,63.82763650662635,40.728248804432546,-73.98701282394892,80.0
+14948249,Manhattan,Hell's Kitchen,Apartment,flexible,4,Entire home/apt,1.0,1.0,30.0,40.76494682930481,-73.98963628985416,100.0
+4003436,Manhattan,Harlem,Apartment,moderate,2,Private room,1.0,1.0,63.82763650662635,40.81094935033728,-73.95396109909099,97.0
+13129905,Manhattan,Upper East Side,Apartment,strict,6,Entire home/apt,1.0,3.0,145.0,40.77743972140708,-73.95696890172532,96.0
+11873676,Manhattan,Financial District,Apartment,moderate,4,Entire home/apt,1.0,0.0,80.0,40.70780990765271,-74.01440304653963,100.0
+10731680,Manhattan,Hell's Kitchen,Apartment,strict,6,Entire home/apt,1.0,3.0,40.0,40.75980895327355,-73.99070692535385,89.0
+7749233,Manhattan,Upper East Side,Apartment,strict,2,Private room,1.0,1.0,60.0,40.77053848210166,-73.95475777688442,93.0
+4757941,Manhattan,East Village,Apartment,moderate,5,Entire home/apt,1.0,1.0,75.0,40.72618751029076,-73.98283902575811,100.0
+83811,Manhattan,Chinatown,Apartment,strict,6,Entire home/apt,1.0,2.0,150.0,40.715045161062434,-73.99107622300966,96.0
+9936109,Manhattan,Morningside Heights,Apartment,flexible,5,Entire home/apt,1.0,2.0,120.0,40.81217690658696,-73.96112385276291,100.0
+3603134,Manhattan,Upper East Side,Apartment,moderate,4,Entire home/apt,1.0,1.0,75.0,40.77486971241869,-73.94900031944766,99.0
+11356342,Manhattan,Lower East Side,Apartment,strict,2,Entire home/apt,1.0,0.0,40.0,40.71387365782125,-73.98529405771467,99.0
+11777462,Manhattan,Nolita,Loft,strict,8,Entire home/apt,2.0,2.0,150.0,40.72393873071598,-73.9930144661549,82.0
+5669995,Manhattan,Upper East Side,Apartment,strict,2,Private room,1.0,1.0,35.0,40.77912414760558,-73.95341861811616,91.0
+11043540,Manhattan,Lower East Side,Apartment,flexible,2,Entire home/apt,1.0,1.0,63.82763650662635,40.71883629787393,-73.98593718954588,80.0
+644869,Manhattan,Harlem,Apartment,strict,2,Private room,2.0,1.0,63.82763650662635,40.822400457866344,-73.94357726354465,100.0
+15507436,Manhattan,Midtown,Apartment,strict,3,Private room,1.0,1.0,65.0,40.74827930465753,-73.98400613653435,100.0
+6692573,Manhattan,East Village,Apartment,moderate,2,Private room,1.0,1.0,63.82763650662635,40.72354467839422,-73.98189955332617,91.0
+13208952,Manhattan,Upper East Side,Apartment,moderate,3,Shared room,1.0,1.0,35.0,40.77305406652272,-73.96282921702809,97.0
+12883073,Manhattan,East Village,Apartment,strict,6,Entire home/apt,1.0,1.0,75.0,40.72526756083629,-73.98651684919712,95.0
+8013947,Manhattan,Midtown,Apartment,flexible,3,Entire home/apt,1.0,0.0,63.82763650662635,40.74920850622342,-73.98444985253627,98.0
+61470,Manhattan,Harlem,Apartment,moderate,5,Entire home/apt,2.0,2.0,75.0,40.81302935695736,-73.94494229482581,93.0
+14726498,Manhattan,Inwood,Apartment,strict,2,Private room,1.0,1.0,25.0,40.86763139177626,-73.91792285586818,93.0
+10677426,Manhattan,Greenwich Village,Apartment,flexible,4,Entire home/apt,1.0,1.0,50.0,40.72760154023832,-74.00075407473777,100.0
+102995,Manhattan,Upper West Side,Apartment,moderate,3,Entire home/apt,1.0,1.0,120.0,40.78558229618498,-73.969601182404,93.0
+15344749,Manhattan,Chinatown,Apartment,flexible,2,Private room,1.0,1.0,63.82763650662635,40.71305117407804,-73.99442817917344,100.0
+6233785,Manhattan,Hell's Kitchen,Apartment,strict,3,Entire home/apt,1.0,1.0,100.0,40.76611277470975,-73.98481774249261,100.0
+18287772,Manhattan,Hell's Kitchen,Apartment,strict,2,Private room,1.0,1.0,30.0,40.766061859810435,-73.99076955766014,100.0
+16393554,Manhattan,Chinatown,Loft,strict,4,Entire home/apt,1.0,0.0,120.0,40.716980199886756,-73.99629306616673,96.0
+7302362,Manhattan,SoHo,Apartment,strict,1,Private room,1.0,1.0,25.0,40.72593387974153,-74.00235241049036,97.0
+701474,Manhattan,Greenwich Village,Apartment,strict,2,Entire home/apt,1.0,1.0,30.0,40.7292522007973,-74.0017150479581,87.0
+13466663,Manhattan,Civic Center,Apartment,strict,2,Private room,1.0,1.0,45.0,40.71258981722814,-73.99897274309494,94.0
+2444440,Manhattan,Chelsea,Apartment,moderate,2,Private room,1.0,1.0,50.0,40.74300772815914,-73.99314089414548,99.0
+8690773,Manhattan,Harlem,Apartment,strict,2,Private room,1.0,1.0,10.0,40.81615920194086,-73.94190046001256,100.0
+2778250,Manhattan,Harlem,Apartment,strict,2,Private room,1.0,1.0,20.0,40.83251790645605,-73.94915828540981,92.0
+6400482,Manhattan,Washington Heights,Apartment,strict,4,Entire home/apt,1.0,1.0,50.0,40.83900232677031,-73.94542738098545,85.0
+7713421,Manhattan,West Village,Apartment,strict,2,Entire home/apt,1.0,1.0,100.0,40.73183614547844,-74.00367190182442,95.0
+16781516,Manhattan,Upper East Side,Apartment,strict,2,Private room,1.0,1.0,40.0,40.76487530374538,-73.96562624490973,100.0
+17696647,Manhattan,Lower East Side,Apartment,flexible,2,Entire home/apt,1.0,0.0,50.0,40.72229218928004,-73.98704646433912,100.0
+3920562,Manhattan,East Harlem,Apartment,strict,2,Private room,1.0,1.0,25.0,40.798821284588655,-73.94266262884857,94.0
+12246178,Manhattan,East Harlem,Apartment,moderate,1,Private room,1.5,1.0,63.82763650662635,40.786638268195794,-73.94161455295806,94.0
+2608217,Manhattan,Morningside Heights,Apartment,strict,2,Entire home/apt,1.0,1.0,60.0,40.815033323484734,-73.96028688143963,98.0
+9646412,Manhattan,Hell's Kitchen,Apartment,strict,3,Private room,2.0,1.0,40.0,40.76102562584558,-73.99178397310618,92.0
+15545933,Manhattan,Upper West Side,Apartment,strict,6,Entire home/apt,3.0,2.0,200.0,40.793068363461494,-73.9746742723418,100.0
+5446610,Manhattan,Lower East Side,Apartment,flexible,2,Private room,1.0,1.0,40.0,40.719061526950775,-73.98548201724556,97.0
+17528511,Manhattan,Midtown,Apartment,strict,2,Private room,1.0,1.0,63.82763650662635,40.74693176028821,-73.9821849624593,100.0
+4471053,Manhattan,Midtown,Apartment,strict,5,Entire home/apt,1.0,2.0,140.0,40.74754619642757,-73.98285693857251,94.0
+17976515,Manhattan,Tribeca,Loft,flexible,3,Entire home/apt,1.0,1.0,63.82763650662635,40.719670885121225,-74.00583920365065,100.0
+11911827,Manhattan,East Harlem,Apartment,strict,4,Entire home/apt,2.0,2.0,100.0,40.79650130975786,-73.94824798328705,96.0
+3686972,Manhattan,Upper West Side,Apartment,strict,3,Entire home/apt,1.0,1.0,60.0,40.7790535454599,-73.979389428071,98.0
+4476945,Manhattan,Harlem,Apartment,strict,5,Entire home/apt,1.0,1.0,75.0,40.81055846010229,-73.94626739003567,95.0
+8426874,Manhattan,East Village,Apartment,flexible,2,Private room,1.0,1.0,63.82763650662635,40.73105850394474,-73.98466933789955,100.0
+1143572,Manhattan,East Village,Apartment,flexible,2,Entire home/apt,2.0,1.0,63.82763650662635,40.73255129185926,-73.98711612698553,100.0
+4142934,Manhattan,Chinatown,Apartment,flexible,2,Entire home/apt,1.0,0.0,75.0,40.71625814198278,-73.99104361683587,89.0
+9198833,Manhattan,Inwood,Apartment,flexible,2,Private room,1.0,1.0,35.0,40.86678266779737,-73.92676577154947,93.0
+5758695,Manhattan,Tribeca,Loft,strict,2,Private room,1.0,1.0,40.0,40.71923229380578,-74.00660749208427,88.0
+23501,Manhattan,Washington Heights,Apartment,strict,2,Private room,1.0610299049112937,1.0,10.0,40.83927035347513,-73.94281334635886,94.0
+7037585,Manhattan,East Harlem,Apartment,strict,1,Private room,1.0,1.0,40.0,40.79673854575788,-73.94448707110138,93.0
+7728510,Manhattan,Harlem,Apartment,flexible,2,Entire home/apt,1.0,1.0,63.82763650662635,40.801418703002575,-73.95501269205171,98.0
+539350,Manhattan,Hell's Kitchen,Apartment,strict,4,Entire home/apt,1.0,1.0,60.0,40.7618422705154,-73.99333855982971,93.0
+869615,Manhattan,Chinatown,Apartment,strict,2,Private room,1.0610299049112937,1.0,63.82763650662635,40.714119167900854,-73.9914966858165,89.0
+15642037,Manhattan,Upper East Side,Apartment,strict,8,Entire home/apt,2.0,4.0,400.0,40.76672465997936,-73.96865084127347,91.0
+17120680,Manhattan,Midtown,Apartment,strict,8,Entire home/apt,1.0,3.0,100.0,40.75983863403085,-73.97159381330458,92.0
+11983165,Manhattan,Upper West Side,Apartment,strict,2,Private room,1.5,1.0,5.0,40.79458741377157,-73.96818054147562,94.0
+13043208,Manhattan,Financial District,Apartment,strict,2,Entire home/apt,1.0,0.0,63.82763650662635,40.70527067588397,-74.00629116761395,60.0
+9678488,Manhattan,West Village,Apartment,flexible,3,Entire home/apt,1.0,0.0,63.82763650662635,40.737021280295785,-74.00633407073676,96.0
+4286662,Manhattan,Greenwich Village,Apartment,strict,2,Entire home/apt,1.0,1.0,63.82763650662635,40.73032475857789,-73.99975919952712,100.0
+16719319,Manhattan,Hell's Kitchen,Apartment,strict,2,Private room,1.0,4.0,63.82763650662635,40.76135857430937,-73.98897189739819,91.0
+5070077,Manhattan,Washington Heights,Apartment,flexible,1,Private room,1.0,1.0,41.0,40.834349270099246,-73.94466247283546,100.0
+13940243,Manhattan,Hell's Kitchen,Apartment,moderate,2,Private room,1.0,1.0,20.0,40.76533810252364,-73.9923612108613,100.0
+12914669,Manhattan,Harlem,Apartment,flexible,2,Private room,1.0,1.0,63.82763650662635,40.80793893020419,-73.94150125596683,90.0
+776765,Manhattan,West Village,Apartment,strict,2,Entire home/apt,1.0,1.0,63.82763650662635,40.73405730054286,-74.00886751609015,83.0
+6388721,Manhattan,West Village,Apartment,strict,3,Entire home/apt,1.0,1.0,95.0,40.73507497526085,-74.00825900409603,100.0
+4653519,Manhattan,East Village,Apartment,strict,2,Entire home/apt,1.0,0.0,75.0,40.7332354832463,-73.98741944621977,95.0
+2889781,Manhattan,Upper East Side,Apartment,strict,2,Entire home/apt,1.0,1.0,70.0,40.772906402598075,-73.95176166271324,80.0
+17594492,Manhattan,Hell's Kitchen,Apartment,strict,4,Entire home/apt,1.0,1.0,80.0,40.7544489242874,-73.99445875261989,97.0
+13125950,Manhattan,Tribeca,Apartment,strict,10,Entire home/apt,2.0,4.0,160.0,40.718931710051024,-74.0090532199372,84.0
+8501038,Manhattan,Chelsea,Apartment,moderate,2,Entire home/apt,1.0,1.0,80.0,40.74071489069338,-74.00227639690354,100.0
+16708013,Manhattan,Flatiron District,House,strict,8,Entire home/apt,2.5,3.0,130.0,40.74001114098057,-73.98601131963838,100.0
+14815997,Manhattan,Upper East Side,Apartment,strict,2,Entire home/apt,1.0,0.0,100.0,40.77273020515123,-73.96344470700988,100.0
+7782340,Manhattan,Upper West Side,Apartment,moderate,4,Entire home/apt,1.0,1.0,125.0,40.79062992016113,-73.97863858392931,94.0
+10482409,Manhattan,Chelsea,Hostel,moderate,1,Private room,1.0,1.0,8.0,40.74896107786203,-73.9965710988504,91.0
+14809631,Manhattan,Midtown,Apartment,moderate,2,Private room,1.0,1.0,30.0,40.76070209830034,-73.96979967914842,96.0
+11415455,Manhattan,East Village,Apartment,flexible,1,Entire home/apt,1.0,0.0,63.82763650662635,40.72793328849114,-73.98771291530312,100.0
+6322937,Queens,Long Island City,Apartment,strict,2,Entire home/apt,1.0,1.0,50.0,40.76450176756988,-73.93180511054085,90.0
+292047,Manhattan,West Village,Apartment,moderate,1,Private room,1.0,1.0,25.0,40.739080371516145,-74.00377769094189,96.0
+6493409,Manhattan,Kips Bay,Apartment,moderate,3,Entire home/apt,1.0,0.0,35.0,40.74047953382103,-73.98069803473653,96.0
+4235843,Manhattan,East Harlem,Apartment,strict,1,Private room,1.0,1.0,125.0,40.78626718907897,-73.94315895148458,67.0
+14154373,Manhattan,East Village,Apartment,strict,1,Private room,1.0,1.0,63.82763650662635,40.72096982536648,-73.97769044994055,100.0
+435946,Manhattan,Financial District,Apartment,strict,4,Entire home/apt,1.0,0.0,130.0,40.70917177224057,-74.01460255754873,96.0
+13640966,Manhattan,Harlem,Townhouse,moderate,4,Entire home/apt,1.0,1.0,100.0,40.81043657127096,-73.949156561859,100.0
+5707546,Manhattan,Nolita,Apartment,strict,2,Private room,2.0,1.0,25.0,40.72225989854736,-73.99349957687005,90.0
+16225437,Manhattan,Lower East Side,Apartment,strict,2,Private room,1.0,1.0,20.0,40.7196292637928,-73.98590932023114,91.0
+13772304,Manhattan,Upper West Side,Apartment,flexible,3,Private room,1.0,1.0,15.0,40.802679293946426,-73.96684450279879,80.0
+16376198,Manhattan,Harlem,Apartment,flexible,2,Private room,1.0,1.0,63.82763650662635,40.82362979013918,-73.9528497923673,93.0
+17134357,Manhattan,Upper West Side,Apartment,flexible,2,Private room,1.0,1.0,30.0,40.78586871486578,-73.97467855459439,93.0
+8720923,Manhattan,Lower East Side,Apartment,flexible,2,Private room,1.0,1.0,30.0,40.719714201464406,-73.98494246271629,100.0
+15423281,Manhattan,Harlem,Apartment,strict,2,Entire home/apt,1.0,1.0,30.0,40.80204665347385,-73.95427408684004,100.0
+17152485,Manhattan,Upper East Side,Apartment,strict,2,Entire home/apt,1.0,1.0,20.0,40.76897823192071,-73.95450861465076,92.0
+315421,Manhattan,Chelsea,Apartment,moderate,2,Entire home/apt,1.0,1.0,100.0,40.74637506678735,-74.00015770270393,92.0
+9953924,Manhattan,Kips Bay,Apartment,flexible,2,Entire home/apt,1.0,0.0,63.82763650662635,40.74237501871298,-73.97651548557978,100.0
+11959165,Manhattan,East Harlem,Apartment,strict,2,Private room,1.0,1.0,60.0,40.788701817552536,-73.94735780032529,93.0
+8973549,Manhattan,Upper West Side,Apartment,flexible,3,Private room,1.0,1.0,20.0,40.78423463018979,-73.97270936742973,100.0
+166006,Manhattan,Upper West Side,Apartment,strict,7,Entire home/apt,1.0,2.0,100.0,40.80006468657738,-73.96048666140497,93.0
+12088888,Manhattan,NoHo,Loft,strict,4,Entire home/apt,1.5,1.0,125.0,40.72645552436872,-73.99309170100973,92.0
+16965097,Manhattan,Hell's Kitchen,Apartment,strict,6,Entire home/apt,1.0,2.0,63.82763650662635,40.76234757588609,-73.99135275732866,97.0
+1349237,Manhattan,Harlem,Apartment,strict,2,Private room,1.0,1.0,45.0,40.808871147982174,-73.94755863787853,91.0
+16096079,Manhattan,Greenwich Village,Apartment,strict,4,Entire home/apt,1.0,1.0,63.82763650662635,40.72835851429379,-73.99920332476363,75.0
+3496384,Manhattan,Chelsea,Hostel,moderate,1,Private room,1.0,1.0,8.0,40.749766999486816,-73.99647139525533,88.0
+4523435,Manhattan,Upper East Side,Apartment,moderate,2,Entire home/apt,1.0,0.0,40.0,40.779363825456045,-73.94962463054401,99.0
+2397068,Manhattan,East Village,Apartment,flexible,4,Private room,1.0,2.0,85.0,40.72652863695113,-73.98192906459565,100.0
+8014087,Manhattan,Chelsea,Apartment,flexible,2,Private room,1.0,1.0,63.82763650662635,40.74041776040147,-73.9971439947218,100.0
+4268286,Manhattan,East Harlem,House,strict,2,Private room,1.0,1.0,63.82763650662635,40.79607519582101,-73.93818770592556,94.0
+9867391,Manhattan,Upper East Side,Apartment,strict,2,Entire home/apt,1.0,1.0,35.0,40.7612182856741,-73.96168338673179,97.0
+12342297,Manhattan,Hell's Kitchen,Apartment,moderate,2,Private room,1.0,1.0,40.0,40.76115743869143,-73.9901608902563,96.0
+16416857,Manhattan,Chinatown,Apartment,strict,2,Entire home/apt,1.0,0.0,60.0,40.71538254292725,-73.99668761756206,90.0
+1668176,Manhattan,Washington Heights,Apartment,strict,2,Entire home/apt,1.0,2.0,100.0,40.85803012031533,-73.93554921604387,90.0
+9906178,Manhattan,Greenwich Village,Apartment,moderate,4,Entire home/apt,1.0,1.0,35.0,40.73006951757034,-74.00193352385165,90.0
+7653072,Manhattan,East Village,Apartment,moderate,2,Private room,1.0,1.0,60.0,40.729855561141036,-73.98625297608454,96.0
+7874869,Queens,Astoria,Apartment,strict,2,Private room,1.5,1.0,10.0,40.75924208192531,-73.92710967395486,91.0
+851772,Manhattan,Upper East Side,Apartment,strict,2,Entire home/apt,1.0,1.0,65.0,40.77039820996121,-73.95023716559439,97.0
+6774866,Manhattan,Harlem,Apartment,strict,1,Private room,1.0,1.0,35.0,40.81320726752739,-73.95233485618489,98.0
+10297292,Manhattan,Morningside Heights,Apartment,moderate,2,Private room,1.0,1.0,63.82763650662635,40.804573534969094,-73.96472860981775,99.0
+6554879,Manhattan,Upper East Side,Apartment,strict,2,Private room,1.0,1.0,30.0,40.773234390202774,-73.95566661182248,70.0
+6932898,Manhattan,Harlem,Apartment,flexible,2,Entire home/apt,1.0,1.0,63.82763650662635,40.82355044943225,-73.94745729889999,100.0
+12855923,Manhattan,Harlem,Apartment,strict,2,Private room,1.0,1.0,63.82763650662635,40.82419872484128,-73.94777151726457,76.0
+17889795,Manhattan,Upper East Side,Apartment,strict,2,Private room,1.0,1.0,63.82763650662635,40.77267675480663,-73.95683190659163,96.0
+5049575,Manhattan,Morningside Heights,Apartment,flexible,1,Private room,1.0,1.0,63.82763650662635,40.811751414485705,-73.95828700296774,96.0
+13748546,Manhattan,Chelsea,Apartment,strict,4,Entire home/apt,1.0,1.0,125.0,40.74360708536793,-73.9988532499907,60.0
+16649487,Manhattan,Washington Heights,Apartment,flexible,2,Private room,1.0,1.0,63.82763650662635,40.84304487417801,-73.94207287418283,76.0
+14053000,Manhattan,Harlem,Other,strict,3,Entire home/apt,1.0,2.0,50.0,40.81136180169458,-73.94088054399637,92.0
+18254657,Manhattan,Harlem,Apartment,strict,1,Private room,1.0,4.0,63.82763650662635,40.808058645641,-73.94180718901737,90.0
+6198188,Manhattan,East Village,Apartment,strict,2,Entire home/apt,1.0,1.0,100.0,40.72594793435306,-73.99157034400393,100.0
+3120957,Manhattan,Harlem,Apartment,flexible,2,Shared room,1.5,1.0,25.0,40.80698884451513,-73.94227126722943,100.0
+13037692,Manhattan,Hell's Kitchen,Apartment,flexible,5,Entire home/apt,1.0,2.0,100.0,40.7611138385334,-73.99248239148548,92.0
+7899881,Manhattan,Upper East Side,Apartment,flexible,4,Entire home/apt,1.0,0.0,60.0,40.77738746057568,-73.95292510041992,93.0
+14399991,Manhattan,Upper West Side,Apartment,strict,2,Private room,1.0,1.0,95.0,40.79237287612101,-73.97077723215328,98.0
+1732322,Manhattan,Chelsea,Apartment,moderate,2,Entire home/apt,1.0,1.0,85.0,40.74406678096186,-73.99545747818131,93.0
+4833671,Manhattan,Harlem,Apartment,flexible,2,Private room,1.0,1.0,50.0,40.82899436207515,-73.95024308031991,100.0
+1639762,Manhattan,Kips Bay,Apartment,strict,2,Private room,1.0,1.0,45.0,40.73897042176284,-73.98104157928564,93.0
+5893612,Manhattan,Chinatown,Apartment,flexible,2,Entire home/apt,1.0,1.0,63.82763650662635,40.7156721436228,-73.98990327293187,100.0
+12755571,Manhattan,Midtown,Apartment,flexible,2,Entire home/apt,1.0,0.0,63.82763650662635,40.75226671854249,-73.97351105599184,80.0
+16135347,Manhattan,Harlem,Townhouse,moderate,2,Private room,1.0,1.0,63.82763650662635,40.831978897902715,-73.94780455569499,96.0
+3972210,Manhattan,Upper East Side,Apartment,flexible,4,Entire home/apt,1.0,1.0,50.0,40.77129216080046,-73.95827758101234,100.0
+3344643,Manhattan,Nolita,Apartment,moderate,2,Entire home/apt,1.0,1.0,95.0,40.7225938326966,-73.99628503256332,93.0
+9609140,Manhattan,Harlem,Apartment,strict,3,Entire home/apt,1.0,1.0,85.0,40.832230378698036,-73.94915657336485,95.0
+8118692,Manhattan,Midtown,Apartment,moderate,2,Entire home/apt,1.0,0.0,40.0,40.752454908600114,-73.98441794799955,80.0
+13662692,Manhattan,Upper West Side,Apartment,moderate,2,Entire home/apt,1.0,1.0,85.0,40.77778064094928,-73.97795197663295,100.0
+6236181,Manhattan,Upper West Side,Apartment,flexible,2,Entire home/apt,1.0,1.0,63.82763650662635,40.78078439357497,-73.9746633982068,100.0
+10941762,Manhattan,Lower East Side,Loft,strict,3,Entire home/apt,1.0,2.0,85.0,40.7222082151954,-73.99283715303015,100.0
+2651125,Manhattan,East Village,Apartment,strict,2,Entire home/apt,1.0,0.0,70.0,40.72815736978076,-73.98034859316053,98.0
+4856222,Manhattan,Gramercy,Apartment,strict,3,Entire home/apt,1.0,2.0,75.0,40.737433837264405,-73.98224028102265,79.0
+18089016,Manhattan,Hell's Kitchen,Apartment,strict,2,Private room,1.0,1.0,69.0,40.76413671529822,-73.98578523036943,100.0
+11788559,Manhattan,Harlem,House,flexible,8,Entire home/apt,2.5,4.0,100.0,40.80139890418283,-73.95469149188095,100.0
+16179737,Manhattan,Kips Bay,Apartment,flexible,2,Private room,1.0,1.0,63.82763650662635,40.741263746596,-73.98263076147495,100.0
+4983264,Manhattan,Harlem,Apartment,strict,2,Private room,1.0,1.0,40.0,40.79967314048166,-73.95443803309453,95.0
+6541532,Manhattan,Upper West Side,Apartment,moderate,2,Private room,1.0,2.0,30.0,40.79909354163207,-73.96020175770133,89.0
+27006,Manhattan,Upper West Side,Apartment,strict,4,Entire home/apt,1.5,2.0,120.0,40.77822702232693,-73.97636774433677,91.0
+7858468,Manhattan,Hell's Kitchen,Apartment,strict,1,Private room,1.0,1.0,30.0,40.76424524779189,-73.99162127230095,97.0
+3534443,Manhattan,Lower East Side,Apartment,moderate,3,Entire home/apt,1.0,0.0,50.0,40.71866853226472,-73.9861173290168,95.0
+14944869,Manhattan,East Harlem,Apartment,moderate,2,Entire home/apt,1.0,1.0,50.0,40.78741443062151,-73.95175717718959,90.0
+5433287,Manhattan,East Village,Apartment,flexible,5,Entire home/apt,1.0,2.0,60.0,40.73418213530276,-73.98930069774809,97.0
+14537384,Manhattan,Upper East Side,Apartment,moderate,2,Entire home/apt,1.0,0.0,150.0,40.7666892483593,-73.96887682280752,93.0
+15406819,Manhattan,East Harlem,Apartment,strict,2,Private room,1.0,1.0,15.0,40.795884247423984,-73.93749961396153,98.0
+9115251,Manhattan,Midtown,Apartment,flexible,1,Private room,1.0,1.0,10.0,40.76059957997853,-73.97181113799721,67.0
+13939419,Manhattan,Harlem,Apartment,moderate,2,Private room,1.0,1.0,20.0,40.79914038002711,-73.95159005881088,97.0
+16392936,Manhattan,Morningside Heights,Apartment,flexible,1,Private room,1.0,1.0,63.82763650662635,40.807347265665115,-73.95958271197523,100.0
+6450230,Manhattan,West Village,Apartment,strict,2,Entire home/apt,1.0,1.0,54.0,40.73555756268081,-74.0012992961381,97.0
+4825097,Manhattan,Lower East Side,Apartment,moderate,3,Entire home/apt,1.0,0.0,20.0,40.72324407824284,-73.99224790597965,100.0
+944049,Manhattan,West Village,Apartment,strict,2,Entire home/apt,1.0,1.0,50.0,40.73194090292333,-74.00189499521416,94.0
+815465,Manhattan,Harlem,Apartment,strict,4,Entire home/apt,1.0,0.0,25.0,40.801392772279094,-73.9543254684269,93.0
+7578665,Manhattan,Chelsea,Apartment,strict,2,Entire home/apt,1.0,1.0,100.0,40.742956853315725,-73.99571474876774,98.0
+15705322,Manhattan,Hell's Kitchen,Apartment,strict,5,Entire home/apt,1.0,1.0,85.0,40.764873426970155,-73.99220989165495,92.0
+7257303,Manhattan,Midtown,Apartment,strict,3,Entire home/apt,1.0,1.0,100.0,40.763612306255496,-73.98304279446869,100.0
+5028112,Manhattan,Upper West Side,Apartment,strict,4,Private room,1.0,1.0,50.0,40.79487009330166,-73.96371542669614,60.0
+14788422,Manhattan,Upper East Side,Apartment,moderate,5,Entire home/apt,1.0,1.0,100.0,40.77391282821049,-73.95273763203345,90.0
+14088100,Manhattan,Upper East Side,Apartment,strict,2,Shared room,1.0,1.0,30.0,40.770817168517134,-73.95563260753248,93.0
+14672524,Manhattan,Harlem,Apartment,strict,1,Private room,1.0,1.0,50.0,40.80048159831309,-73.94864354268293,98.0
+9900224,Manhattan,Upper West Side,Apartment,moderate,2,Private room,1.0,1.0,35.0,40.77578106223204,-73.97794057667838,100.0
+14472385,Manhattan,Chelsea,Apartment,moderate,3,Entire home/apt,1.0,1.0,50.0,40.74370390316992,-73.99895899984071,96.0
+14371241,Manhattan,Harlem,Apartment,flexible,2,Private room,1.0,1.0,5.0,40.81853373220811,-73.94719798798833,100.0
+15218579,Manhattan,Midtown,Condominium,strict,4,Entire home/apt,1.0,0.0,100.0,40.753591898735316,-73.97294882325409,98.0
+6590570,Manhattan,Harlem,Apartment,strict,6,Entire home/apt,1.0,1.0,125.0,40.81345982634082,-73.9445754777566,96.0
+1107325,Manhattan,Chelsea,Apartment,flexible,2,Entire home/apt,1.0,0.0,75.0,40.73879975722982,-73.99857980130994,97.0
+8521188,Manhattan,Hell's Kitchen,Apartment,strict,4,Entire home/apt,1.0,1.0,100.0,40.75744028676945,-73.99269495190275,100.0
+18181542,Manhattan,Harlem,Apartment,strict,3,Private room,1.0,1.0,35.0,40.80252527937271,-73.9499802487464,100.0
+11924694,Manhattan,West Village,Apartment,strict,4,Entire home/apt,1.0,2.0,60.0,40.73178059893629,-74.00173085709274,95.0
+8770660,Manhattan,Washington Heights,Apartment,flexible,4,Entire home/apt,1.0,2.0,50.0,40.84478388057511,-73.94131531628541,80.0
+281308,Manhattan,Chelsea,Apartment,strict,2,Entire home/apt,1.0,1.0,80.0,40.74321380602566,-73.99496004107307,97.0
+6848001,Manhattan,Washington Heights,Apartment,moderate,2,Private room,1.0,1.0,25.0,40.83981264917366,-73.94402694581659,93.0
+13742690,Manhattan,Harlem,Apartment,flexible,3,Entire home/apt,1.0,1.0,50.0,40.817088779399405,-73.93743921174624,100.0
+1939106,Manhattan,East Village,Apartment,flexible,2,Entire home/apt,1.0,1.0,50.0,40.72997495335968,-73.98497468435424,96.0
+13298179,Manhattan,East Harlem,Apartment,moderate,1,Private room,1.0,1.0,63.82763650662635,40.79660311110189,-73.94686317015908,90.0
+8334574,Manhattan,East Village,Apartment,moderate,2,Private room,1.0,1.0,50.0,40.72971924493663,-73.98749884309497,98.0
+13884628,Manhattan,Morningside Heights,Apartment,strict,2,Private room,1.0,1.0,25.0,40.810968389974434,-73.96001279879466,100.0
+3874870,Manhattan,East Village,Apartment,strict,4,Entire home/apt,1.0,1.0,100.0,40.729148106826074,-73.98500633151781,95.0
+3421589,Manhattan,SoHo,Apartment,strict,2,Entire home/apt,1.0,0.0,150.0,40.72511363440963,-74.00016476581459,100.0
+6545572,Manhattan,Murray Hill,Apartment,strict,2,Private room,1.0,1.0,50.0,40.74691393903793,-73.98072338035733,90.0
+17928460,Manhattan,Upper West Side,Apartment,strict,2,Private room,1.0,1.0,29.0,40.79338846082288,-73.96691280229057,100.0
+14109586,Manhattan,Upper East Side,Apartment,flexible,3,Entire home/apt,2.0,1.0,50.0,40.77854194634149,-73.94980535907462,80.0
+13058740,Manhattan,Greenwich Village,Apartment,strict,3,Entire home/apt,1.0,1.0,65.0,40.7348808735677,-73.99582665787419,100.0
+8257999,Manhattan,Upper East Side,Apartment,strict,2,Entire home/apt,1.0,0.0,63.82763650662635,40.780855708092304,-73.94974481388249,90.0
+14438244,Manhattan,East Village,Apartment,moderate,2,Entire home/apt,1.0,1.0,50.0,40.72919479160501,-73.978935878214,100.0
+5534747,Manhattan,Upper West Side,Apartment,moderate,2,Entire home/apt,1.0,0.0,80.0,40.793349109235415,-73.97224405116269,88.0
+5499562,Manhattan,Upper West Side,Apartment,strict,2,Entire home/apt,1.0,0.0,35.0,40.785210267609415,-73.97351216422338,98.0
+18161036,Manhattan,Upper East Side,Apartment,flexible,2,Private room,1.0,1.0,63.82763650662635,40.77681125506636,-73.95123103052822,100.0
+2182899,Manhattan,East Village,Apartment,strict,2,Entire home/apt,1.0,1.0,30.0,40.72456077361277,-73.9800448511276,93.0
+16939403,Manhattan,Kips Bay,Apartment,strict,4,Entire home/apt,1.0,1.0,130.0,40.74122361381392,-73.97958094645084,84.0
+16014653,Manhattan,Hell's Kitchen,Apartment,strict,1,Private room,1.0,1.0,63.82763650662635,40.76544243493285,-73.98880150284644,78.0
+7244824,Manhattan,Harlem,Apartment,moderate,2,Private room,1.0,1.0,25.0,40.820284650335324,-73.95381382291248,90.0
+6209147,Manhattan,East Harlem,Apartment,strict,4,Entire home/apt,1.0,1.0,50.0,40.796137749613855,-73.93787316155354,86.0
+9012455,Manhattan,West Village,Apartment,flexible,2,Entire home/apt,1.0,0.0,100.0,40.72969436286103,-74.00417992224979,93.0
+14090957,Manhattan,Upper East Side,Apartment,strict,2,Private room,1.0,1.0,63.82763650662635,40.767391538632396,-73.95225139653634,97.0
+15640345,Manhattan,Upper East Side,Apartment,moderate,4,Entire home/apt,1.0,0.0,75.0,40.76396953436167,-73.9624471560112,91.0
+1335036,Manhattan,Little Italy,Apartment,strict,4,Entire home/apt,1.0,2.0,80.0,40.7183316803323,-73.99825933773025,94.0
+6269945,Manhattan,Upper East Side,Apartment,moderate,1,Private room,1.0,1.0,20.0,40.778671577299576,-73.95121483855672,94.0
+13166495,Manhattan,East Village,Apartment,moderate,4,Entire home/apt,1.0,1.0,80.0,40.72883936006264,-73.98548057758543,97.0
+16999872,Manhattan,Greenwich Village,Apartment,flexible,2,Entire home/apt,1.0,1.0,80.0,40.736439473574855,-73.9949997295664,93.0
+3293528,Manhattan,Harlem,Apartment,moderate,3,Private room,1.0,1.0,10.0,40.82708739774935,-73.94131610568398,86.0
+2563967,Manhattan,East Village,Apartment,moderate,3,Entire home/apt,1.0,2.0,100.0,40.724156047380255,-73.99113606840027,96.0
+11666400,Manhattan,Murray Hill,Apartment,strict,1,Entire home/apt,1.0,0.0,30.0,40.748373589467896,-73.98057674752005,95.0
+12867883,Manhattan,Midtown,Apartment,strict,8,Entire home/apt,1.0,3.0,125.0,40.755188409713995,-73.9674649599941,97.0
+919830,Manhattan,Chelsea,Apartment,moderate,2,Private room,1.0,1.0,63.82763650662635,40.74604725475079,-73.99905515752717,93.0
+9278786,Manhattan,East Village,Apartment,flexible,4,Entire home/apt,1.0,2.0,60.0,40.72403589979722,-73.98838499073602,90.0
+13346091,Manhattan,Harlem,Apartment,moderate,6,Entire home/apt,1.0,2.0,50.0,40.8177096166926,-73.95199954967097,93.0
+17329090,Manhattan,West Village,Apartment,strict,4,Entire home/apt,1.0,1.0,80.0,40.73022707341494,-74.00293576101777,100.0
+1906604,Manhattan,Hell's Kitchen,Apartment,strict,4,Entire home/apt,2.0,2.0,100.0,40.76019167421149,-73.99585721782339,100.0
+9428684,Manhattan,East Village,Apartment,moderate,3,Entire home/apt,1.0,1.0,100.0,40.72998251959999,-73.98295166130201,97.0
+10460113,Manhattan,Harlem,Apartment,strict,2,Private room,1.0,1.0,5.0,40.82020794013228,-73.95307085641822,96.0
+13413622,Manhattan,East Village,Apartment,strict,6,Entire home/apt,1.0,2.0,100.0,40.72288525006392,-73.98639767391658,97.0
+17423307,Manhattan,Upper East Side,Apartment,moderate,2,Shared room,1.0,1.0,40.0,40.771106364631024,-73.94749097134577,76.0
+4163181,Manhattan,East Harlem,Apartment,strict,2,Private room,1.5,1.0,63.82763650662635,40.78714944026693,-73.94348986061546,95.0
+4649331,Manhattan,Washington Heights,Apartment,flexible,2,Entire home/apt,1.0,1.0,50.0,40.85191564649945,-73.93345133016633,60.0
+8568841,Manhattan,Chelsea,Apartment,moderate,2,Entire home/apt,1.0,1.0,100.0,40.7371669537845,-73.99447300640013,100.0
+726630,Manhattan,Lower East Side,Apartment,strict,2,Entire home/apt,1.0,1.0,100.0,40.71990926460392,-73.99302619942577,95.0
+14627817,Manhattan,East Harlem,Apartment,strict,2,Private room,1.0,1.0,63.82763650662635,40.79504811710997,-73.94203515205328,100.0
+2977232,Manhattan,East Harlem,Apartment,strict,2,Private room,1.0,1.0,33.0,40.79285153420157,-73.94482017016313,96.0
+3401271,Manhattan,East Harlem,Apartment,strict,2,Entire home/apt,1.0,1.0,75.0,40.79191021911252,-73.9443302279665,98.0
+16636318,Manhattan,East Village,Apartment,flexible,3,Private room,1.0,1.0,10.0,40.72730074840063,-73.97932430380637,90.0
+17991647,Manhattan,Upper East Side,Apartment,strict,4,Private room,1.0,1.0,25.0,40.78222261541192,-73.9516711066837,100.0
+3998641,Manhattan,Harlem,Apartment,flexible,4,Entire home/apt,1.0,1.0,50.0,40.801284175629604,-73.95555927663811,87.0
+2835711,Manhattan,Greenwich Village,Apartment,flexible,4,Entire home/apt,1.0,2.0,65.0,40.73082995784021,-74.00060308433535,93.0
+6357128,Manhattan,Harlem,Apartment,strict,2,Private room,1.0,1.0,50.0,40.80626991399311,-73.94896319579026,92.0
+5420456,Manhattan,Upper West Side,Apartment,flexible,2,Entire home/apt,1.0,1.0,63.82763650662635,40.7752941917965,-73.9819200163728,100.0
+13562613,Manhattan,Murray Hill,Apartment,strict,3,Entire home/apt,1.0,0.0,20.0,40.74401709671115,-73.97349638661835,100.0
+14834377,Manhattan,East Village,Apartment,flexible,2,Entire home/apt,1.0,1.0,110.0,40.723722834084406,-73.9875034178192,90.0
+15023483,Manhattan,Flatiron District,Apartment,flexible,4,Entire home/apt,2.0,1.0,75.0,40.739367132852365,-73.98945495910195,95.0
+16489445,Manhattan,Chinatown,Apartment,moderate,4,Entire home/apt,1.0,2.0,85.0,40.71558616693087,-73.99702023419545,83.0
+2447138,Manhattan,Tribeca,Apartment,strict,4,Entire home/apt,2.0,2.0,80.0,40.720234412713104,-74.00715388062135,100.0
+1805138,Manhattan,Chelsea,Apartment,strict,2,Entire home/apt,1.0,1.0,60.0,40.74446842337736,-73.99683595906465,93.0
+9593354,Manhattan,Upper West Side,Apartment,moderate,2,Entire home/apt,1.0,0.0,50.0,40.773810218670825,-73.98876962775833,95.0
+14402223,Manhattan,Lower East Side,Apartment,moderate,2,Private room,1.0,1.0,50.0,40.71653540945238,-73.98917344670944,91.0
+450699,Manhattan,East Village,Apartment,strict,1,Private room,2.0,1.0,10.0,40.72335847184182,-73.98375193450536,100.0
+16243923,Manhattan,Midtown,Apartment,strict,1,Shared room,1.0,1.0,100.0,40.75646708209153,-73.96746449121109,100.0
+3334850,Manhattan,Kips Bay,Apartment,strict,4,Entire home/apt,1.0,1.0,50.0,40.73953351015323,-73.98009058097844,100.0
+13095509,Manhattan,East Village,Apartment,strict,4,Entire home/apt,1.0,2.0,100.0,40.73057432708699,-73.9821844453047,78.0
+11529770,Manhattan,Lower East Side,Apartment,strict,2,Private room,1.0,1.0,25.0,40.72203899986643,-73.99050329375328,100.0
+264323,Manhattan,Morningside Heights,Apartment,strict,2,Private room,1.0,1.0,25.0,40.81054808258289,-73.95548545090483,89.0
+16976215,Manhattan,Chelsea,Apartment,flexible,2,Private room,1.0,1.0,63.82763650662635,40.742895775905936,-73.99344498001403,100.0
+9924235,Manhattan,Harlem,Apartment,moderate,4,Entire home/apt,1.0,1.0,55.0,40.80243296703842,-73.95642916397081,100.0
+13334879,Manhattan,Chelsea,Loft,strict,8,Entire home/apt,1.0,1.0,220.0,40.74459451218896,-73.99290577073936,92.0
+12467337,Manhattan,Upper East Side,Apartment,strict,2,Entire home/apt,1.0,1.0,75.0,40.77098057505738,-73.95714544413144,100.0
+14648556,Manhattan,Harlem,Apartment,moderate,2,Private room,1.0,1.0,15.0,40.82662623694358,-73.94623515958159,100.0
+3987858,Manhattan,Harlem,Apartment,moderate,1,Private room,1.0,1.0,20.0,40.824477494263405,-73.95236819773312,97.0
+16052733,Manhattan,Harlem,Apartment,strict,3,Private room,1.0,1.0,45.0,40.82918678744685,-73.94031002548228,100.0
+17122439,Manhattan,East Harlem,Apartment,strict,2,Entire home/apt,1.0,0.0,65.0,40.8082704527085,-73.93812970773409,96.0
+489965,Manhattan,East Harlem,Apartment,moderate,2,Private room,1.0,1.0,50.0,40.793128584733246,-73.93492787234011,95.0
+5103949,Manhattan,Kips Bay,Apartment,strict,8,Entire home/apt,2.0,3.0,120.0,40.74080137650418,-73.9819582222749,76.0
+9760592,Manhattan,West Village,Apartment,strict,2,Entire home/apt,1.0,0.0,79.0,40.73197652110671,-74.0028515711422,97.0
+2464679,Manhattan,East Village,Apartment,moderate,2,Shared room,1.0,1.0,63.82763650662635,40.732372718060375,-73.98917998233627,93.0
+18013489,Manhattan,Financial District,Apartment,flexible,1,Private room,1.0,1.0,50.0,40.70742623075229,-74.00499611235733,100.0
+9525897,Manhattan,West Village,Apartment,moderate,3,Entire home/apt,1.0,1.0,75.0,40.730083894423,-74.00710300537412,96.0
+1781052,Manhattan,Midtown,Apartment,moderate,4,Entire home/apt,1.0,0.0,63.82763650662635,40.76456408133153,-73.98232615868788,100.0
+8191699,Manhattan,Upper East Side,Apartment,flexible,1,Entire home/apt,1.0,0.0,63.82763650662635,40.775692686718656,-73.95202149987476,100.0
+14138632,Manhattan,East Village,Apartment,strict,8,Entire home/apt,2.0,3.0,120.0,40.72317419858085,-73.98738199684254,95.0
+1966735,Manhattan,East Harlem,Apartment,strict,2,Private room,1.0,1.0,50.0,40.796040771607096,-73.94237255504528,86.0
+11511431,Manhattan,Harlem,Apartment,strict,5,Entire home/apt,1.0,2.0,60.0,40.8233420376858,-73.94811392064064,97.0
+741783,Manhattan,West Village,Apartment,strict,7,Entire home/apt,1.0,2.0,100.0,40.734538919210095,-74.00365144386033,87.0
+5926854,Manhattan,NoHo,Apartment,moderate,4,Entire home/apt,1.0,0.0,81.0,40.72950794897145,-73.99202598467211,99.0
+15929281,Manhattan,East Village,Apartment,strict,2,Private room,1.0,1.0,63.82763650662635,40.72467593329475,-73.97830190811119,92.0
+15729325,Manhattan,East Harlem,Apartment,flexible,2,Private room,1.0,1.0,63.82763650662635,40.78857209468704,-73.94952290582636,96.0
+14219489,Manhattan,Hell's Kitchen,Apartment,strict,1,Entire home/apt,1.0,1.0,30.0,40.76694186948532,-73.98631368581269,87.0
+14807078,Manhattan,East Village,Apartment,strict,3,Entire home/apt,1.0,1.0,125.0,40.732007291855176,-73.98638755757939,95.0
+7033271,Manhattan,Washington Heights,Apartment,strict,2,Private room,1.0,1.0,63.82763650662635,40.85008080470654,-73.94277313722365,97.0
+4090748,Manhattan,Upper East Side,Apartment,strict,2,Entire home/apt,1.0,0.0,63.82763650662635,40.769652747635405,-73.96258131905829,91.0
+64551,Manhattan,East Village,Apartment,moderate,4,Entire home/apt,1.0,0.0,63.82763650662635,40.72606683842168,-73.98181694648501,92.0
+1185644,Manhattan,Nolita,Apartment,strict,4,Entire home/apt,1.0,2.0,50.0,40.721820198255855,-73.99448622504131,94.0
+15568740,Manhattan,Upper East Side,Apartment,flexible,3,Private room,1.0,1.0,50.0,40.76730437112349,-73.9604252431286,100.0
+14334031,Manhattan,Washington Heights,Apartment,moderate,6,Private room,1.0,1.0,15.0,40.83734817778915,-73.9435063405829,92.0
+1908852,Manhattan,Upper West Side,Apartment,strict,2,Entire home/apt,1.0,0.0,90.0,40.770602027054785,-73.98919035905425,93.0
+13670185,Manhattan,Upper East Side,Apartment,strict,2,Entire home/apt,1.0,0.0,60.0,40.773159785360434,-73.95326705705406,97.0
+14406807,Manhattan,Harlem,Apartment,strict,4,Entire home/apt,1.0,2.0,140.0,40.81257496312717,-73.94606260288144,100.0
+8504873,Manhattan,East Village,Apartment,strict,2,Private room,1.0,1.0,63.82763650662635,40.7298036895073,-73.97910341087396,95.0
+10903239,Manhattan,SoHo,Apartment,moderate,4,Entire home/apt,1.0,1.0,75.0,40.7229379802517,-73.99693767893889,96.0
+15552127,Manhattan,Lower East Side,Apartment,strict,9,Entire home/apt,1.0,3.0,38.0,40.72130769780204,-73.9918196623904,93.0
+1836863,Manhattan,Kips Bay,Apartment,moderate,3,Entire home/apt,1.0,0.0,63.82763650662635,40.744481693456244,-73.97675378327746,94.0
+13941411,Manhattan,East Harlem,Apartment,moderate,2,Private room,1.0,1.0,20.0,40.78850819920819,-73.94752343008726,97.0
+6743935,Manhattan,West Village,Apartment,flexible,3,Entire home/apt,1.0,0.0,63.82763650662635,40.737416067072274,-74.001705636242,98.0
+17818877,Manhattan,Financial District,Apartment,moderate,2,Private room,2.0,1.0,25.0,40.7109052347814,-74.00464559384746,98.0
+7724865,Manhattan,Kips Bay,Apartment,flexible,4,Entire home/apt,1.0,1.0,60.0,40.73999098413787,-73.98122237047981,92.0
+2000722,Manhattan,Harlem,Apartment,strict,4,Entire home/apt,1.0,1.0,100.0,40.80178752433304,-73.95704545739845,90.0
+17774989,Manhattan,Harlem,Apartment,strict,2,Private room,1.0,1.0,20.0,40.830463304161675,-73.94141897131998,100.0
+9479084,Manhattan,Two Bridges,Apartment,moderate,2,Entire home/apt,1.0,0.0,65.0,40.71183007483932,-73.99685244711301,100.0
+13502609,Manhattan,Harlem,Apartment,flexible,2,Private room,1.0,2.0,25.0,40.812923959425966,-73.94547930093826,93.0
+16725615,Manhattan,Hell's Kitchen,Apartment,strict,1,Private room,1.0,1.0,15.0,40.75860252160747,-73.98973977443292,100.0
+1598785,Manhattan,Midtown,Apartment,strict,2,Entire home/apt,1.0,0.0,63.82763650662635,40.752895534195964,-73.97093635065465,96.0
+4997688,Manhattan,Upper East Side,Apartment,moderate,5,Entire home/apt,1.0,2.0,63.82763650662635,40.772693137224216,-73.95235315273247,100.0
+18227645,Manhattan,East Harlem,Apartment,flexible,2,Private room,1.0,1.0,63.82763650662635,40.78829591702645,-73.95016812099891,80.0
+16416002,Manhattan,Upper West Side,Apartment,strict,2,Entire home/apt,1.0,0.0,40.0,40.78828170460053,-73.96916164334951,94.0
+12071038,Manhattan,East Harlem,Apartment,strict,3,Entire home/apt,1.0,0.0,85.0,40.7878393992665,-73.94998207786692,93.0
+9348145,Manhattan,Hell's Kitchen,Apartment,flexible,2,Entire home/apt,1.0,1.0,35.0,40.76512619391836,-73.99302917326256,100.0
+1704798,Manhattan,Chelsea,Apartment,strict,2,Private room,1.0,1.0,30.0,40.75224229803078,-73.99486953543442,80.0
+5481237,Manhattan,Harlem,Apartment,strict,2,Private room,1.0,1.0,63.82763650662635,40.82514347027424,-73.94518156285709,90.0
+3307936,Manhattan,West Village,Apartment,strict,2,Entire home/apt,1.0,1.0,50.0,40.73992833335217,-74.00618825294468,95.0
+14263618,Manhattan,Lower East Side,Apartment,moderate,2,Private room,1.0,1.0,50.0,40.71504006047019,-73.98975819684979,100.0
+7615147,Manhattan,East Harlem,Apartment,strict,2,Private room,1.0,1.0,60.0,40.79301759682661,-73.94302641244295,40.0
+3585452,Manhattan,Harlem,Apartment,flexible,4,Entire home/apt,1.0,0.0,63.82763650662635,40.808998011219174,-73.94263115300805,96.0
+11324173,Manhattan,Upper West Side,House,strict,4,Entire home/apt,1.0,2.0,160.0,40.77767788571117,-73.9811755234577,89.0
+7916802,Manhattan,Hell's Kitchen,Apartment,moderate,2,Private room,1.0,1.0,63.82763650662635,40.76989810731088,-73.98984821787457,100.0
+17248324,Manhattan,Greenwich Village,Apartment,strict,2,Entire home/apt,1.0,1.0,90.0,40.73012985517062,-73.99312604775996,100.0
+54544,Manhattan,Harlem,Apartment,moderate,4,Entire home/apt,1.0,1.0,50.0,40.81034880946957,-73.9459833997807,93.0
+7613846,Manhattan,Chinatown,Apartment,flexible,2,Private room,1.0,1.0,10.0,40.7144156258932,-73.99895109036295,97.0
+126067,Manhattan,Civic Center,Loft,moderate,2,Private room,1.0,1.0,75.0,40.71291122329614,-74.00586391174225,95.0
+1533652,Manhattan,Upper West Side,Apartment,strict,2,Entire home/apt,1.0,0.0,75.0,40.783573249700396,-73.97268108830998,94.0
+6029987,Manhattan,Washington Heights,Apartment,strict,4,Entire home/apt,1.0,1.0,25.0,40.84304510148872,-73.94045188312346,100.0
+16438673,Manhattan,East Harlem,Apartment,moderate,2,Private room,1.0,1.0,30.0,40.79578823577686,-73.94937228471315,100.0
+3244595,Manhattan,Washington Heights,Apartment,moderate,1,Private room,1.0,1.0,63.82763650662635,40.83712713698582,-73.94067646435704,93.0
+16630410,Manhattan,West Village,Apartment,flexible,3,Entire home/apt,1.0,1.0,63.82763650662635,40.73362723668361,-74.00466554309871,60.0
+3209980,Manhattan,East Village,Apartment,strict,1,Private room,1.0,1.0,20.0,40.72149525600136,-73.97747238277266,94.0
+5655462,Manhattan,Tribeca,Loft,strict,2,Private room,2.0,1.0,40.0,40.71834569758576,-74.0064807210784,90.0
+12449594,Manhattan,East Harlem,Apartment,moderate,2,Entire home/apt,1.0,1.0,63.82763650662635,40.796885078222495,-73.9381004726601,100.0
+10527486,Manhattan,West Village,Apartment,strict,2,Private room,1.0,1.0,85.0,40.73745921674123,-74.00908822971633,96.0
+18123770,Manhattan,Upper West Side,Apartment,strict,2,Private room,1.0,1.0,40.0,40.7781651900057,-73.98716298743426,100.0
+12587017,Manhattan,Upper West Side,Apartment,strict,3,Entire home/apt,1.0,1.0,60.0,40.78433769685129,-73.97866832658843,99.0
+18122800,Brooklyn,Williamsburg,Apartment,moderate,2,Private room,1.0,1.0,63.82763650662635,40.70729737722014,-73.94024374805461,100.0
+16345464,Manhattan,Lower East Side,Apartment,strict,2,Private room,1.0,1.0,75.0,40.72055251169096,-73.99322569911115,93.0
+4825135,Manhattan,East Village,Apartment,moderate,4,Entire home/apt,2.0,2.0,100.0,40.727671760273815,-73.97695796741705,100.0
+13000020,Manhattan,Lower East Side,Apartment,flexible,2,Entire home/apt,1.0,1.0,50.0,40.72049531629735,-73.98314943854432,98.0
+4565962,Manhattan,Harlem,Apartment,moderate,2,Private room,1.0,1.0,25.0,40.83017965556757,-73.94964297118402,100.0
+16867024,Manhattan,Harlem,Apartment,strict,4,Entire home/apt,2.0,2.0,120.0,40.803463376322725,-73.94583414591024,87.0
+3624380,Manhattan,East Harlem,Apartment,strict,2,Private room,1.0,1.0,60.0,40.794201124157524,-73.94135630175819,80.0
+855412,Manhattan,Chelsea,Apartment,strict,2,Private room,1.5,1.0,60.0,40.75141257311584,-73.99563195685963,93.0
+99070,Manhattan,East Harlem,Apartment,moderate,1,Shared room,1.0,1.0,63.82763650662635,40.79406482264889,-73.94102311972405,99.0
+7602426,Manhattan,Upper West Side,Apartment,strict,5,Entire home/apt,1.0,2.0,70.0,40.801933304132156,-73.97037700059914,86.0
+10039883,Manhattan,Morningside Heights,Apartment,flexible,4,Entire home/apt,1.0,1.0,50.0,40.80671760247583,-73.96350617724029,70.0
+9153627,Manhattan,Hell's Kitchen,Apartment,strict,2,Private room,1.0,1.0,30.0,40.76333199020959,-73.98725045233034,100.0
+9563266,Manhattan,Lower East Side,Apartment,strict,5,Entire home/apt,1.0,2.0,70.0,40.71581675277826,-73.98812168572823,96.0
+8065272,Manhattan,West Village,Apartment,flexible,2,Entire home/apt,1.0,0.0,90.0,40.73539835677465,-74.00861320016331,92.0
+5749569,Manhattan,SoHo,Apartment,strict,2,Entire home/apt,1.0,0.0,100.0,40.7258259976121,-74.0021595228289,94.0
+2897471,Manhattan,Two Bridges,Apartment,flexible,2,Private room,1.0,1.0,63.82763650662635,40.71173516101818,-73.99535099583575,89.0
+15345,Manhattan,Harlem,Apartment,strict,2,Private room,1.0,1.0,63.82763650662635,40.80446993403647,-73.95363433129401,93.0
+1365597,Manhattan,Upper West Side,Apartment,strict,2,Private room,1.0,1.0,80.0,40.78008399611353,-73.98416669520383,95.0
+4743216,Manhattan,East Village,Apartment,moderate,2,Entire home/apt,1.5,2.0,25.0,40.72738925146181,-73.97823886569003,94.0
+15633727,Manhattan,East Village,Apartment,flexible,2,Entire home/apt,1.0,1.0,63.82763650662635,40.72952353422652,-73.98388038715935,80.0
+1391683,Manhattan,Washington Heights,Apartment,moderate,4,Private room,1.0,1.0,25.0,40.84690493585817,-73.9452199114692,93.0
+16396543,Manhattan,Nolita,Apartment,moderate,5,Entire home/apt,1.0,2.0,100.0,40.72404887602677,-73.99561822792235,100.0
+6114353,Manhattan,Lower East Side,Apartment,flexible,2,Private room,1.0,1.0,65.0,40.71973698851603,-73.98549024391941,93.0
+8969269,Manhattan,Kips Bay,Apartment,flexible,2,Private room,1.0,1.0,63.82763650662635,40.74410547594871,-73.9802724255198,96.0
+15772883,Manhattan,Hell's Kitchen,Apartment,strict,4,Entire home/apt,1.0,1.0,63.82763650662635,40.76152321393124,-73.98709885097722,99.0
+6573831,Manhattan,Chelsea,Bed & Breakfast,flexible,2,Entire home/apt,1.0,1.0,100.0,40.74322775671775,-73.99475575697326,100.0
+16016634,Manhattan,Harlem,Apartment,flexible,2,Private room,1.0,1.0,30.0,40.80655629362984,-73.956025836587,90.0
+16107664,Manhattan,Chelsea,Apartment,strict,2,Entire home/apt,1.0,0.0,75.0,40.746936479191646,-73.99728300372928,89.0
+12561681,Manhattan,Upper East Side,House,moderate,4,Entire home/apt,1.0,2.0,150.0,40.76532255069378,-73.96150155757188,98.0
+1955844,Manhattan,Chelsea,Apartment,strict,4,Entire home/apt,1.0,1.0,40.0,40.73925271685775,-73.99359066630866,96.0
+9311761,Manhattan,Lower East Side,Apartment,moderate,4,Private room,1.0,1.0,25.0,40.71846230022432,-73.98726952814073,100.0
+13591611,Manhattan,East Village,Apartment,strict,2,Entire home/apt,1.0,0.0,50.0,40.725524429223405,-73.97879448178696,88.0
+7601870,Manhattan,Chelsea,Apartment,strict,3,Entire home/apt,1.0,1.0,75.0,40.75012650792314,-74.00330375093003,96.0
+8311318,Manhattan,Financial District,Apartment,moderate,1,Shared room,1.0,1.0,63.82763650662635,40.706019185550815,-74.00589858190827,100.0
+5607244,Manhattan,East Village,Apartment,moderate,2,Private room,1.0,1.0,30.0,40.72480919422097,-73.97882726231505,68.0
+12345786,Manhattan,East Village,Apartment,moderate,2,Private room,1.0,1.0,30.0,40.7280285118353,-73.9885284770664,85.0
+10249794,Manhattan,Midtown,Apartment,strict,4,Entire home/apt,1.0,1.0,120.0,40.743925502849606,-73.98341278229233,98.0
+15914712,Manhattan,Upper East Side,Apartment,flexible,2,Private room,1.0,1.0,30.0,40.77854749411693,-73.94914099515836,100.0
+1932094,Manhattan,Midtown,Apartment,flexible,2,Private room,1.0,1.0,63.82763650662635,40.7613526471805,-73.97784555075081,98.0
+11585636,Manhattan,Harlem,Apartment,moderate,2,Entire home/apt,1.0,0.0,35.0,40.828220467599,-73.94057722237376,95.0
+18079608,Manhattan,Theater District,Apartment,strict,6,Entire home/apt,2.0,2.0,250.0,40.75655412282117,-73.98865558373245,100.0
+4394307,Manhattan,Harlem,Apartment,strict,4,Private room,1.0,1.0,63.82763650662635,40.823075827642,-73.95340481628429,80.0
+3884893,Manhattan,East Harlem,Apartment,strict,2,Private room,1.0,1.0,25.0,40.798870964126905,-73.94177632770003,93.0
+13220125,Manhattan,Chinatown,Loft,flexible,3,Entire home/apt,1.0,0.0,80.0,40.71759643487013,-74.00287395373205,93.0
+2083749,Manhattan,Upper West Side,Apartment,strict,4,Entire home/apt,1.0,1.0,50.0,40.800331159744495,-73.96509026142219,95.0
+4082635,Manhattan,Chelsea,Apartment,moderate,4,Entire home/apt,1.0,1.0,30.0,40.74272131918456,-73.99794390955346,88.0
+18054022,Manhattan,Chelsea,Apartment,strict,2,Private room,1.0,1.0,63.82763650662635,40.75101623114644,-74.00228144053287,93.0
+4271119,Manhattan,Upper West Side,Apartment,strict,2,Private room,1.0,2.0,45.0,40.768448767123644,-73.98319772798469,94.0
+13687101,Manhattan,Upper East Side,Apartment,flexible,2,Private room,1.0,1.0,5.0,40.766008498602794,-73.95813693824773,67.0
+15390748,Manhattan,Gramercy,Apartment,moderate,3,Entire home/apt,1.0,0.0,75.0,40.73768173483956,-73.98248119728053,97.0
+9550807,Manhattan,Washington Heights,Apartment,flexible,2,Private room,1.0,1.0,30.0,40.840046804714376,-73.93735163325849,80.0
+3930878,Manhattan,East Village,Apartment,flexible,3,Entire home/apt,1.0,1.0,63.82763650662635,40.72508946997228,-73.97898403494786,73.0
+9492750,Manhattan,Harlem,Apartment,strict,4,Entire home/apt,1.0,1.0,54.0,40.8096493693316,-73.94553294469254,96.0
+14028494,Manhattan,Two Bridges,Apartment,flexible,2,Private room,1.0,1.0,63.82763650662635,40.712090449210294,-73.99352701526439,70.0
+14182884,Manhattan,East Harlem,Apartment,moderate,2,Private room,1.0,1.0,25.0,40.79418984037982,-73.94877585980626,100.0
+559336,Manhattan,Lower East Side,Apartment,strict,3,Entire home/apt,1.0,1.0,95.0,40.716121674215714,-73.97954321380745,96.0
+11650735,Manhattan,Morningside Heights,Apartment,strict,2,Entire home/apt,1.0,0.0,63.82763650662635,40.80945106975936,-73.95727479795508,100.0
+18180908,Manhattan,Lower East Side,Apartment,strict,2,Private room,1.0,1.0,19.0,40.71993933038929,-73.98906222794889,100.0
+564184,Manhattan,Chelsea,Apartment,moderate,2,Private room,1.0,1.0,20.0,40.73970521255072,-74.00221343675234,98.0
+353298,Manhattan,Financial District,Apartment,strict,2,Entire home/apt,1.0,1.0,50.0,40.70472164831229,-74.01177441104622,100.0
+4695337,Manhattan,Harlem,Apartment,moderate,1,Private room,1.0,1.0,60.0,40.80404059279008,-73.95754251304014,60.0
+12155351,Manhattan,East Village,Apartment,moderate,2,Private room,1.0,1.0,30.0,40.727719710897155,-73.97978287690816,80.0
+5233279,Manhattan,Upper East Side,Apartment,moderate,4,Entire home/apt,1.0,0.0,25.0,40.769023045894436,-73.95806666764223,100.0
+14747936,Manhattan,Upper East Side,Apartment,flexible,2,Entire home/apt,1.0,1.0,75.0,40.76317432745289,-73.9678652049204,80.0
+17911005,Manhattan,Financial District,Apartment,strict,4,Entire home/apt,1.0,0.0,63.82763650662635,40.70365097226642,-74.00741789496031,100.0
+15470578,Manhattan,Greenwich Village,Apartment,flexible,2,Entire home/apt,1.0,1.0,75.0,40.73186746343391,-73.99566687243855,100.0
+17158946,Manhattan,East Village,Apartment,strict,4,Entire home/apt,1.0,2.0,130.0,40.72348716462877,-73.98681954591451,100.0
+9201694,Manhattan,Upper East Side,Apartment,flexible,2,Shared room,1.0,1.0,63.82763650662635,40.771819880487186,-73.95454955854284,100.0
+2371794,Manhattan,SoHo,House,moderate,2,Private room,1.5,1.0,63.82763650662635,40.72541035590079,-74.0101484726074,95.0
+15311733,Manhattan,Financial District,Apartment,moderate,4,Entire home/apt,1.0,0.0,49.0,40.70651032893022,-74.00656488400628,100.0
+6290244,Manhattan,Washington Heights,Apartment,strict,2,Private room,2.0,1.0,63.82763650662635,40.84853515580083,-73.93675833390927,80.0
+2922453,Manhattan,East Harlem,Apartment,strict,4,Entire home/apt,1.0,2.0,125.0,40.79523087511685,-73.9412471901102,84.0
+11526590,Manhattan,Nolita,Apartment,strict,2,Entire home/apt,1.0,1.0,110.0,40.72189861340543,-73.99668647344558,100.0
+16276329,Manhattan,Midtown,Apartment,strict,6,Entire home/apt,1.0,2.0,63.82763650662635,40.763018861110474,-73.97875239714526,94.0
+14035390,Manhattan,Chinatown,Apartment,strict,6,Entire home/apt,2.0,2.0,100.0,40.71492486059343,-73.99215967808337,92.0
+7366051,Manhattan,East Harlem,Apartment,moderate,2,Private room,1.0,1.0,25.0,40.792897521430056,-73.94124668051133,77.0
+11983777,Manhattan,Kips Bay,Apartment,strict,2,Entire home/apt,1.0,1.0,63.82763650662635,40.74135396487179,-73.97991799723873,93.0
+14708057,Manhattan,East Harlem,Apartment,strict,4,Private room,1.0,1.0,63.82763650662635,40.78905355382607,-73.94232474368431,95.0
+14290760,Manhattan,Hell's Kitchen,Apartment,strict,2,Private room,1.0,1.0,50.0,40.76338249663645,-73.9891138222103,97.0
+5639029,Manhattan,Battery Park City,House,flexible,2,Private room,1.0,1.0,63.82763650662635,40.71054113650805,-74.01735935661884,85.0
+2092611,Manhattan,Upper East Side,Apartment,strict,2,Entire home/apt,1.0,1.0,30.0,40.77519490404036,-73.95688168986311,90.0
+7822344,Manhattan,Midtown,Apartment,moderate,2,Entire home/apt,1.5,1.0,100.0,40.76254150687738,-73.98059484071203,100.0
+13783491,Manhattan,Hell's Kitchen,Apartment,moderate,2,Entire home/apt,1.0,1.0,25.0,40.76367618755536,-73.99507375336637,91.0
+9411082,Manhattan,Hell's Kitchen,Apartment,strict,4,Entire home/apt,1.0,1.0,95.0,40.760006371810924,-73.98779278919787,93.0
+7275881,Manhattan,Harlem,Apartment,strict,3,Entire home/apt,1.0,1.030153495512657,150.0,40.8286142413265,-73.95206342484603,94.0
+15611196,Manhattan,Hell's Kitchen,Apartment,strict,2,Entire home/apt,1.0,0.0,65.0,40.7658756190149,-73.98482307822337,97.0
+6019488,Manhattan,Harlem,Apartment,flexible,2,Private room,1.0,1.0,50.0,40.822790053634364,-73.94460836148785,77.0
+2538248,Manhattan,Harlem,Apartment,strict,4,Entire home/apt,1.0,0.0,69.0,40.81472403133785,-73.94290909882791,88.0
+7731348,Manhattan,Upper West Side,Apartment,flexible,3,Entire home/apt,1.0,1.0,63.82763650662635,40.7943253529698,-73.97333331640263,100.0
+8206870,Manhattan,Lower East Side,Apartment,strict,2,Private room,1.0,1.0,40.0,40.71862546757541,-73.98700617045412,90.0
+13674879,Manhattan,Inwood,Apartment,strict,2,Private room,1.0,1.0,63.82763650662635,40.86512956619673,-73.92556472129621,100.0
+799836,Manhattan,Chelsea,Apartment,moderate,3,Entire home/apt,1.0,1.0,60.0,40.743192363856785,-74.00232511691054,90.0
+14729742,Manhattan,Kips Bay,Apartment,strict,6,Entire home/apt,1.0,2.0,80.0,40.744081779938135,-73.9792842585738,74.0
+12070989,Manhattan,Chelsea,Apartment,moderate,1,Entire home/apt,1.0,1.0,125.0,40.74290839688409,-74.00043388464816,91.0
+11911783,Manhattan,Upper West Side,Apartment,moderate,2,Entire home/apt,1.0,1.0,50.0,40.79466389826352,-73.9717335463286,100.0
+7262279,Manhattan,West Village,Apartment,strict,3,Entire home/apt,1.0,1.0,65.0,40.737507020124326,-74.00053760183472,96.0
+6445371,Manhattan,Hell's Kitchen,Apartment,strict,2,Private room,1.0,1.0,63.82763650662635,40.76153236831177,-73.99280449238171,85.0
+23265,Manhattan,Upper East Side,Apartment,strict,6,Entire home/apt,1.0,1.0,85.0,40.771043961307385,-73.95628544918131,74.0
+14575013,Manhattan,Lower East Side,Apartment,strict,2,Entire home/apt,1.0,0.0,20.0,40.71910708965893,-73.99085597766435,95.0
+3602739,Manhattan,Chinatown,Apartment,strict,2,Private room,1.0,1.0,20.0,40.714447916317255,-73.99286913651656,99.0
+236949,Manhattan,West Village,Apartment,strict,2,Entire home/apt,1.0,1.0,125.0,40.73092994987304,-74.00189554148079,95.0
+5365770,Manhattan,East Village,Apartment,strict,2,Private room,1.0,1.0,30.0,40.72627539334324,-73.98180776998797,92.0
+9234415,Manhattan,Upper East Side,Apartment,strict,2,Private room,1.0,1.0,49.0,40.78498693293373,-73.95007538669313,92.0
+533927,Manhattan,Chelsea,Apartment,strict,2,Entire home/apt,1.0,0.0,100.0,40.74402854091402,-73.99581121296086,93.0
+1637178,Manhattan,Midtown,Apartment,moderate,2,Entire home/apt,1.0,0.0,40.0,40.74989537872685,-73.97236847006535,94.0
+8563025,Manhattan,Hell's Kitchen,Apartment,flexible,2,Shared room,1.0,1.0,25.0,40.76389075170373,-73.99071743264155,95.0
+10452249,Manhattan,SoHo,Apartment,strict,8,Entire home/apt,1.5,3.0,150.0,40.727680430283364,-74.00233229748899,93.0
+9464137,Manhattan,Upper East Side,Apartment,flexible,4,Entire home/apt,1.0,0.0,63.82763650662635,40.77129934896535,-73.95443412661567,97.0
+16207028,Manhattan,West Village,Apartment,strict,2,Entire home/apt,1.0,1.0,100.0,40.73146543287348,-74.0072080439308,100.0
+1654551,Manhattan,West Village,Apartment,moderate,2,Entire home/apt,1.0,1.0,63.82763650662635,40.7311905732809,-74.00614578843573,89.0
+9793465,Manhattan,East Harlem,Apartment,moderate,2,Entire home/apt,1.0,1.0,100.0,40.791969797480135,-73.94710544597336,100.0
+9624825,Manhattan,Upper West Side,Apartment,strict,2,Entire home/apt,1.0,1.0,100.0,40.79920075334214,-73.9708186626105,97.0
+12240714,Manhattan,Washington Heights,Apartment,moderate,2,Private room,1.0,1.0,30.0,40.860957880507975,-73.92515052430947,96.0
+13606449,Manhattan,Hell's Kitchen,Apartment,flexible,2,Private room,1.0,1.0,63.82763650662635,40.763741258502044,-73.98957677102922,80.0
+708374,Manhattan,Upper West Side,Apartment,strict,3,Private room,1.0,1.0,40.0,40.79853733044735,-73.96089358299541,88.0
+13670455,Manhattan,Hell's Kitchen,Apartment,strict,6,Entire home/apt,1.0,2.0,50.0,40.75742074166821,-73.99171075041956,85.0
+8281967,Manhattan,Midtown,Apartment,flexible,2,Entire home/apt,1.0,0.0,30.0,40.75790373181595,-73.96243047210211,100.0
+8206718,Manhattan,Chelsea,Apartment,moderate,2,Entire home/apt,1.0,1.0,80.0,40.739876236343,-73.99948602012631,100.0
+8250925,Manhattan,East Village,Apartment,moderate,2,Private room,1.0,1.0,70.0,40.72064129293434,-73.97758747480566,94.0
+651544,Manhattan,Upper East Side,Apartment,flexible,2,Entire home/apt,1.0,1.0,60.0,40.77715920176293,-73.9495511798865,94.0
+3945796,Manhattan,Kips Bay,Apartment,strict,1,Private room,0.5,1.0,75.0,40.74532774209921,-73.9795556520489,100.0
+12950694,Manhattan,Midtown,Apartment,strict,3,Entire home/apt,1.0,0.0,25.0,40.74239123291926,-73.98383471672815,60.0
+13893861,Manhattan,Inwood,Apartment,moderate,3,Entire home/apt,1.0,1.0,35.0,40.86118491457789,-73.92757848011246,97.0
+1637524,Manhattan,Morningside Heights,Apartment,strict,2,Entire home/apt,1.0,1.0,25.0,40.809218621458,-73.9590711368653,94.0
+3394044,Manhattan,Washington Heights,Apartment,strict,2,Private room,1.0,1.0,30.0,40.83367374640834,-73.94298284940531,87.0
+7148691,Manhattan,Washington Heights,Apartment,flexible,2,Private room,1.0,1.0,63.82763650662635,40.851287268220055,-73.9328182880206,60.0
+5075659,Manhattan,Upper East Side,Apartment,strict,2,Entire home/apt,1.0,0.0,60.0,40.77406912049428,-73.95237934578265,95.0
+7637472,Manhattan,Little Italy,Apartment,strict,2,Private room,1.0,1.0,50.0,40.71959230142781,-73.99604011002626,80.0
+10500406,Manhattan,Upper East Side,Apartment,moderate,2,Private room,1.0,1.0,30.0,40.76574300329913,-73.95914948750746,100.0
+11185729,Manhattan,Lower East Side,Apartment,flexible,2,Entire home/apt,1.0,1.0,39.0,40.72259400175592,-73.99234218251569,88.0
+11496607,Manhattan,Harlem,Apartment,strict,3,Entire home/apt,1.0,1.0,100.0,40.801870164449866,-73.9470521625756,90.0
+17304795,Manhattan,Upper West Side,Apartment,flexible,2,Private room,1.0,1.0,63.82763650662635,40.80238418215485,-73.96502940333325,100.0
+10022348,Manhattan,Upper East Side,Apartment,strict,2,Entire home/apt,1.0,1.0,75.0,40.766479097440055,-73.96188453221751,94.0
+17077760,Manhattan,West Village,Apartment,strict,3,Entire home/apt,1.0,1.0,149.0,40.73983020434258,-74.00507848444705,80.0
+9063139,Manhattan,East Village,Apartment,strict,2,Private room,1.0,1.0,63.82763650662635,40.7251705511501,-73.99022866778425,100.0
+9776245,Manhattan,Midtown,Apartment,strict,10,Entire home/apt,3.0,3.0,200.0,40.74364540049256,-73.9825836399709,94.0
+11372330,Manhattan,Harlem,Apartment,strict,6,Entire home/apt,1.0,1.0,125.0,40.81312304008122,-73.94273277553701,96.0
+4379313,Manhattan,Kips Bay,Apartment,strict,6,Entire home/apt,1.0,2.0,70.0,40.738559485746016,-73.98070726369126,100.0
+12698471,Manhattan,West Village,Apartment,strict,2,Private room,1.0,1.0,40.0,40.737970783831294,-74.00290201628034,91.0
+5279778,Manhattan,Upper West Side,Apartment,moderate,3,Entire home/apt,1.0,1.0,25.0,40.78772985522691,-73.97304732856115,98.0
+13248672,Manhattan,Harlem,Apartment,strict,2,Private room,0.0,1.0,10.0,40.81643321299511,-73.93703937291255,96.0
+846655,Manhattan,Greenwich Village,Apartment,strict,2,Private room,1.0,1.0,20.0,40.72858047511272,-73.99893393259983,94.0
+739930,Manhattan,Greenwich Village,Loft,strict,3,Entire home/apt,1.0,1.0,150.0,40.73007048741817,-73.9962380624812,98.0
+7319791,Manhattan,Lower East Side,Apartment,strict,2,Private room,1.0,1.0,65.0,40.718940345225676,-73.99204841115547,93.0
+352938,Manhattan,East Village,Apartment,strict,1,Private room,1.0,1.0,63.82763650662635,40.7319643684384,-73.99000156945348,88.0
+6478214,Manhattan,Chelsea,Apartment,flexible,2,Entire home/apt,1.0,1.0,50.0,40.73991702159597,-73.9988799594194,97.0
+14762427,Manhattan,Hell's Kitchen,Dorm,strict,2,Private room,1.0,1.0,63.82763650662635,40.75988543441015,-73.99264379008821,94.0
+13393930,Manhattan,Harlem,Apartment,strict,5,Entire home/apt,1.0,2.0,100.0,40.81108592883374,-73.95403493231389,90.0
+16146930,Manhattan,Murray Hill,Apartment,flexible,2,Private room,1.0,1.0,10.0,40.746852003857434,-73.97590725875142,95.0
+4348161,Manhattan,Upper West Side,Apartment,flexible,1,Private room,1.5,1.0,60.0,40.782228265273744,-73.97502573035653,96.0
+12090518,Manhattan,East Village,Apartment,flexible,3,Entire home/apt,1.0,0.0,50.0,40.73345904821222,-73.98783303041962,93.0
+7966943,Manhattan,East Village,Apartment,strict,5,Entire home/apt,1.0,2.0,63.82763650662635,40.72671719079438,-73.97964631483477,94.0
+11223328,Manhattan,Lower East Side,Apartment,moderate,6,Entire home/apt,1.0,2.0,55.0,40.71894202119226,-73.99292825650744,86.0
+607525,Manhattan,Financial District,Apartment,strict,4,Entire home/apt,1.0,1.0,100.0,40.70774332628425,-74.01318701527742,95.0
+15805484,Manhattan,Hell's Kitchen,Apartment,strict,2,Entire home/apt,1.0,0.0,199.0,40.762409877196134,-73.99775892910053,100.0
+11582733,Manhattan,Upper East Side,Apartment,moderate,2,Entire home/apt,1.0,0.0,70.0,40.764457701579325,-73.96186563652186,100.0
+12247826,Manhattan,Chelsea,Apartment,flexible,3,Entire home/apt,1.0,0.0,63.82763650662635,40.746649733475905,-73.99110549593567,100.0
+6452132,Manhattan,Washington Heights,Apartment,moderate,3,Entire home/apt,1.0,2.0,67.0,40.83879976754504,-73.94269526713956,60.0
+4498367,Manhattan,East Village,Apartment,strict,2,Entire home/apt,1.0,1.0,70.0,40.724237591942774,-73.99065938599325,94.0
+169002,Manhattan,Harlem,Apartment,strict,2,Private room,1.0,1.0,10.0,40.82411131974053,-73.9493426499911,97.0
+7359313,Manhattan,Murray Hill,Apartment,flexible,2,Private room,1.0,1.0,63.82763650662635,40.748232784555675,-73.97446639383756,100.0
+7194972,Manhattan,Upper West Side,Apartment,flexible,2,Entire home/apt,1.0,0.0,63.82763650662635,40.78362877489585,-73.97485471134712,98.0
+7501794,Manhattan,Harlem,Apartment,flexible,3,Entire home/apt,1.0,1.0,25.0,40.80510051305322,-73.95068584484656,40.0
+8399637,Manhattan,Upper West Side,Apartment,strict,8,Entire home/apt,2.0,2.0,63.82763650662635,40.79450180003665,-73.97021817548121,90.0
+1824808,Manhattan,Gramercy,Apartment,strict,6,Entire home/apt,1.0,1.0,50.0,40.736792930575206,-73.98176894590996,84.0
+801281,Manhattan,Lower East Side,Apartment,moderate,3,Entire home/apt,1.0,1.0,60.0,40.71956087188748,-73.98574076797242,98.0
+3200713,Manhattan,Upper West Side,Apartment,strict,1,Private room,1.0,1.0,50.0,40.796561645652716,-73.97468562466055,90.0
+16667175,Manhattan,Upper West Side,Apartment,strict,2,Private room,2.0,1.0,20.0,40.79998495149664,-73.96312994413421,95.0
+15299349,Manhattan,Harlem,Apartment,strict,1,Private room,1.0,1.0,85.0,40.81988582261851,-73.9523972999937,80.0
+2471725,Manhattan,Hell's Kitchen,Apartment,strict,2,Private room,1.0,1.0,35.0,40.76268787943521,-73.99069578965529,90.0
+2303955,Manhattan,Lower East Side,Apartment,moderate,2,Private room,1.0,1.0,35.0,40.71467586123938,-73.98713466456786,90.0
+4902967,Manhattan,Lower East Side,Apartment,moderate,2,Private room,1.0,1.0,30.0,40.71297800715146,-73.98856447327869,88.0
+16176888,Manhattan,Upper West Side,Apartment,flexible,2,Entire home/apt,1.0,1.0,75.0,40.797136269118994,-73.96174982570453,80.0
+2194382,Manhattan,Upper West Side,Apartment,strict,4,Entire home/apt,1.5,2.0,120.0,40.78731372753329,-73.97805136122341,100.0
+8811514,Manhattan,West Village,Apartment,moderate,4,Entire home/apt,1.0,0.0,63.82763650662635,40.73523385141642,-74.00607023193405,100.0
+2274268,Manhattan,Hell's Kitchen,Apartment,flexible,1,Private room,1.0,1.0,63.82763650662635,40.760400639642064,-73.99219754468079,94.0
+3721036,Manhattan,East Village,Apartment,strict,2,Private room,2.0,1.0,15.0,40.72914809270002,-73.98299893818236,90.0
+7630422,Manhattan,Upper West Side,Apartment,flexible,4,Entire home/apt,1.0,0.0,50.0,40.78733443911602,-73.9736449832058,97.0
+17774731,Manhattan,East Harlem,Apartment,flexible,2,Entire home/apt,1.0,0.0,63.82763650662635,40.8061724370156,-73.94150220517275,98.0
+2413607,Manhattan,Hell's Kitchen,Apartment,strict,2,Private room,1.0,1.0,63.82763650662635,40.76797491630223,-73.98720776704985,95.0
+11638050,Manhattan,Midtown,Apartment,strict,6,Entire home/apt,1.0,2.0,150.0,40.75907701411753,-73.9722014212376,91.0
+861325,Manhattan,Upper West Side,Apartment,strict,1,Entire home/apt,1.0,1.0,175.0,40.772208995120906,-73.98988504139149,98.0
+981410,Manhattan,West Village,Apartment,strict,2,Entire home/apt,1.0,1.0,50.0,40.73331091408543,-74.00471008458814,100.0
+4502545,Manhattan,Upper East Side,Apartment,strict,4,Entire home/apt,1.0,2.0,63.82763650662635,40.767095540324725,-73.96967865027456,93.0
+9411467,Manhattan,Chelsea,Apartment,strict,4,Entire home/apt,1.0,1.0,95.0,40.746944048542815,-74.00295212995223,96.0
+10622536,Manhattan,Murray Hill,Apartment,flexible,3,Entire home/apt,1.0,1.0,75.0,40.747597635111376,-73.97603009601194,97.0
+14870440,Manhattan,Upper East Side,Apartment,strict,2,Private room,1.0,0.0,15.0,40.77687331670923,-73.94631954484025,97.0
+9048374,Manhattan,Morningside Heights,Apartment,flexible,2,Entire home/apt,1.0,1.0,120.0,40.80689744649975,-73.96596219388661,100.0
+152259,Manhattan,Harlem,Apartment,flexible,1,Private room,1.0,1.0,25.0,40.811557333063405,-73.9457085522135,95.0
+14373756,Brooklyn,Bushwick,Apartment,strict,3,Private room,1.0,1.0,63.82763650662635,40.699034487578274,-73.93021395166791,98.0
+10035098,Manhattan,Upper West Side,Apartment,flexible,3,Entire home/apt,1.0,0.0,30.0,40.77844998450181,-73.9798516586079,80.0
+751818,Manhattan,Gramercy,Apartment,strict,1,Private room,1.0,1.0,63.82763650662635,40.73883923737541,-73.98588032036821,94.0
+12811459,Manhattan,Hell's Kitchen,Apartment,strict,10,Entire home/apt,2.0,4.0,250.0,40.76303259108565,-73.98767459276426,87.0
+16011630,Manhattan,Harlem,Apartment,flexible,1,Shared room,1.0,1.0,63.82763650662635,40.8153765637313,-73.95465920105103,20.0
+6799517,Manhattan,Upper East Side,Apartment,strict,4,Entire home/apt,1.0,1.0,100.0,40.76114722953998,-73.96233832602796,93.0
+10039975,Manhattan,Morningside Heights,Apartment,moderate,3,Entire home/apt,1.0,0.0,60.0,40.806020348954156,-73.96491961594184,98.0
+15713652,Manhattan,Lower East Side,Apartment,strict,2,Private room,1.0,1.0,25.0,40.71846497597736,-73.99452067635664,88.0
+3984741,Manhattan,East Harlem,Apartment,strict,6,Entire home/apt,1.0,1.0,150.0,40.801448310517365,-73.9449239757779,95.0
+17906774,Manhattan,East Village,Apartment,moderate,2,Entire home/apt,1.0,0.0,50.0,40.72892287384998,-73.98722550810214,100.0
+12857265,Manhattan,Harlem,Apartment,moderate,5,Entire home/apt,1.0,1.0,75.0,40.80851520109276,-73.94078061326644,89.0
+18139049,Manhattan,Flatiron District,Apartment,strict,2,Entire home/apt,1.0,0.0,35.0,40.74087671304494,-73.985202855206,100.0
+3343978,Manhattan,Upper West Side,Apartment,flexible,2,Private room,1.0,1.0,50.0,40.78078733316501,-73.9821684590738,94.0
+322982,Manhattan,Gramercy,Apartment,moderate,2,Entire home/apt,1.0,0.0,125.0,40.733080555919706,-73.98159453079207,96.0
+3993388,Manhattan,Hell's Kitchen,Apartment,strict,7,Private room,1.0,1.0,30.0,40.7575803522512,-73.99326886228273,90.0
+5691763,Brooklyn,Clinton Hill,Apartment,flexible,2,Private room,1.0,1.0,63.82763650662635,40.683780894153045,-73.96023501047007,100.0
+17120758,Manhattan,Harlem,Apartment,flexible,1,Private room,1.0,1.0,63.82763650662635,40.80635039758265,-73.95680185165749,100.0
+13464927,Manhattan,Midtown,Apartment,strict,3,Entire home/apt,1.0,0.0,63.82763650662635,40.7483291758384,-73.98490131586463,87.0
+14687244,Manhattan,Theater District,Apartment,strict,4,Entire home/apt,1.0,0.0,30.0,40.763085020519156,-73.98540998329943,97.0
+16275733,Manhattan,Upper East Side,Apartment,moderate,2,Private room,1.0,1.0,30.0,40.76835097806975,-73.95836846202486,100.0
+274062,Manhattan,Harlem,Apartment,strict,2,Private room,1.0,1.0,30.0,40.80284819117958,-73.95166129561683,98.0
+3386696,Manhattan,Hell's Kitchen,Apartment,strict,6,Entire home/apt,1.0,2.0,95.0,40.75928845346144,-73.98967286739109,94.0
+8813854,Manhattan,Hell's Kitchen,Apartment,strict,5,Entire home/apt,1.0,1.0,85.0,40.7645527517048,-73.99297091733095,90.0
+6932921,Manhattan,Harlem,Apartment,flexible,2,Entire home/apt,1.0,1.0,63.82763650662635,40.816909411731096,-73.93910778516101,96.0
+4900034,Manhattan,Chinatown,Apartment,flexible,2,Private room,1.0,1.0,63.82763650662635,40.7157915448981,-73.9925349347783,100.0
+15043427,Manhattan,Washington Heights,Apartment,flexible,2,Private room,1.0,1.0,10.0,40.83686511012068,-73.94377902812779,100.0
+9613532,Manhattan,Upper East Side,Apartment,strict,4,Entire home/apt,1.0,0.0,25.0,40.77459964889557,-73.94951603617366,89.0
+4048043,Manhattan,SoHo,Apartment,moderate,2,Private room,1.0,1.0,70.0,40.719719336911844,-73.99986441086286,91.0
+12954177,Manhattan,West Village,Apartment,strict,3,Entire home/apt,1.0,1.0,100.0,40.73669560951002,-74.00325510753258,99.0
+12758216,Manhattan,Upper West Side,Apartment,strict,2,Entire home/apt,1.0,0.0,20.0,40.78491469286756,-73.9744745282659,85.0
+10574818,Manhattan,Harlem,Apartment,flexible,1,Private room,1.0,1.0,5.0,40.824999450924665,-73.95226220605726,96.0
+2145599,Manhattan,Hell's Kitchen,Apartment,moderate,2,Private room,1.0,1.0,50.0,40.7619714349,-73.9930782683107,92.0
+16172498,Manhattan,Harlem,Apartment,flexible,2,Private room,2.0,1.0,15.0,40.83068803247959,-73.94779394673691,100.0
+9832827,Manhattan,East Harlem,Apartment,strict,3,Entire home/apt,1.0,1.0,50.0,40.784417328886015,-73.94722285240903,85.0
+4606204,Manhattan,Upper West Side,Apartment,strict,2,Entire home/apt,1.0,1.0,145.0,40.78689135202478,-73.97278508614856,93.0
+9073987,Manhattan,East Village,Apartment,strict,3,Entire home/apt,1.0,1.0,110.0,40.72877868704602,-73.9866170221377,93.0
+7696314,Manhattan,Hell's Kitchen,Apartment,flexible,1,Private room,1.0,1.0,30.0,40.75946312363295,-73.99082669817219,92.0
+17785709,Manhattan,East Village,Apartment,moderate,2,Private room,1.0,1.0,25.0,40.726076001595956,-73.98317750532519,80.0
+11375631,Manhattan,Upper East Side,Apartment,moderate,2,Entire home/apt,1.0,1.0,80.0,40.769497562007366,-73.95320087393084,100.0
+6222491,Manhattan,East Village,Apartment,strict,2,Private room,1.0,1.0,63.82763650662635,40.726670603626424,-73.98739152331608,90.0
+17404164,Manhattan,Upper East Side,Apartment,strict,2,Entire home/apt,1.0,0.0,63.82763650662635,40.76683599266779,-73.96202634030936,100.0
+15981246,Manhattan,Upper East Side,Apartment,strict,4,Entire home/apt,2.0,2.0,100.0,40.75903417091411,-73.9579343313038,100.0
+5590718,Manhattan,Harlem,Apartment,strict,2,Private room,1.0,1.0,63.82763650662635,40.81661198673969,-73.93725801952087,97.0
+15983858,Manhattan,Hell's Kitchen,Apartment,strict,4,Private room,1.0,1.0,50.0,40.76406929484057,-73.98480127004689,95.0
+16478274,Manhattan,Midtown,Apartment,flexible,1,Shared room,1.0,1.0,63.82763650662635,40.74931934537359,-73.9872477651096,100.0
+10512812,Manhattan,Upper East Side,Apartment,flexible,1,Private room,1.0,1.0,15.0,40.76277757565916,-73.96637654490902,99.0
+4343011,Manhattan,Upper East Side,Apartment,strict,4,Private room,1.0,1.0,58.0,40.76809659892032,-73.96018224573447,80.0
+8615045,Manhattan,Harlem,Apartment,strict,2,Private room,2.0,1.0,63.82763650662635,40.814219240397634,-73.94689260029091,100.0
+2046789,Manhattan,Kips Bay,Apartment,strict,6,Entire home/apt,1.0,2.0,100.0,40.73986839641947,-73.98316591540616,94.0
+11814079,Manhattan,Harlem,Apartment,strict,3,Entire home/apt,1.0,2.0,55.0,40.81118162871906,-73.9431331887502,98.0
+10588692,Manhattan,Lower East Side,Apartment,moderate,3,Entire home/apt,1.0,1.0,70.0,40.71802977350379,-73.98579554611263,100.0
+16036332,Manhattan,Theater District,Apartment,strict,2,Private room,1.0,1.0,40.0,40.759611331603175,-73.98729148821964,93.0
+6966329,Manhattan,Lower East Side,Apartment,flexible,2,Private room,1.0,1.0,20.0,40.71799571768156,-73.99327050347118,87.0
+13216565,Manhattan,Morningside Heights,Apartment,strict,4,Entire home/apt,1.0,1.0,80.0,40.80499276032047,-73.96375575594503,93.0
+14472100,Manhattan,Kips Bay,Townhouse,strict,12,Entire home/apt,3.5,5.0,200.0,40.74299451851504,-73.98067139243454,66.0
+14818234,Manhattan,Gramercy,Apartment,flexible,4,Entire home/apt,1.0,3.0,63.82763650662635,40.73814883843395,-73.9844287579414,87.0
+14219316,Manhattan,Upper East Side,Apartment,strict,3,Entire home/apt,1.0,1.0,70.0,40.77733030892927,-73.9542565567141,96.0
+2254388,Manhattan,Upper East Side,Apartment,flexible,3,Entire home/apt,1.0,1.0,63.82763650662635,40.78020687283284,-73.95044217590612,92.0
+4775614,Manhattan,Upper West Side,Apartment,strict,3,Entire home/apt,1.0,0.0,90.0,40.784303864402354,-73.97125519854602,99.0
+8487784,Manhattan,Kips Bay,Apartment,strict,3,Private room,1.0,1.0,100.0,40.74255339912785,-73.97401226766166,99.0
+9393127,Manhattan,East Village,Apartment,strict,4,Entire home/apt,1.0,1.0,60.0,40.72161014405265,-73.98012717134705,99.0
+12884380,Manhattan,SoHo,Apartment,strict,10,Entire home/apt,2.0,3.0,200.0,40.72369332509161,-74.00060273188707,83.0
+4794322,Manhattan,Upper East Side,Apartment,strict,2,Entire home/apt,1.0,1.0,100.0,40.773776438367584,-73.95684484120335,87.0
+4439708,Manhattan,Nolita,Apartment,strict,2,Private room,2.0,1.0,25.0,40.72323433140985,-73.99588330039217,91.0
+7036862,Manhattan,Lower East Side,Apartment,moderate,5,Entire home/apt,1.0,1.0,100.0,40.722577085021655,-73.99260752278249,96.0
+9218051,Manhattan,East Village,Apartment,flexible,2,Private room,1.0,1.0,10.0,40.72646796405763,-73.98378825589154,80.0
+9979707,Manhattan,Upper West Side,Apartment,strict,1,Private room,1.0,1.0,50.0,40.77207816048564,-73.98906549009807,100.0
+9778049,Manhattan,Upper West Side,Apartment,strict,2,Entire home/apt,1.0,0.0,50.0,40.78817874090561,-73.96927923978433,89.0
+14235245,Manhattan,East Harlem,Apartment,flexible,2,Entire home/apt,1.0,0.0,30.0,40.79067946236334,-73.94944428480152,98.0
+4931807,Manhattan,East Harlem,Apartment,moderate,2,Entire home/apt,1.0,1.0,65.0,40.79716838105948,-73.93297656487677,90.0
+15939734,Manhattan,Lower East Side,Apartment,strict,3,Private room,1.5,1.0,30.0,40.71794019770682,-73.98188963648573,100.0
+10836805,Manhattan,Harlem,Bed & Breakfast,flexible,1,Private room,1.0,1.0,20.0,40.81195039113936,-73.9527433406045,90.0
+10613267,Manhattan,Chelsea,Apartment,flexible,4,Entire home/apt,1.0,2.0,30.0,40.7415459241242,-74.00560151245679,100.0
+8613361,Manhattan,Chelsea,Loft,strict,2,Entire home/apt,1.0,0.0,60.0,40.74617539297229,-73.99128899095345,100.0
+16015217,Manhattan,Upper East Side,Apartment,strict,3,Entire home/apt,1.0,1.0,80.0,40.76998531517724,-73.96650830356245,80.0
+4273931,Manhattan,Upper East Side,Apartment,strict,4,Entire home/apt,1.0,2.0,125.0,40.76750875188264,-73.96309342620276,96.0
+677162,Manhattan,Morningside Heights,Apartment,moderate,1,Private room,1.0610299049112937,1.0,63.82763650662635,40.80679572220264,-73.96773028460905,98.0
+2671926,Manhattan,Upper West Side,Apartment,strict,2,Private room,1.0,1.0,55.0,40.795985138515185,-73.96189301203636,95.0
+3339205,Manhattan,Chelsea,Apartment,flexible,4,Entire home/apt,1.0,1.0,63.82763650662635,40.742585233403396,-74.0012766946605,89.0
+13561752,Manhattan,East Village,Apartment,strict,8,Entire home/apt,2.0,2.0,150.0,40.73063732335368,-73.98607625862856,94.0
+16395047,Manhattan,Harlem,Apartment,strict,2,Private room,1.0,1.0,10.0,40.828417879114646,-73.944913874531,90.0
+4512045,Manhattan,Upper West Side,Apartment,strict,2,Entire home/apt,1.0,0.0,80.0,40.78294038168994,-73.98473942978117,92.0
+1211820,Manhattan,Upper East Side,Apartment,moderate,4,Entire home/apt,1.0610299049112937,2.0,150.0,40.776601004153534,-73.95269270427644,95.0
+2102571,Manhattan,Midtown,Apartment,strict,2,Entire home/apt,1.0,0.0,75.0,40.75425941600653,-73.96885730294336,90.0
+11216918,Manhattan,West Village,Apartment,flexible,4,Entire home/apt,1.0,1.0,63.82763650662635,40.73385532511479,-74.00459851131448,90.0
+9457285,Manhattan,Upper East Side,Apartment,strict,2,Entire home/apt,1.0,0.0,110.0,40.76891595545699,-73.96845251970123,97.0
+3273170,Manhattan,Washington Heights,Apartment,strict,2,Entire home/apt,1.0,1.0,30.0,40.84821965441293,-73.93344424289769,86.0
+10415505,Manhattan,East Village,Apartment,moderate,1,Private room,1.0,1.0,63.82763650662635,40.7228211362163,-73.98311980048821,87.0
+2290645,Manhattan,Midtown,Apartment,moderate,6,Entire home/apt,1.0,2.0,120.0,40.76156714910364,-73.96770471616023,95.0
+2372629,Manhattan,Washington Heights,Apartment,moderate,2,Shared room,1.0,1.0,63.82763650662635,40.831435421646546,-73.94113441059514,100.0
+16677170,Manhattan,Chelsea,Apartment,moderate,3,Entire home/apt,1.0,0.0,90.0,40.745033236417065,-73.99922237964164,100.0
+2611649,Manhattan,Chelsea,Apartment,moderate,3,Entire home/apt,1.0,1.0,100.0,40.741357146101656,-74.00037965761082,90.0
+15563416,Manhattan,East Village,Apartment,strict,2,Entire home/apt,1.0,1.0,50.0,40.722747061869434,-73.97597784355303,100.0
+4701425,Manhattan,East Village,Apartment,moderate,2,Private room,1.0,1.0,63.82763650662635,40.72119494568664,-73.98020771112527,90.0
+778903,Manhattan,Chelsea,Apartment,moderate,2,Entire home/apt,1.0,1.0,150.0,40.741905838422106,-74.00339346396186,93.0
+17269704,Manhattan,Midtown,Apartment,strict,4,Entire home/apt,1.0,1.0,15.0,40.7466754778446,-73.98773703883407,95.0
+13743929,Manhattan,Chelsea,Apartment,strict,4,Entire home/apt,1.0,2.0,100.0,40.73719282977709,-73.99379144688909,89.0
+9944018,Manhattan,Gramercy,Apartment,moderate,3,Entire home/apt,1.0,2.0,75.0,40.73687323774064,-73.98485713676403,96.0
+15842028,Manhattan,Upper East Side,Apartment,flexible,3,Entire home/apt,1.0,1.0,50.0,40.78253307362056,-73.95869861015882,100.0
+281851,Manhattan,Harlem,House,moderate,2,Private room,1.0,1.0,63.82763650662635,40.806712670814456,-73.95081671371307,99.0
+3571021,Manhattan,Upper West Side,Apartment,flexible,2,Private room,1.0,1.0,50.0,40.77020488279907,-73.98729534503337,77.0
+12652765,Manhattan,Midtown,Apartment,flexible,2,Entire home/apt,1.0,0.0,63.82763650662635,40.750399050080816,-73.98775384051734,100.0
+3821364,Manhattan,Upper East Side,Apartment,flexible,6,Entire home/apt,1.0,1.0,100.0,40.77448063441828,-73.94807551000561,93.0
+7837952,Manhattan,Flatiron District,Apartment,strict,3,Entire home/apt,1.0,0.0,100.0,40.73946521183951,-73.9859310490235,97.0
+16188947,Manhattan,Upper West Side,Apartment,strict,2,Entire home/apt,1.0,0.0,50.0,40.778150253932985,-73.98398811567108,100.0
+3741945,Manhattan,Upper East Side,Apartment,strict,2,Private room,2.0,1.0,30.0,40.77706914853985,-73.95651831614316,91.0
+4428140,Manhattan,East Village,Apartment,flexible,2,Entire home/apt,1.0,1.0,60.0,40.72414965907982,-73.98704855570102,94.0
+13031939,Manhattan,Hell's Kitchen,Apartment,strict,6,Entire home/apt,1.0,3.0,100.0,40.76172442258465,-73.98948059026034,87.0
+16253465,Manhattan,Chelsea,Apartment,moderate,2,Entire home/apt,1.0,0.0,63.82763650662635,40.74138018292553,-73.99875285446245,93.0
+11438561,Manhattan,Nolita,Apartment,flexible,3,Entire home/apt,1.0,1.0,75.0,40.724112286329984,-73.99517149511193,86.0
+12004547,Manhattan,Upper West Side,Apartment,moderate,3,Entire home/apt,1.0,0.0,80.0,40.78466374593351,-73.97276481199613,99.0
+4860430,Manhattan,Upper West Side,Apartment,moderate,1,Private room,1.0,1.0,63.82763650662635,40.78865984708239,-73.9690839897356,95.0
+16652950,Manhattan,Hell's Kitchen,Apartment,strict,2,Private room,1.0,3.0,63.82763650662635,40.76471301035941,-73.9915166415588,84.0
+13863999,Manhattan,East Village,Apartment,moderate,2,Private room,1.0,1.0,15.0,40.72482797895852,-73.9868170555496,92.0
+1180473,Manhattan,Chelsea,Apartment,strict,2,Entire home/apt,1.0,1.0,120.0,40.74255822342681,-74.0030435966376,93.0
+7731215,Manhattan,Hell's Kitchen,Apartment,strict,2,Entire home/apt,1.0,0.0,30.0,40.762919296268116,-73.99550638508515,88.0
+7054824,Manhattan,West Village,Apartment,strict,4,Entire home/apt,1.0,1.0,100.0,40.7348870333429,-74.00181651116101,93.0
+798128,Manhattan,Upper East Side,Apartment,flexible,3,Entire home/apt,1.0,1.0,100.0,40.77482967883135,-73.946735766548,100.0
+11176819,Manhattan,Hell's Kitchen,Apartment,flexible,2,Private room,1.0,1.0,40.0,40.759245121668854,-73.9942663342302,99.0
+9792836,Manhattan,Midtown,Apartment,moderate,2,Private room,1.0,1.0,65.0,40.765177897325465,-73.98123615791356,100.0
+16299079,Manhattan,Upper East Side,Apartment,moderate,2,Shared room,1.0,1.0,40.0,40.7798403661966,-73.94929028147574,100.0
+450393,Manhattan,Flatiron District,Apartment,strict,6,Entire home/apt,1.5,2.0,150.0,40.74153299055511,-73.9923305833395,89.0
+16014133,Manhattan,Upper East Side,Apartment,strict,3,Entire home/apt,1.0,1.0,80.0,40.776372712755375,-73.94939119649744,100.0
+10013027,Manhattan,West Village,Apartment,strict,3,Entire home/apt,1.0,1.0,115.0,40.732244543925574,-74.00056493580261,83.0
+16331412,Manhattan,Washington Heights,Apartment,moderate,2,Private room,1.0,1.0,10.0,40.840424667167255,-73.94336593662857,100.0
+3052227,Manhattan,Greenwich Village,Apartment,strict,3,Entire home/apt,1.0,1.0,30.0,40.729078240435854,-74.00111095925094,80.0
+1036734,Manhattan,Upper East Side,Apartment,strict,2,Entire home/apt,1.0,1.0,70.0,40.7705441235797,-73.95496647584383,94.0
+15815905,Manhattan,Lower East Side,Apartment,moderate,2,Entire home/apt,1.0,1.0,100.0,40.712484448229844,-73.98662168375111,90.0
+8167266,Manhattan,Nolita,Apartment,moderate,2,Entire home/apt,1.0,1.0,170.0,40.72161529855707,-73.99454032985986,97.0
+4098302,Manhattan,Hell's Kitchen,Apartment,strict,6,Entire home/apt,1.0,2.0,75.0,40.75817636069691,-73.99172614644883,74.0
+16872793,Manhattan,Harlem,Apartment,strict,3,Private room,1.0,1.0,63.82763650662635,40.82099123835193,-73.95218502359258,88.0
+16079924,Manhattan,Nolita,Apartment,moderate,3,Private room,1.0,1.0,63.82763650662635,40.72245486431561,-73.99648228070677,86.0
+4822324,Manhattan,Upper East Side,Apartment,flexible,2,Entire home/apt,1.0,1.0,75.0,40.76171789940446,-73.96073740453849,100.0
+4152752,Manhattan,Hell's Kitchen,Apartment,strict,2,Private room,1.0,1.0,30.0,40.76444403535851,-73.98964724399595,95.0
+6269027,Manhattan,Harlem,Apartment,strict,2,Entire home/apt,1.0,1.0,100.0,40.82266580679701,-73.94119387803437,80.0
+15437430,Manhattan,Upper West Side,Apartment,moderate,2,Entire home/apt,1.0,1.0,35.0,40.77976608818194,-73.97696336899159,97.0
+7781847,Manhattan,Harlem,Apartment,strict,16,Entire home/apt,2.0,4.0,150.0,40.82579550572357,-73.94521221171597,87.0
+10831241,Manhattan,Lower East Side,Apartment,strict,4,Entire home/apt,1.0,1.0,150.0,40.7232822250443,-73.99036949136907,93.0
+1164101,Manhattan,West Village,Apartment,strict,1,Private room,1.0,2.0,35.0,40.73803552512243,-74.00416060741509,95.0
+16053606,Manhattan,Upper West Side,Apartment,strict,1,Private room,1.0,1.0,50.0,40.77815170481865,-73.97573779304886,90.0
+7177958,Manhattan,Morningside Heights,Apartment,flexible,2,Entire home/apt,1.0,1.0,100.0,40.8044129185553,-73.96409294466332,97.0
+4214733,Manhattan,Greenwich Village,Apartment,strict,2,Entire home/apt,1.0,0.0,63.82763650662635,40.733903489162095,-73.99644266691993,93.0
+14351490,Manhattan,Upper West Side,Apartment,strict,6,Entire home/apt,1.5,2.0,150.0,40.77721607840286,-73.9842259978862,96.0
+16202302,Manhattan,Chinatown,Apartment,strict,2,Private room,1.0,1.0,20.0,40.71521251957464,-73.99169061613333,96.0
+14305404,Manhattan,Greenwich Village,Apartment,moderate,2,Private room,1.0,1.0,63.82763650662635,40.728912288450154,-74.00161126619275,93.0
+11117439,Manhattan,East Harlem,Apartment,moderate,2,Entire home/apt,1.0,0.0,25.0,40.7901371163306,-73.94698425570897,97.0
+3198824,Manhattan,Upper West Side,Apartment,strict,4,Entire home/apt,1.5,2.0,80.0,40.7973886281999,-73.96945491526711,92.0
+8860225,Manhattan,Harlem,Apartment,moderate,2,Entire home/apt,1.0,1.0,50.0,40.80156046123332,-73.9568499613803,100.0
+16722202,Manhattan,Morningside Heights,Apartment,moderate,2,Private room,1.0,1.0,30.0,40.815430245366244,-73.95938077933188,92.0
+10843988,Manhattan,East Harlem,Apartment,strict,8,Entire home/apt,1.0,2.0,100.0,40.798457973098344,-73.94212330220081,89.0
+13879403,Manhattan,Washington Heights,Apartment,strict,2,Entire home/apt,1.0,0.0,20.0,40.85681233806425,-73.92936067062485,90.0
+11791904,Manhattan,Harlem,Apartment,flexible,3,Entire home/apt,1.0,1.0,20.0,40.815539924047286,-73.94614489776578,92.0
+3548133,Manhattan,Midtown,Apartment,moderate,2,Entire home/apt,1.0,1.0,80.0,40.76485453270565,-73.97799093777104,92.0
+9445225,Manhattan,Gramercy,Apartment,flexible,1,Private room,1.0,1.0,155.0,40.736910525297226,-73.98751431935239,93.0
+5136833,Manhattan,Upper West Side,Apartment,strict,2,Private room,1.0,1.0,50.0,40.796779069063184,-73.96545402275213,83.0
+8427772,Manhattan,Harlem,Apartment,strict,2,Private room,1.5,1.0,50.0,40.80219627786139,-73.95737189519032,90.0
+4746171,Manhattan,East Village,Apartment,moderate,4,Entire home/apt,1.0,2.0,20.0,40.72648789472819,-73.98283817396616,92.0
+8438775,Manhattan,Upper West Side,Apartment,moderate,2,Private room,1.0,1.0,50.0,40.776970787114614,-73.97698413146733,95.0
+8012976,Manhattan,Financial District,Apartment,flexible,2,Private room,2.0,1.0,25.0,40.707258919329156,-74.00593289634395,96.0
+6684355,Manhattan,Harlem,Townhouse,moderate,4,Entire home/apt,1.0,1.0,25.0,40.803399921405614,-73.95000632326392,90.0
+14373121,Manhattan,Hell's Kitchen,Apartment,strict,2,Entire home/apt,1.0,1.0,100.0,40.76377427839609,-73.98734056162809,100.0
+5805319,Manhattan,Lower East Side,Apartment,flexible,4,Entire home/apt,1.0,2.0,63.82763650662635,40.71366999350477,-73.98524006335171,96.0
+13246804,Manhattan,Midtown,Apartment,moderate,1,Private room,1.0,1.0,63.82763650662635,40.76026219201682,-73.96590292371441,98.0
+7852,Manhattan,SoHo,Apartment,strict,3,Entire home/apt,1.0,1.0,137.0,40.72705134421349,-74.00238571733102,90.0
+16994210,Manhattan,Midtown,House,moderate,3,Entire home/apt,1.0,1.0,64.0,40.75326358722221,-73.97994597067637,83.0
+10101765,Manhattan,Midtown,Bed & Breakfast,moderate,1,Private room,1.0,1.0,25.0,40.76030952154317,-73.96664836515207,81.0
+4469650,Manhattan,Harlem,House,strict,13,Entire home/apt,2.5,5.0,63.82763650662635,40.80520505526643,-73.94518514876454,97.0
+15917264,Manhattan,East Village,Apartment,flexible,1,Private room,1.0,1.0,25.0,40.72775055726326,-73.97834502622784,100.0
+16603017,Manhattan,Washington Heights,Apartment,moderate,2,Private room,1.0,1.0,20.0,40.856802249385325,-73.93162246175035,100.0
+4074892,Manhattan,Hell's Kitchen,Apartment,strict,1,Private room,2.0,1.0,50.0,40.75734613180412,-73.99603471558265,100.0
+17152974,Manhattan,West Village,Apartment,strict,2,Entire home/apt,1.0,1.0,110.0,40.73471353838099,-74.00787404257524,100.0
+2022729,Manhattan,East Village,Apartment,strict,3,Entire home/apt,1.0,1.0,100.0,40.7234048610494,-73.98240265596097,90.0
+6678707,Manhattan,West Village,Apartment,flexible,3,Entire home/apt,1.0,1.0,60.0,40.73640079781506,-74.0064701074604,89.0
+15360319,Manhattan,Hell's Kitchen,Apartment,strict,4,Private room,1.0,1.0,50.0,40.76649722239095,-73.9888999746466,91.0
+16002937,Manhattan,East Harlem,Apartment,strict,4,Entire home/apt,1.0,2.0,63.82763650662635,40.7941182238306,-73.93387881122975,100.0
+15360665,Manhattan,Chelsea,Apartment,moderate,1,Private room,1.0,1.0,19.0,40.74065176477534,-74.00177849884803,95.0
+4574225,Manhattan,East Harlem,Apartment,strict,1,Private room,1.0,1.0,125.0,40.78616805722561,-73.94420628725403,80.0
+9409367,Manhattan,Murray Hill,Apartment,strict,9,Entire home/apt,1.0,4.0,150.0,40.745285755751354,-73.97676263496524,80.0
+2018929,Manhattan,Harlem,Apartment,moderate,2,Private room,1.0,1.0,50.0,40.800332715921456,-73.95541530610066,100.0
+6188014,Manhattan,Upper West Side,Apartment,strict,2,Entire home/apt,1.0,1.0,75.0,40.77900906432958,-73.97596234265059,95.0
+7679691,Manhattan,Lower East Side,Apartment,flexible,2,Private room,1.0,1.0,63.82763650662635,40.72014392001597,-73.98498326703957,100.0
+4624652,Manhattan,Nolita,Loft,strict,1,Private room,1.0,1.0,25.0,40.72247431232565,-73.99334926539021,100.0
+5406041,Manhattan,East Village,Apartment,flexible,2,Private room,2.0,1.0,63.82763650662635,40.72755396824211,-73.97875886365557,97.0
+11547246,Manhattan,Lower East Side,Apartment,flexible,2,Private room,1.5,1.0,25.0,40.719310263585776,-73.98392776023056,100.0
+13389829,Manhattan,East Harlem,Apartment,strict,4,Private room,1.0,1.0,10.0,40.79905609064469,-73.94272955564135,73.0
+13829163,Manhattan,Upper West Side,Apartment,flexible,1,Private room,1.0,1.0,20.0,40.79493418971111,-73.97482415902236,100.0
+5178,Manhattan,Hell's Kitchen,Apartment,strict,2,Private room,1.0,1.0,15.0,40.764887103014225,-73.98492985277312,83.0
+888905,Manhattan,East Harlem,Apartment,moderate,2,Private room,1.0,1.0,30.0,40.789325558594435,-73.94932404055628,93.0
+2701991,Manhattan,Harlem,Apartment,moderate,5,Entire home/apt,1.0,2.0,25.0,40.81054143923043,-73.94458790813778,90.0
+7806682,Manhattan,Harlem,Apartment,moderate,3,Private room,1.0,1.0,15.0,40.82554455794579,-73.95355546162794,97.0
+15124924,Manhattan,Chinatown,Apartment,strict,3,Entire home/apt,1.0,1.0,100.0,40.71753656109843,-74.0004838061427,93.0
+4764474,Manhattan,Midtown,Apartment,flexible,4,Entire home/apt,1.0,1.0,75.0,40.76473375335985,-73.97905194049011,100.0
+18033544,Manhattan,Lower East Side,Apartment,moderate,3,Private room,1.0,1.0,15.0,40.71444792269435,-73.98516982917606,90.0
+13511196,Manhattan,SoHo,Apartment,moderate,4,Entire home/apt,1.0,1.0,39.0,40.72414699539394,-74.00215737290719,95.0
+15131184,Manhattan,Chelsea,Apartment,strict,4,Entire home/apt,1.0,1.0,70.0,40.74223792247337,-74.00078002719017,91.0
+7899569,Manhattan,Upper West Side,Apartment,moderate,2,Shared room,1.0,1.0,20.0,40.79193711905229,-73.96720647800316,95.0
+7611972,Manhattan,Financial District,Apartment,flexible,1,Private room,1.0,1.0,63.82763650662635,40.70653000444046,-74.00431256008376,100.0
+15806549,Manhattan,Hell's Kitchen,Apartment,strict,2,Private room,1.0,1.0,63.82763650662635,40.76264942626103,-73.99365414603018,76.0
+64361,Manhattan,East Village,Apartment,strict,3,Entire home/apt,1.0,1.0,60.0,40.72161762123845,-73.97960447831697,89.0
+1258651,Manhattan,Harlem,Townhouse,strict,6,Entire home/apt,1.0,2.0,125.0,40.80706967976468,-73.94883927383509,97.0
+12865268,Manhattan,Hell's Kitchen,Apartment,strict,2,Entire home/apt,1.0,1.0,63.82763650662635,40.76072241450135,-73.99546862291156,78.0
+2619319,Manhattan,East Harlem,Apartment,strict,2,Entire home/apt,1.0,1.0,50.0,40.794283439949105,-73.93272282477878,87.0
+450577,Manhattan,Upper West Side,Apartment,moderate,2,Entire home/apt,1.0,1.0,100.0,40.77554793414826,-73.9766957867829,92.0
+38638,Manhattan,Upper East Side,Apartment,strict,2,Entire home/apt,1.0,1.0,95.0,40.77711073844867,-73.95270458111428,95.0
+305245,Manhattan,Harlem,Apartment,strict,9,Entire home/apt,1.0,2.0,150.0,40.80603609516249,-73.9460319790168,92.0
+16436513,Manhattan,Upper West Side,Apartment,strict,7,Entire home/apt,1.0,2.0,160.0,40.79773265714303,-73.96416544188563,100.0
+17572414,Manhattan,Midtown,Apartment,strict,7,Entire home/apt,1.0,2.0,145.0,40.75917571655808,-73.97057724884927,60.0
+723560,Manhattan,Lower East Side,Apartment,strict,4,Entire home/apt,1.0,1.0,50.0,40.71624520807677,-73.9843032979433,88.0
+13016082,Manhattan,East Harlem,Apartment,flexible,2,Private room,1.0,1.0,29.0,40.788043596365966,-73.95382398304223,100.0
+17093180,Manhattan,Upper East Side,Apartment,moderate,2,Entire home/apt,1.0,0.0,35.0,40.77058112980809,-73.95358395102252,96.0
+2191612,Manhattan,Hell's Kitchen,Apartment,moderate,3,Entire home/apt,1.0,1.0,50.0,40.762927412699945,-73.98981311097243,70.0
+1124329,Manhattan,Lower East Side,Apartment,strict,4,Entire home/apt,1.0,1.0,95.0,40.719279862726175,-73.9899290269172,88.0
+9215400,Manhattan,Harlem,Apartment,strict,4,Entire home/apt,1.0,1.0,55.0,40.80091141573536,-73.95437817504234,100.0
+14749302,Manhattan,Kips Bay,Apartment,moderate,6,Entire home/apt,1.0,1.0,125.0,40.74437690205602,-73.98038556085558,96.0
+8611817,Manhattan,Harlem,Apartment,moderate,2,Private room,1.5,1.0,5.0,40.801710709577186,-73.95302560670564,87.0
+6236044,Manhattan,East Village,Apartment,strict,2,Entire home/apt,2.0,1.0,100.0,40.72815715667308,-73.98786025000834,97.0
+15519532,Manhattan,Upper West Side,Apartment,flexible,2,Private room,1.0,1.0,63.82763650662635,40.77332772408092,-73.99028865560278,100.0
+5491803,Manhattan,Harlem,Apartment,strict,4,Entire home/apt,1.0,0.0,63.82763650662635,40.80668018098186,-73.94233414750536,94.0
+6414645,Manhattan,Nolita,Apartment,strict,2,Entire home/apt,1.0,2.0,100.0,40.72086215254089,-73.99406956432692,100.0
+13163427,Manhattan,Upper West Side,Apartment,moderate,4,Entire home/apt,2.0,2.0,125.0,40.78497025349135,-73.97922440213216,95.0
+250973,Manhattan,Harlem,Apartment,moderate,2,Private room,1.0,1.0,25.0,40.80603867267829,-73.9444230636132,89.0
+13788695,Manhattan,Washington Heights,Apartment,strict,8,Entire home/apt,1.0,3.0,60.0,40.851334655027706,-73.92905615796245,100.0
+13605950,Manhattan,Hell's Kitchen,Condominium,strict,6,Entire home/apt,1.0,2.0,95.0,40.76293148304261,-74.00074413810835,97.0
+28907,Manhattan,Upper East Side,Apartment,moderate,4,Entire home/apt,1.0,1.0,75.0,40.77800496691745,-73.94821548668291,99.0
+17608486,Manhattan,Upper East Side,Apartment,moderate,2,Private room,1.0,1.0,25.0,40.775307838356746,-73.9558160181064,96.0
+5756476,Manhattan,Kips Bay,Apartment,strict,2,Entire home/apt,1.0,0.0,100.0,40.738940777102734,-73.98049228565522,100.0
+15675261,Manhattan,Tribeca,Loft,moderate,4,Entire home/apt,1.0,1.0,100.0,40.72021038316695,-74.00424254437583,90.0
+15484380,Manhattan,Morningside Heights,Apartment,strict,2,Private room,2.0,1.0,10.0,40.81462458077387,-73.96012437745914,87.0
+12545426,Manhattan,Upper West Side,Apartment,strict,4,Entire home/apt,1.0,1.0,75.0,40.78235283498457,-73.98407090335634,93.0
+6026546,Manhattan,Upper East Side,Apartment,moderate,2,Entire home/apt,1.0,0.0,50.0,40.777933601566794,-73.96019687341924,100.0
+14554093,Manhattan,West Village,Apartment,moderate,2,Entire home/apt,1.0,1.0,63.82763650662635,40.73933295776645,-74.00240846870767,100.0
+16064710,Manhattan,Murray Hill,Condominium,strict,6,Entire home/apt,3.0,3.0,200.0,40.74895062474902,-73.97800424261398,100.0
+10879246,Manhattan,Murray Hill,Apartment,flexible,2,Entire home/apt,1.0,1.0,50.0,40.746538537986936,-73.97087581433425,90.0
+10249886,Manhattan,Hell's Kitchen,Apartment,moderate,2,Private room,1.0,1.0,63.82763650662635,40.7657721477109,-73.98549804686346,92.0
+18074556,Manhattan,Hell's Kitchen,Apartment,strict,2,Entire home/apt,1.0,1.0,80.0,40.765434264431356,-73.98622282432049,100.0
+18005748,Manhattan,Midtown,Apartment,strict,2,Private room,1.0,1.0,20.0,40.75923031251068,-73.96579616287518,97.0
+11242039,Manhattan,Lower East Side,Apartment,flexible,2,Entire home/apt,1.0,1.0,60.0,40.72074850304447,-73.98283084130759,100.0
+578267,Manhattan,Chinatown,Other,strict,1,Private room,1.5,3.0,30.0,40.71328404773743,-73.99315415959063,91.0
+3841113,Manhattan,Upper East Side,Apartment,strict,2,Private room,1.0,1.0,40.0,40.77992584820459,-73.9493945684154,100.0
+11608002,Manhattan,Chelsea,Apartment,strict,3,Entire home/apt,1.0,1.0,150.0,40.74688387343589,-73.99269528741766,47.0
+2276603,Manhattan,SoHo,Apartment,moderate,4,Entire home/apt,1.0,0.0,100.0,40.72702184153477,-74.0013127954173,100.0
+645075,Manhattan,Hell's Kitchen,Apartment,flexible,2,Private room,1.0,1.0,20.0,40.763760572124355,-73.99161025740514,96.0
+11016158,Manhattan,Upper West Side,Apartment,strict,2,Entire home/apt,1.0,1.0,50.0,40.80219945288953,-73.96833674709092,100.0
+13172753,Manhattan,Nolita,Apartment,strict,4,Entire home/apt,1.0,1.0,100.0,40.72223121152757,-73.99529976754977,95.0
+2145620,Manhattan,Midtown,Apartment,moderate,2,Private room,1.0,1.0,63.82763650662635,40.75667200086634,-73.96464219640468,96.0
+6196860,Manhattan,Inwood,Apartment,moderate,2,Entire home/apt,1.0,1.0,63.82763650662635,40.859006823545606,-73.9287425025489,90.0
+12972040,Manhattan,Murray Hill,Apartment,strict,1,Shared room,1.0,1.0,50.0,40.749325708983065,-73.97937095873627,94.0
+7717785,Manhattan,Washington Heights,Apartment,moderate,3,Entire home/apt,1.0,0.0,63.82763650662635,40.851592588952364,-73.94035807401521,100.0
+8445013,Manhattan,East Village,Apartment,moderate,4,Entire home/apt,1.0,1.0,75.0,40.7266682287321,-73.98971268257492,98.0
+13117094,Manhattan,East Harlem,Apartment,strict,3,Entire home/apt,1.0,1.0,100.0,40.794845168883796,-73.94867980237557,98.0
+11981784,Manhattan,Upper East Side,Apartment,strict,4,Entire home/apt,1.0,1.0,75.0,40.78173462158061,-73.94720761547904,90.0
+17771131,Manhattan,Nolita,Apartment,strict,8,Entire home/apt,1.0,3.0,120.0,40.72134873179019,-73.99623243589083,100.0
+4485442,Manhattan,East Harlem,Apartment,moderate,2,Private room,1.0,1.0,25.0,40.79421363911161,-73.94665237394321,88.0
+476983,Manhattan,Harlem,Apartment,strict,3,Private room,2.0,1.0,25.0,40.82536547795693,-73.94392428137448,92.0
+7341541,Manhattan,West Village,Apartment,strict,2,Entire home/apt,1.0,0.0,80.0,40.734148782253776,-73.99956324905804,95.0
+4129195,Manhattan,Chelsea,Apartment,strict,8,Entire home/apt,1.0,2.0,200.0,40.75097093040009,-73.99561773581588,96.0
+18728,Manhattan,Chelsea,Loft,strict,3,Private room,2.5,1.0,50.0,40.7413791415638,-74.00196685879914,99.0
+627432,Manhattan,East Village,Apartment,strict,2,Entire home/apt,1.0,1.0,65.0,40.73239926326522,-73.98576681725451,90.0
+13020187,Manhattan,Upper West Side,Apartment,strict,3,Entire home/apt,2.0,2.0,100.0,40.78564418141987,-73.97456592537011,93.0
+1984254,Manhattan,East Harlem,Apartment,strict,4,Entire home/apt,1.0,2.0,65.0,40.798141745688426,-73.93929389033427,94.0
+14280899,Manhattan,Kips Bay,Apartment,flexible,3,Entire home/apt,1.0,1.0,35.0,40.73923218329747,-73.97945707084581,96.0
+7798327,Manhattan,Lower East Side,Apartment,flexible,1,Private room,1.0,1.0,63.82763650662635,40.72234675475424,-73.98769344910339,100.0
+6717390,Manhattan,Upper West Side,Apartment,flexible,3,Entire home/apt,1.0,1.0,60.0,40.79814776409645,-73.9616786241893,93.0
+11969336,Manhattan,Hell's Kitchen,Apartment,strict,1,Private room,1.0,1.0,63.82763650662635,40.763980441680786,-73.98819637250534,90.0
+1562474,Manhattan,Kips Bay,Apartment,flexible,2,Private room,1.0,1.0,20.0,40.7428111193636,-73.97735098891297,91.0
+3559515,Manhattan,Midtown,Apartment,strict,5,Entire home/apt,2.0,1.0,63.82763650662635,40.76523670014914,-73.98018272192466,100.0
+10340705,Manhattan,Harlem,Apartment,strict,2,Private room,1.0,1.0,50.0,40.810153725895425,-73.94727857814394,98.0
+14254221,Manhattan,Nolita,Apartment,strict,5,Entire home/apt,1.0,1.0,30.0,40.72147515289684,-73.99542555471207,97.0
+16441881,Manhattan,Harlem,Apartment,moderate,3,Entire home/apt,1.0,1.0,63.82763650662635,40.81543203511861,-73.9373479612231,100.0
+4580643,Manhattan,Midtown,Apartment,moderate,3,Entire home/apt,1.5,1.0,100.0,40.75725178098307,-73.9667110128721,100.0
+1472166,Manhattan,Lower East Side,Apartment,strict,1,Private room,1.0,1.0,100.0,40.71981418115285,-73.98345244035755,93.0
+16530668,Manhattan,Harlem,Apartment,strict,2,Private room,1.0,1.0,30.0,40.816252473249435,-73.94312480007244,93.0
+17767077,Manhattan,Midtown,Apartment,strict,2,Entire home/apt,1.0,0.0,30.0,40.74940121067647,-73.98506570539156,100.0
+12136386,Manhattan,SoHo,Apartment,moderate,3,Entire home/apt,1.0,1.0,35.0,40.72681809318431,-74.00426040305213,93.0
+6233819,Manhattan,Upper East Side,Apartment,moderate,1,Private room,1.0,1.0,40.0,40.775500357453645,-73.94749773284207,100.0
+15430782,Manhattan,Greenwich Village,Apartment,moderate,2,Private room,1.0,1.0,19.0,40.72961532106565,-73.99932033673488,98.0
+2958412,Manhattan,Harlem,Apartment,strict,5,Entire home/apt,2.0,3.0,250.0,40.80879373901201,-73.94126935276923,91.0
+17788079,Manhattan,Harlem,Apartment,strict,1,Private room,1.0,1.0,150.0,40.8005054012396,-73.95696582912481,80.0
+15956788,Manhattan,East Harlem,Apartment,moderate,3,Entire home/apt,1.0,0.0,50.0,40.789477994884905,-73.93809700457847,100.0
+4777478,Manhattan,Upper East Side,Apartment,moderate,2,Entire home/apt,1.0,0.0,63.82763650662635,40.77593792296819,-73.95137955226663,88.0
+2046007,Manhattan,Lower East Side,Apartment,strict,2,Private room,1.0,1.0,15.0,40.7214802016207,-73.98822883156573,94.0
+14881794,Manhattan,Morningside Heights,Apartment,flexible,1,Private room,2.0,1.0,63.82763650662635,40.81230636902927,-73.95857739217045,95.0
+9334228,Manhattan,East Village,Apartment,strict,2,Entire home/apt,1.0,0.0,54.0,40.72694753304866,-73.99011654899924,80.0
+6186628,Manhattan,Harlem,Bungalow,moderate,6,Entire home/apt,1.0,2.0,120.0,40.82227619058617,-73.95133304041579,88.0
+702578,Manhattan,Upper West Side,Bed & Breakfast,moderate,1,Private room,1.0,1.0,63.82763650662635,40.79687306203175,-73.9715113537935,91.0
+5991227,Manhattan,Midtown,Apartment,moderate,2,Entire home/apt,1.0,1.0,30.0,40.753239784130685,-73.97321267123601,88.0
+14738282,Manhattan,West Village,Apartment,strict,7,Entire home/apt,1.5,2.0,120.0,40.73892628363753,-74.00266925301983,89.0
+16345201,Manhattan,Lower East Side,Apartment,strict,2,Private room,1.0,1.0,75.0,40.71857031494279,-73.99472123012313,100.0
+980637,Manhattan,SoHo,Apartment,moderate,2,Entire home/apt,1.0,1.0,100.0,40.72433855081083,-74.00042843274467,90.0
+2473861,Manhattan,Harlem,House,moderate,8,Entire home/apt,1.0,3.0,99.0,40.80704888390438,-73.9445234180735,91.0
+12827518,Manhattan,Midtown,Apartment,flexible,2,Entire home/apt,1.0,0.0,63.82763650662635,40.75088100539146,-73.98230982724091,94.0
+12130620,Manhattan,Harlem,Apartment,moderate,2,Private room,1.0610299049112937,1.0,15.0,40.82600069481095,-73.94314270889585,65.0
+3272628,Manhattan,Harlem,Apartment,strict,1,Private room,1.0,0.0,25.0,40.80406894608653,-73.94602644289574,100.0
+139207,Manhattan,Hell's Kitchen,Apartment,moderate,2,Entire home/apt,1.0,1.0,63.82763650662635,40.76098408638687,-73.98876320570609,93.0
+8673739,Manhattan,East Village,Apartment,flexible,3,Entire home/apt,1.0,2.0,60.0,40.728442562443206,-73.98228280073485,100.0
+9249597,Manhattan,Upper West Side,Apartment,moderate,3,Entire home/apt,1.0,1.0,50.0,40.77911643269639,-73.97975695138574,100.0
+15745411,Manhattan,Lower East Side,Apartment,flexible,1,Private room,1.0,1.0,63.82763650662635,40.72090357098984,-73.98428435210964,100.0
+4988190,Manhattan,Harlem,Apartment,strict,2,Entire home/apt,1.0,0.0,125.0,40.81608084104104,-73.94774238595727,90.0
+16310817,Manhattan,Lower East Side,Apartment,moderate,2,Private room,1.0,1.0,63.82763650662635,40.721673916251284,-73.99075277992557,100.0
+13622049,Manhattan,Upper East Side,Apartment,strict,4,Entire home/apt,1.0,1.0,50.0,40.77579618226205,-73.95472272589241,98.0
+12287838,Manhattan,Washington Heights,Apartment,strict,14,Entire home/apt,2.0,4.0,295.0,40.83470876810751,-73.94288395278788,90.0
+9713626,Manhattan,Chelsea,Apartment,moderate,4,Entire home/apt,1.0,1.0,125.0,40.74185812563586,-74.00528414798045,100.0
+5978777,Manhattan,Gramercy,House,strict,5,Entire home/apt,2.0,3.0,160.0,40.738833348970616,-73.98601244923545,96.0
+13398697,Manhattan,Harlem,Apartment,strict,2,Private room,1.0,1.0,40.0,40.81105663286817,-73.95432383240161,100.0
+11939910,Manhattan,East Harlem,Apartment,flexible,1,Private room,1.0,1.0,63.82763650662635,40.78824797432681,-73.94869783000689,95.0
+16215053,Manhattan,Lower East Side,Apartment,strict,2,Entire home/apt,1.0,0.0,120.0,40.718381819270725,-73.9858117361632,70.0
+10205650,Manhattan,Upper West Side,Apartment,flexible,2,Private room,1.0,1.0,63.82763650662635,40.7826313206999,-73.97803477299976,97.0
+506629,Manhattan,Harlem,Condominium,flexible,2,Private room,2.0,1.0,63.82763650662635,40.81679742924696,-73.94623928499892,93.0
+3358937,Manhattan,Chelsea,Apartment,flexible,4,Entire home/apt,1.0,2.0,50.0,40.747218360088,-74.00465764521296,96.0
+778390,Manhattan,Chinatown,Apartment,strict,2,Private room,1.0,1.0,25.0,40.71293755879472,-73.99589102481994,86.0
+13771435,Manhattan,Upper West Side,Apartment,flexible,3,Entire home/apt,1.0,1.0,35.0,40.78175670301483,-73.97822446534346,100.0
+9273010,Manhattan,SoHo,Apartment,strict,4,Entire home/apt,1.0,2.0,40.0,40.72544303050781,-74.00030012406631,100.0
+5804089,Manhattan,Harlem,Apartment,strict,2,Private room,1.0,1.0,20.0,40.804555647944795,-73.95546922267187,99.0
+15174230,Manhattan,East Harlem,Apartment,flexible,2,Shared room,1.5,1.0,25.0,40.80770618028397,-73.94111813615562,100.0
+11190303,Manhattan,East Village,Apartment,flexible,2,Private room,1.0,1.0,10.0,40.7219618196811,-73.98344770311111,90.0
+7496455,Manhattan,Greenwich Village,Apartment,moderate,3,Entire home/apt,1.0,0.0,50.0,40.732381750886304,-73.99805055337806,85.0
+4260964,Manhattan,Harlem,Apartment,moderate,3,Entire home/apt,1.0,1.0,63.82763650662635,40.81773825194252,-73.94595312437897,100.0
+5028264,Manhattan,Upper West Side,Apartment,moderate,2,Entire home/apt,1.0,0.0,125.0,40.792098561686394,-73.97918044028226,95.0
+6391684,Manhattan,Upper East Side,Apartment,strict,6,Entire home/apt,1.0,3.0,90.0,40.76636130365189,-73.95766318838147,78.0
+16217806,Manhattan,Hell's Kitchen,Apartment,moderate,2,Private room,1.0,1.0,63.82763650662635,40.76499049295545,-73.99240894183013,80.0
+1455407,Manhattan,Murray Hill,Apartment,flexible,4,Entire home/apt,1.0,1.0,75.0,40.74356340925289,-73.97259770000824,100.0
+11700127,Manhattan,Upper West Side,Apartment,moderate,2,Entire home/apt,1.0,0.0,40.0,40.78441926444227,-73.97113409015924,97.0
+14856656,Manhattan,Midtown,Apartment,strict,3,Entire home/apt,1.0,0.0,69.0,40.75653381156207,-73.96538624383997,93.0
+16466322,Manhattan,East Village,Apartment,strict,4,Entire home/apt,1.0,1.0,125.0,40.72727314328354,-73.98511694089738,97.0
+15901092,Manhattan,East Village,Apartment,strict,4,Entire home/apt,1.0,2.0,80.0,40.733578241572864,-73.9880173340495,100.0
+14759627,Manhattan,Chelsea,Condominium,strict,6,Entire home/apt,3.0,3.0,140.0,40.75211692280495,-74.0017781755725,91.0
+2702351,Manhattan,Harlem,Apartment,moderate,4,Entire home/apt,1.0,1.0,63.82763650662635,40.829067920484476,-73.9493926996505,93.0
+3700364,Manhattan,Greenwich Village,Apartment,strict,2,Entire home/apt,1.0,1.0,95.0,40.72839916173903,-73.99812300131975,95.0
+13696003,Manhattan,Morningside Heights,Apartment,flexible,2,Private room,1.0,1.0,10.0,40.80973561938357,-73.96034277437215,100.0
+4686821,Manhattan,Upper East Side,Apartment,strict,2,Private room,1.0,1.0,50.0,40.77345492879524,-73.95848024345563,92.0
+7032396,Manhattan,Lower East Side,Apartment,strict,3,Entire home/apt,1.0,1.0,100.0,40.72115490844855,-73.98307954828928,100.0
+8810937,Manhattan,Upper East Side,Apartment,strict,6,Entire home/apt,2.0,3.0,145.0,40.77091192816098,-73.96079166060255,98.0
+671633,Manhattan,Upper East Side,Apartment,strict,2,Entire home/apt,1.0,0.0,60.0,40.773820413942964,-73.95088083253674,87.0
+803778,Manhattan,NoHo,Loft,strict,6,Entire home/apt,2.0,3.0,600.0,40.72591230561345,-73.99451919056352,94.0
+4659046,Manhattan,East Village,Apartment,strict,2,Entire home/apt,1.0,0.0,100.0,40.72569699765428,-73.97949647061269,96.0
+15558614,Manhattan,Harlem,Apartment,flexible,4,Private room,1.0,1.0,75.0,40.80126498116785,-73.95405182816408,100.0
+16460817,Manhattan,Hell's Kitchen,Apartment,flexible,3,Private room,1.0,1.0,30.0,40.764140495612324,-73.98496157323667,40.0
+966104,Manhattan,East Village,Apartment,strict,2,Private room,1.0,1.0,80.0,40.72725882937361,-73.97572510603617,90.0
+266964,Manhattan,Chelsea,Apartment,moderate,2,Entire home/apt,1.0,1.0,80.0,40.741318754242585,-73.99720824374117,99.0
+6146409,Manhattan,Little Italy,Apartment,strict,2,Private room,1.0,1.0,63.82763650662635,40.7181464631831,-73.99828018000873,88.0
+17169353,Manhattan,Gramercy,Apartment,strict,15,Entire home/apt,2.0,3.0,275.0,40.73629181681829,-73.98971635227556,100.0
+18221864,Manhattan,Upper West Side,Apartment,flexible,4,Entire home/apt,1.0,1.0,50.0,40.78905892591683,-73.97731768324408,100.0
+7934867,Manhattan,Theater District,Apartment,strict,2,Private room,1.0,1.0,63.82763650662635,40.76234117482302,-73.98499825230073,87.0
+15491953,Manhattan,SoHo,Loft,strict,2,Entire home/apt,1.0,1.0,63.82763650662635,40.725862584456564,-74.00834178310204,100.0
+647598,Manhattan,East Village,Apartment,moderate,2,Entire home/apt,1.0,0.0,63.82763650662635,40.722006471549456,-73.97727550551403,92.0
+12687912,Manhattan,Hell's Kitchen,Apartment,strict,6,Entire home/apt,1.0,2.0,63.82763650662635,40.765396384143656,-73.98735923792363,99.0
+9826062,Manhattan,Murray Hill,Apartment,strict,3,Entire home/apt,1.0,1.0,60.0,40.748521627767204,-73.97520810815388,98.0
+8139269,Manhattan,West Village,Apartment,strict,3,Entire home/apt,1.0,1.0,100.0,40.73846020415776,-74.00092581120751,100.0
+786955,Manhattan,West Village,Apartment,strict,2,Entire home/apt,1.0,0.0,85.0,40.73402804590457,-74.00297511490744,90.0
+16711682,Manhattan,Washington Heights,Apartment,moderate,2,Private room,1.0,1.0,63.82763650662635,40.85804434871603,-73.93021620320467,100.0
+4796070,Manhattan,Midtown,Apartment,strict,5,Entire home/apt,1.0,1.0,125.0,40.744387164536185,-73.98328760994903,90.0
+2488227,Manhattan,Lower East Side,Apartment,strict,2,Entire home/apt,1.0,1.0,63.82763650662635,40.720051210960825,-73.98608576587145,88.0
+14264350,Manhattan,Financial District,Apartment,moderate,4,Entire home/apt,2.0,2.0,75.0,40.70660950525086,-74.0120386951493,98.0
+13389421,Manhattan,East Village,Apartment,strict,3,Entire home/apt,1.0,0.0,100.0,40.73172132112243,-73.98512445555616,91.0
+4764646,Manhattan,Midtown,Apartment,moderate,2,Entire home/apt,1.0,0.0,75.0,40.74246396201758,-73.98348283053559,100.0
+5184986,Manhattan,Upper East Side,Apartment,moderate,3,Entire home/apt,1.0,0.0,50.0,40.77593941010735,-73.95583884943859,93.0
+690364,Manhattan,Murray Hill,Apartment,moderate,6,Entire home/apt,1.5,2.0,120.0,40.74663191523564,-73.98012094934064,96.0
+11611298,Manhattan,Gramercy,Apartment,strict,2,Private room,1.0,1.0,40.0,40.73736637194693,-73.97994613062029,92.0
+7047076,Manhattan,Upper East Side,Apartment,strict,3,Entire home/apt,1.0,1.0,45.0,40.77702691418704,-73.9477278618923,94.0
+14388924,Manhattan,Hell's Kitchen,Apartment,strict,3,Entire home/apt,1.0,1.0,125.0,40.75611014322069,-73.99725779252884,88.0
+9540147,Manhattan,Upper West Side,Apartment,moderate,2,Entire home/apt,1.0,1.0,50.0,40.785493288621396,-73.97245766775866,96.0
+14205217,Manhattan,Harlem,Apartment,moderate,3,Private room,1.0,1.0,30.0,40.80541861144961,-73.95006645243494,88.0
+8743269,Manhattan,Harlem,Apartment,moderate,1,Entire home/apt,1.0,0.0,50.0,40.81132360772236,-73.94495746599372,100.0
+16870983,Manhattan,Harlem,Apartment,strict,4,Private room,1.0,1.0,63.82763650662635,40.820547450065824,-73.95232225328931,90.0
+136923,Manhattan,Hell's Kitchen,Apartment,strict,8,Entire home/apt,1.0,2.0,149.0,40.76215427682856,-73.99140958054565,97.0
+11689494,Manhattan,Harlem,Apartment,strict,9,Entire home/apt,1.0,3.0,125.0,40.82587226340283,-73.94346258712602,83.0
+2168268,Manhattan,Harlem,Apartment,strict,1,Private room,1.0,1.0,25.0,40.822523513817366,-73.94462484694634,90.0
+6512929,Manhattan,Upper East Side,Apartment,moderate,2,Entire home/apt,1.0,0.0,63.82763650662635,40.77498731614017,-73.94874613769697,100.0
+7817446,Manhattan,Washington Heights,Apartment,moderate,4,Entire home/apt,1.0,1.0,50.0,40.83634939715872,-73.9492463660559,92.0
+7691790,Manhattan,Upper East Side,Apartment,moderate,4,Private room,1.5,1.0,50.0,40.76710504186321,-73.95571741503818,82.0
+12630411,Manhattan,Inwood,Apartment,flexible,2,Private room,1.0,1.0,63.82763650662635,40.86933899404743,-73.91744720900219,98.0
+4517673,Manhattan,East Village,Apartment,flexible,3,Entire home/apt,1.0,1.0,59.0,40.72886780863368,-73.9844226488771,90.0
+6638446,Manhattan,Washington Heights,Apartment,moderate,4,Entire home/apt,1.0,1.0,45.0,40.842393837634546,-73.93573574839613,100.0
+11421477,Manhattan,West Village,Apartment,strict,3,Entire home/apt,1.0,0.0,63.82763650662635,40.73682121956946,-74.00237698889262,94.0
+11301136,Manhattan,Upper East Side,Apartment,strict,2,Entire home/apt,1.0,1.0,70.0,40.77511201759457,-73.95276186174469,90.0
+3696746,Manhattan,Gramercy,Apartment,moderate,3,Entire home/apt,1.0,1.0,80.0,40.733434656502965,-73.98634024782595,96.0
+16534963,Manhattan,East Village,House,strict,2,Entire home/apt,1.0,0.0,50.0,40.72615629743985,-73.98210711296895,80.0
+921441,Manhattan,Washington Heights,Apartment,moderate,1,Private room,1.0,1.0,63.82763650662635,40.84407699444455,-73.93674919657013,99.0
+17456954,Manhattan,West Village,Apartment,moderate,3,Entire home/apt,1.0,0.0,50.0,40.7328251861248,-74.00542518305835,100.0
+16333432,Manhattan,Upper East Side,Apartment,flexible,2,Private room,1.0,1.0,63.82763650662635,40.77185742010961,-73.95509483843804,100.0
+6560746,Manhattan,East Harlem,Apartment,strict,2,Private room,1.0,1.0,25.0,40.79777306816549,-73.93868970003908,73.0
+5308117,Manhattan,Flatiron District,Apartment,strict,2,Entire home/apt,1.0,0.0,63.82763650662635,40.73906797553092,-73.98520967910716,98.0
+16166003,Manhattan,SoHo,Apartment,moderate,2,Entire home/apt,1.0,1.0,40.0,40.72205813895365,-74.00472166173779,100.0
+13186741,Manhattan,Chelsea,Apartment,flexible,1,Private room,1.0,1.0,39.0,40.738869183023965,-74.00010595670541,90.0
+12232858,Manhattan,East Harlem,Apartment,moderate,5,Entire home/apt,1.0,2.0,50.0,40.78878842655853,-73.94109509091172,83.0
+4943458,Manhattan,Upper East Side,Apartment,strict,2,Private room,1.0,1.0,20.0,40.786361236505776,-73.95213842615998,97.0
+14739657,Manhattan,East Harlem,Apartment,flexible,2,Entire home/apt,1.0,1.0,60.0,40.79635291769983,-73.93872588482505,100.0
+17667639,Manhattan,Upper West Side,Apartment,strict,4,Entire home/apt,1.0,1.0,110.0,40.79562615568758,-73.97634174811012,80.0
+1717916,Manhattan,Morningside Heights,Apartment,flexible,6,Entire home/apt,1.0,2.0,100.0,40.806274755807905,-73.95772534981194,100.0
+15751765,Manhattan,Financial District,Apartment,strict,2,Entire home/apt,1.0,0.0,70.0,40.70665160846397,-74.00814814262196,99.0
+15374796,Manhattan,Upper West Side,Apartment,moderate,2,Private room,1.0,1.0,20.0,40.80088381080874,-73.96194481662653,100.0
+6784669,Manhattan,Upper East Side,Apartment,flexible,2,Entire home/apt,1.0,1.0,63.82763650662635,40.7664374119484,-73.95802845701944,90.0
+16465690,Manhattan,East Village,Apartment,strict,2,Private room,1.0,1.0,63.82763650662635,40.72319721146855,-73.98222719635116,90.0
+12705303,Manhattan,Upper East Side,Apartment,strict,2,Entire home/apt,1.0,1.0,100.0,40.774576946809724,-73.95115551545581,90.0
+2255340,Manhattan,Greenwich Village,Apartment,strict,4,Entire home/apt,1.0,2.0,79.0,40.728324866568606,-73.99916242742192,100.0
+9282691,Manhattan,East Village,Apartment,strict,1,Private room,1.0,1.0,25.0,40.72922913512252,-73.98876690245936,100.0
+17368006,Manhattan,Chelsea,Hostel,flexible,1,Private room,3.0,0.0,6.0,40.74818667488301,-73.99540119011195,81.0
+2136200,Manhattan,East Village,Apartment,strict,5,Private room,2.0,1.0,70.0,40.728836689814436,-73.99045875314692,100.0
+8237244,Manhattan,East Village,Apartment,strict,2,Entire home/apt,1.0,1.0,75.0,40.72764599634621,-73.98634246031186,98.0
+3809394,Manhattan,Kips Bay,Apartment,strict,3,Entire home/apt,1.0,0.0,150.0,40.74035513359769,-73.97973776840594,80.0
+4573302,Manhattan,Hell's Kitchen,Apartment,flexible,3,Private room,1.0,1.0,20.0,40.76602719427807,-73.98530033075075,90.0
+14124666,Manhattan,Harlem,Apartment,flexible,2,Private room,1.0,1.0,63.82763650662635,40.82292303666918,-73.93983351510312,93.0
+11207101,Manhattan,Washington Heights,Apartment,moderate,2,Private room,1.0,1.0,25.0,40.847873169737504,-73.94056422902233,100.0
+4782243,Manhattan,Lower East Side,Apartment,flexible,2,Entire home/apt,1.0,0.0,30.0,40.718007324094,-73.990781977129,100.0
+3315933,Manhattan,Upper East Side,Apartment,flexible,4,Entire home/apt,1.0,2.0,30.0,40.768839876466814,-73.95825929932349,100.0
+8281567,Manhattan,Nolita,Apartment,strict,2,Private room,2.0,1.0,100.0,40.723019363342544,-73.99530124915267,80.0
+24686,Manhattan,Lower East Side,Apartment,strict,2,Private room,1.0,1.0,70.0,40.713918047597524,-73.9888308866301,97.0
+15361660,Manhattan,Hell's Kitchen,Apartment,strict,10,Entire home/apt,1.0,3.0,110.0,40.762457899538006,-73.98960914830232,83.0
+12988639,Manhattan,Flatiron District,Apartment,strict,2,Entire home/apt,1.0,0.0,50.0,40.74171759896095,-73.984812950525,96.0
+14387694,Manhattan,Financial District,Apartment,strict,5,Entire home/apt,1.0,2.0,63.82763650662635,40.711501780632354,-74.00720773185344,87.0
+9736227,Manhattan,Hell's Kitchen,Apartment,strict,7,Entire home/apt,1.0,3.0,39.0,40.7599981779919,-73.98971723410979,100.0
+14215681,Manhattan,East Harlem,Apartment,moderate,2,Private room,1.0,1.0,20.0,40.79014306597813,-73.9403468940905,86.0
+5650982,Manhattan,Harlem,Apartment,strict,4,Entire home/apt,1.0,2.0,40.0,40.80570680484907,-73.95566001585519,80.0
+9328578,Manhattan,Harlem,Apartment,strict,5,Entire home/apt,1.0,3.0,110.0,40.822872451511,-73.94560515196144,94.0
+9563868,Manhattan,Financial District,Apartment,strict,6,Entire home/apt,1.0,1.0,150.0,40.7114338363608,-74.00596418805951,96.0
+2935456,Manhattan,Upper West Side,Apartment,strict,2,Entire home/apt,1.0,1.0,100.0,40.77435290127628,-73.97889457739502,99.0
+1583335,Manhattan,West Village,Apartment,moderate,5,Entire home/apt,1.0,2.0,100.0,40.73077558131476,-74.01039947082141,96.0
+1148978,Manhattan,Washington Heights,Apartment,moderate,2,Private room,1.0,1.0,20.0,40.833070445654336,-73.9395711575126,93.0
+1551816,Manhattan,Greenwich Village,Townhouse,strict,2,Entire home/apt,1.0,1.0,100.0,40.73316616527975,-73.99903119187054,98.0
+11756349,Manhattan,Midtown,Apartment,strict,4,Entire home/apt,1.0,1.0,60.0,40.75448479646907,-73.97009914485241,93.0
+14925282,Manhattan,East Harlem,Apartment,strict,2,Entire home/apt,1.0,0.0,30.0,40.79985513889907,-73.94110407206112,100.0
+18222455,Manhattan,Upper West Side,Apartment,strict,4,Entire home/apt,1.0,1.0,100.0,40.77549617220424,-73.98196586955623,100.0
+2467814,Manhattan,Morningside Heights,Apartment,strict,2,Entire home/apt,1.0,1.0,50.0,40.8085948232177,-73.95819603029025,93.0
+13743061,Manhattan,Financial District,Apartment,strict,3,Entire home/apt,1.0,0.0,80.0,40.707889973709015,-74.00760563001461,99.0
+16311233,Manhattan,East Village,Apartment,flexible,7,Entire home/apt,2.0,3.0,100.0,40.72465033881589,-73.98350584562436,80.0
+9175292,Manhattan,Inwood,Apartment,moderate,2,Private room,1.0,1.0,100.0,40.86577153516429,-73.92890336009923,100.0
+813470,Manhattan,Lower East Side,Apartment,strict,4,Private room,1.0,1.0,40.0,40.72036049061671,-73.98992609615136,97.0
+328040,Manhattan,Midtown,Apartment,strict,3,Entire home/apt,2.0,2.0,150.0,40.75022949594261,-73.98293152536155,96.0
+6674363,Manhattan,Chelsea,Apartment,strict,1,Private room,1.0,1.0,10.0,40.73969354200279,-73.9944703015546,100.0
+4767942,Manhattan,Hell's Kitchen,Apartment,strict,4,Entire home/apt,1.0,1.0,90.0,40.75528090080999,-73.99932656357079,94.0
+53137,Manhattan,Hell's Kitchen,Apartment,strict,2,Entire home/apt,1.0,1.0,63.82763650662635,40.76243525474735,-73.99271079342442,60.0
+11583678,Manhattan,Midtown,Apartment,strict,2,Private room,1.0,1.0,63.82763650662635,40.744500836329024,-73.98339218805381,100.0
+436916,Manhattan,Harlem,Apartment,moderate,2,Private room,1.0610299049112937,1.0,63.82763650662635,40.82669027939424,-73.94281410325641,90.0
+1798511,Manhattan,Upper East Side,Apartment,strict,3,Entire home/apt,1.0,2.0,60.0,40.767185474633735,-73.95460957741425,94.0
+8555411,Manhattan,Upper East Side,Apartment,strict,2,Entire home/apt,1.0,0.0,85.0,40.77959795790251,-73.94805846658501,88.0
+8268849,Manhattan,SoHo,House,strict,2,Private room,1.0,1.0,75.0,40.72409224603992,-74.0024061403938,95.0
+16227075,Brooklyn,Brooklyn Heights,Apartment,moderate,3,Entire home/apt,1.0,0.0,80.0,40.69829696700194,-73.99525373471202,100.0
+7035513,Manhattan,Upper East Side,Apartment,moderate,4,Private room,1.0,1.0,50.0,40.77097800354136,-73.95033861002716,94.0
+2793630,Manhattan,Chinatown,Apartment,flexible,2,Private room,1.0,1.0,63.82763650662635,40.714182375029374,-73.9929547989878,100.0
+2858010,Manhattan,Harlem,Apartment,strict,2,Private room,1.0,1.0,20.0,40.80014132864043,-73.95188154702069,95.0
+10550240,Manhattan,Harlem,Apartment,strict,2,Private room,1.0,1.0,17.0,40.82441988383889,-73.95347372571118,83.0
+9794364,Manhattan,Upper West Side,Apartment,moderate,2,Private room,1.0,1.0,50.0,40.800004345750985,-73.96404280954116,92.0
+15234771,Manhattan,Lower East Side,Apartment,strict,3,Entire home/apt,1.0,1.0,50.0,40.72194969020864,-73.98698208277392,95.0
+7967942,Manhattan,Chelsea,Apartment,strict,5,Entire home/apt,1.5,1.0,63.82763650662635,40.74051633096987,-74.0042277978736,100.0
+14842361,Manhattan,Hell's Kitchen,Apartment,moderate,2,Private room,1.0,1.0,50.0,40.76322777460052,-73.99105684809297,100.0
+9887326,Manhattan,Upper West Side,Apartment,flexible,2,Private room,1.0,1.0,63.82763650662635,40.79961086059271,-73.9665351720906,90.0
+7774422,Manhattan,Lower East Side,Apartment,moderate,2,Entire home/apt,1.0,1.0,63.82763650662635,40.720034416420006,-73.9852719961041,90.0
+15132812,Manhattan,Murray Hill,Apartment,strict,2,Entire home/apt,1.0,0.0,20.0,40.746695854574774,-73.97453508476029,100.0
+17496222,Manhattan,Harlem,House,strict,3,Private room,1.0,0.0,35.0,40.80748757730722,-73.95412902019261,100.0
+4194010,Manhattan,Inwood,Apartment,flexible,2,Entire home/apt,1.0,1.0,10.0,40.864958664726146,-73.92620365557168,97.0
+15782901,Manhattan,Greenwich Village,Loft,strict,9,Entire home/apt,1.0,3.0,175.0,40.736364191563744,-73.99522163158869,98.0
+10710046,Manhattan,Washington Heights,Apartment,strict,2,Private room,1.0,1.0,25.0,40.85448829001429,-73.93390725330205,95.0
+13488121,Manhattan,Gramercy,Apartment,moderate,2,Private room,1.0,1.0,20.0,40.73717589431649,-73.9810210052707,80.0
+14690331,Manhattan,West Village,Apartment,strict,2,Entire home/apt,1.0,1.0,100.0,40.733164132307856,-74.00782117578328,98.0
+682155,Manhattan,East Harlem,Apartment,strict,1,Private room,1.0,1.0,35.0,40.79416536634381,-73.9510091744027,95.0
+13278590,Manhattan,Upper East Side,Apartment,strict,3,Entire home/apt,1.0,0.0,63.82763650662635,40.771016980041324,-73.9510161241465,95.0
+13065356,Manhattan,West Village,Apartment,strict,2,Entire home/apt,1.0,0.0,80.0,40.735638478308225,-73.99823433317462,94.0
+13545733,Manhattan,Inwood,Apartment,strict,2,Private room,1.0,1.0,15.0,40.86182203738877,-73.9308776188024,100.0
+16443043,Manhattan,Washington Heights,Apartment,strict,6,Entire home/apt,1.0,1.0,100.0,40.83748391248546,-73.94044421642566,95.0
+9715973,Manhattan,Kips Bay,Apartment,moderate,4,Entire home/apt,1.0,0.0,50.0,40.74285066204765,-73.97467993424308,100.0
+9758291,Manhattan,Kips Bay,Apartment,strict,2,Entire home/apt,1.0,1.0,63.82763650662635,40.743028498773434,-73.97825660637672,100.0
+9477214,Brooklyn,Greenpoint,Apartment,moderate,2,Entire home/apt,1.0,0.0,50.0,40.72069042226627,-73.95453291860767,97.0
+9396442,Manhattan,Upper West Side,Apartment,moderate,2,Private room,1.0,1.0,20.0,40.77772018287296,-73.98513928928122,98.0
+17360353,Manhattan,Chelsea,Apartment,strict,2,Private room,1.0,1.0,63.82763650662635,40.745599823031746,-74.00107482240689,100.0
+17951818,Manhattan,Hell's Kitchen,Apartment,strict,2,Shared room,1.0,1.0,63.82763650662635,40.76162482259,-73.99225651348625,67.0
+44288,Manhattan,West Village,Apartment,strict,2,Entire home/apt,1.0,1.0,25.0,40.73836688478821,-74.00275744321517,95.0
+10313703,Manhattan,Flatiron District,Apartment,strict,7,Entire home/apt,2.0,3.0,200.0,40.74139644549817,-73.99141772464323,91.0
+15630557,Manhattan,East Harlem,Guesthouse,strict,1,Shared room,1.0,1.0,20.0,40.79582026266775,-73.94798827671077,82.0
+13899190,Manhattan,East Village,Apartment,flexible,2,Entire home/apt,1.0,1.0,40.0,40.72611253958867,-73.97904743640774,87.0
+16962275,Manhattan,East Harlem,House,moderate,2,Private room,1.5,1.0,20.0,40.80085839454368,-73.93921646099915,96.0
+4812531,Manhattan,East Village,Apartment,strict,2,Entire home/apt,1.0,0.0,100.0,40.72636870707597,-73.98707130585358,95.0
+15223519,Manhattan,East Village,Apartment,flexible,2,Private room,1.0,1.0,25.0,40.72635764629525,-73.97780393261944,100.0
+977870,Manhattan,Upper West Side,Apartment,strict,2,Entire home/apt,1.0,1.0,50.0,40.800142090553024,-73.96370334530707,87.0
+7410868,Manhattan,Lower East Side,Apartment,moderate,2,Entire home/apt,1.0,1.0,63.82763650662635,40.71546436034673,-73.98959961258471,93.0
+13166877,Manhattan,SoHo,Apartment,strict,2,Private room,1.0,1.0,40.0,40.722644903197406,-74.00188349884729,91.0
+13748851,Manhattan,East Village,Apartment,flexible,2,Entire home/apt,1.0,0.0,30.0,40.727775718747466,-73.98335357970659,100.0
+768797,Manhattan,Upper West Side,Apartment,strict,6,Entire home/apt,1.5,2.0,89.0,40.794396178728725,-73.97020475888577,96.0
+15437413,Manhattan,Upper West Side,Apartment,strict,3,Entire home/apt,1.0,1.0,79.0,40.78152194328517,-73.97249196721856,100.0
+8906840,Manhattan,Lower East Side,Apartment,strict,2,Private room,1.0,1.0,37.0,40.71053825045403,-73.9884065102018,89.0
+7664343,Manhattan,East Village,Apartment,moderate,4,Entire home/apt,1.0,2.0,100.0,40.72399394632861,-73.98869228704469,90.0
+13972668,Manhattan,Washington Heights,Apartment,strict,2,Private room,1.0,1.0,5.0,40.84273930031557,-73.94043022975401,80.0
+6990,Manhattan,East Harlem,Apartment,moderate,1,Private room,1.0,1.0,63.82763650662635,40.78962413372014,-73.94802016385479,97.0
+526923,Manhattan,Flatiron District,Apartment,strict,2,Entire home/apt,1.0,1.0,175.0,40.74128680725615,-73.98373656946951,96.0
+13006777,Manhattan,Morningside Heights,Apartment,flexible,2,Private room,1.0,1.0,63.82763650662635,40.8047907513656,-73.96490172099102,94.0
+6614663,Manhattan,Midtown,Apartment,moderate,2,Private room,1.0,1.0,63.82763650662635,40.75251716135365,-73.98715353599931,93.0
+15929625,Manhattan,Gramercy,Apartment,moderate,2,Private room,1.0,1.0,25.0,40.73337561580903,-73.98535436836114,75.0
+1367775,Manhattan,Roosevelt Island,Apartment,strict,1,Private room,1.0,1.0,63.82763650662635,40.76174649582889,-73.95011889203795,100.0
+13465896,Manhattan,Harlem,Townhouse,strict,4,Entire home/apt,1.0,2.0,25.0,40.8233530267465,-73.9511058378972,83.0
+4121173,Manhattan,Financial District,Apartment,strict,3,Entire home/apt,1.0,1.0,45.0,40.704991814896616,-74.00818582250794,90.0
+875036,Manhattan,West Village,Apartment,strict,2,Entire home/apt,1.0,1.0,75.0,40.73768082949149,-74.00602545495651,97.0
+16000922,Manhattan,Hell's Kitchen,Apartment,strict,3,Entire home/apt,1.0,1.0,79.0,40.75848880380476,-73.9952514643593,92.0
+17092797,Manhattan,Hell's Kitchen,Apartment,strict,6,Entire home/apt,1.0,2.0,50.0,40.761951803598315,-73.98998043259547,94.0
+8517234,Manhattan,East Village,Apartment,strict,2,Entire home/apt,1.0,0.0,90.0,40.72223765821738,-73.98405877822863,91.0
+9904730,Manhattan,Morningside Heights,Apartment,strict,4,Entire home/apt,1.0,1.0,33.0,40.81644719013864,-73.96088811059326,100.0
+8539093,Manhattan,East Village,Apartment,strict,2,Entire home/apt,1.0,1.0,65.0,40.72373991252118,-73.98354641471838,100.0
+5550377,Manhattan,East Village,Apartment,moderate,2,Entire home/apt,1.0,1.0,40.0,40.7268133044495,-73.97993914435618,97.0
+9898485,Manhattan,Harlem,Apartment,strict,3,Private room,1.0,1.0,35.0,40.818136696909626,-73.94458598882358,98.0
+9478196,Manhattan,West Village,Apartment,moderate,5,Entire home/apt,1.0,1.0,63.82763650662635,40.73430625191056,-74.0063458896454,87.0
+13059666,Manhattan,East Village,Townhouse,strict,8,Entire home/apt,2.0,3.0,150.0,40.72473415134816,-73.98943034383062,80.0
+6436292,Manhattan,East Village,Apartment,moderate,2,Entire home/apt,1.0,1.0,50.0,40.72434560947142,-73.97760711795681,95.0
+15463202,Manhattan,Kips Bay,Apartment,strict,2,Entire home/apt,1.0,0.0,69.0,40.74189402086717,-73.98075626793674,90.0
+7676145,Manhattan,Harlem,Apartment,strict,4,Entire home/apt,1.0,1.0,100.0,40.80516227796495,-73.94949950014836,98.0
+8740241,Manhattan,Hell's Kitchen,Apartment,moderate,2,Private room,1.0,1.0,50.0,40.76296529334787,-73.99125393554067,95.0
+14943439,Manhattan,Hell's Kitchen,Apartment,moderate,1,Private room,1.0,1.0,63.82763650662635,40.76522549255379,-73.98951951634861,40.0
+530184,Manhattan,Upper West Side,Apartment,strict,1,Private room,1.0,1.0,50.0,40.79963685991292,-73.96973852338614,90.0
+3710162,Manhattan,Nolita,Apartment,strict,2,Private room,1.0,1.0,40.0,40.72171061996559,-73.99574580914417,95.0
+4558050,Manhattan,Harlem,Apartment,strict,2,Private room,1.0,1.0,50.0,40.828239551852604,-73.946123071454,99.0
+10020717,Manhattan,Midtown,Loft,strict,5,Entire home/apt,2.0,1.0,100.0,40.745082898652036,-73.98384224805787,91.0
+12358923,Manhattan,Kips Bay,Apartment,strict,8,Entire home/apt,2.0,3.0,100.0,40.74146422510899,-73.98071071814108,90.0
+5605209,Manhattan,Chinatown,Apartment,strict,2,Private room,1.0,1.0,25.0,40.717501959978435,-73.99264326688765,87.0
+6854242,Manhattan,Harlem,Apartment,strict,4,Private room,1.0,1.0,40.0,40.826929975627024,-73.94961416975339,89.0
+13357693,Manhattan,East Village,Apartment,strict,4,Entire home/apt,1.0,0.0,80.0,40.72609131228013,-73.98871172668416,100.0
+17602108,Manhattan,East Village,Apartment,strict,3,Entire home/apt,1.0,0.0,125.0,40.728043876404904,-73.98665440622672,100.0
+15112128,Manhattan,Harlem,Apartment,flexible,4,Entire home/apt,1.0,1.0,50.0,40.82657238045051,-73.9441763690495,92.0
+918049,Manhattan,Chelsea,Apartment,strict,2,Entire home/apt,1.0,1.0,80.0,40.73949055469641,-73.9948273022672,91.0
+152980,Manhattan,Inwood,Apartment,flexible,2,Private room,1.0,1.0,63.82763650662635,40.86853448566463,-73.92376202692074,94.0
+4243458,Manhattan,Upper West Side,Apartment,strict,4,Private room,1.0,1.0,63.82763650662635,40.797086802740324,-73.96309047921484,89.0
+13476104,Manhattan,Harlem,Apartment,flexible,2,Entire home/apt,1.0,1.0,63.82763650662635,40.81621438741081,-73.93640030174038,100.0
+594036,Manhattan,West Village,Apartment,strict,4,Entire home/apt,2.0,2.0,63.82763650662635,40.73412735568799,-74.00465128713927,100.0
+3709294,Manhattan,Harlem,Apartment,strict,3,Entire home/apt,1.0,0.0,95.0,40.80577490454698,-73.94964058003977,84.0
+13446124,Manhattan,Morningside Heights,Apartment,moderate,2,Private room,1.0,2.0,63.82763650662635,40.8135337831797,-73.95878212565964,90.0
+5175054,Manhattan,Hell's Kitchen,Apartment,moderate,3,Entire home/apt,1.0,1.0,45.0,40.760635387290726,-73.99112136071412,97.0
+16663157,Manhattan,Midtown,Apartment,flexible,1,Private room,1.0,1.0,63.82763650662635,40.750227993555434,-73.9869165291244,76.0
+627505,Manhattan,Upper West Side,Apartment,strict,7,Entire home/apt,1.0,2.0,75.0,40.79149417536782,-73.97204458400032,87.0
+320489,Manhattan,East Village,Apartment,strict,5,Entire home/apt,1.0,2.0,50.0,40.724562400096616,-73.98325627503804,96.0
+9955725,Manhattan,Greenwich Village,Apartment,strict,6,Entire home/apt,1.0,2.0,60.0,40.73117309305774,-73.99774837076104,95.0
+12365940,Manhattan,Chelsea,Apartment,strict,6,Entire home/apt,1.0,0.0,99.0,40.74010962397676,-73.99984508802676,88.0
+612936,Manhattan,Upper West Side,Apartment,strict,2,Private room,1.0,1.0,50.0,40.791963807807115,-73.97064658498005,93.0
+17987139,Manhattan,Morningside Heights,Apartment,flexible,1,Private room,1.0,3.0,63.82763650662635,40.814014313883135,-73.96153512173899,100.0
+14916849,Manhattan,East Harlem,Apartment,flexible,2,Private room,1.0,1.0,63.82763650662635,40.79588161529043,-73.93270056668989,96.0
+17149175,Manhattan,Hell's Kitchen,Apartment,strict,4,Entire home/apt,1.0,0.0,125.0,40.76453426985249,-73.98497108152516,80.0
+6277470,Manhattan,Upper East Side,Apartment,flexible,2,Private room,1.5,1.0,63.82763650662635,40.78202229784893,-73.94718928426632,94.0
+7367039,Manhattan,Financial District,Apartment,flexible,4,Entire home/apt,1.0,2.0,75.0,40.70779946999939,-74.00914273182822,90.0
+16074023,Manhattan,Washington Heights,Apartment,strict,7,Entire home/apt,1.0,2.0,100.0,40.84160785962786,-73.93678709427499,94.0
+12562649,Manhattan,East Village,Apartment,strict,3,Entire home/apt,1.0,1.0,150.0,40.72536527505135,-73.99176845861206,100.0
+3247291,Manhattan,Harlem,Townhouse,moderate,2,Private room,1.5,1.0,20.0,40.811976171208244,-73.94369541688229,100.0
+12855469,Manhattan,Upper East Side,Apartment,moderate,3,Entire home/apt,1.0,0.0,75.0,40.781472174089814,-73.95283583175885,97.0
+2417895,Manhattan,Harlem,Apartment,strict,2,Private room,1.0,1.0,20.0,40.828682985828976,-73.94380731736744,93.0
+3629381,Manhattan,Upper East Side,Apartment,moderate,3,Entire home/apt,1.0,1.0,75.0,40.772415211655996,-73.9621191824238,90.0
+7749818,Manhattan,Harlem,Apartment,strict,2,Private room,2.0,1.0,50.0,40.82311685367002,-73.94539018786719,90.0
+8680648,Manhattan,East Harlem,Apartment,strict,2,Private room,1.0,1.0,49.0,40.78620449679311,-73.95159243188215,91.0
+12544605,Manhattan,East Village,Apartment,strict,2,Entire home/apt,1.0,1.0,95.0,40.73067586256265,-73.9868110951475,94.0
+562098,Manhattan,Harlem,Apartment,strict,2,Private room,2.0,1.0,25.0,40.80715090679578,-73.9524403939841,94.0
+3581153,Manhattan,Chelsea,Apartment,strict,4,Entire home/apt,1.0,1.0,100.0,40.74766706751323,-73.99393194454704,98.0
+13262082,Manhattan,East Village,Apartment,flexible,2,Private room,1.0,1.0,63.82763650662635,40.72953913885055,-73.98842473806666,100.0
+5729118,Manhattan,Upper West Side,Apartment,strict,2,Entire home/apt,1.0,0.0,85.0,40.775556814605295,-73.98415527947033,99.0
+11801151,Manhattan,Kips Bay,Apartment,flexible,3,Private room,1.0,1.0,85.0,40.741045011789176,-73.97981466968125,93.0
+16188113,Manhattan,Midtown,Apartment,moderate,2,Entire home/apt,1.0,0.0,38.0,40.751393411025155,-73.97145443864908,90.0
+15983702,Manhattan,Midtown,Apartment,strict,9,Entire home/apt,1.0,3.0,150.0,40.75325528097992,-73.96569486426482,96.0
+15084368,Manhattan,Midtown,Apartment,moderate,2,Entire home/apt,1.0,1.0,75.0,40.75571938466621,-73.96905846902669,100.0
+13561873,Manhattan,Lower East Side,Apartment,strict,5,Entire home/apt,1.0,1.0,125.0,40.722756401306384,-73.98848803941509,93.0
+15059051,Manhattan,Upper East Side,Apartment,strict,2,Entire home/apt,1.0,0.0,63.82763650662635,40.77516305329953,-73.95511877291588,100.0
+13767230,Manhattan,Harlem,Apartment,strict,2,Private room,1.0,1.0,15.0,40.82545011201768,-73.95002468033556,100.0
+4276762,Manhattan,Harlem,House,strict,10,Entire home/apt,3.5,5.0,185.0,40.830482923504526,-73.94370029987823,99.0
+5055704,Manhattan,Lower East Side,Apartment,moderate,1,Shared room,1.0,1.0,50.0,40.72027338032372,-73.98535237458348,98.0
+15261353,Manhattan,Kips Bay,Apartment,strict,3,Entire home/apt,1.0,0.0,15.0,40.745327632096014,-73.97720170738198,100.0
+12888131,Manhattan,Harlem,Apartment,strict,3,Entire home/apt,1.0,2.0,50.0,40.81313119402105,-73.95140617955677,90.0
+3362649,Manhattan,Chelsea,Apartment,moderate,2,Entire home/apt,1.0,0.0,100.0,40.74171402265512,-74.00061681922539,97.0
+1334633,Manhattan,West Village,Apartment,strict,2,Entire home/apt,1.0,1.0,63.82763650662635,40.738960855610316,-74.00522448720842,90.0
+9543593,Manhattan,Chelsea,Apartment,strict,4,Entire home/apt,1.0,2.0,63.82763650662635,40.74056641421075,-73.99889586486877,96.0
+6128576,Manhattan,Harlem,Apartment,strict,2,Entire home/apt,1.0,0.0,30.0,40.81469131027232,-73.93985156600111,93.0
+13192268,Manhattan,Kips Bay,Apartment,moderate,2,Private room,1.0,1.0,25.0,40.74162996935548,-73.9759528016228,100.0
+320700,Manhattan,Hell's Kitchen,Apartment,flexible,2,Private room,1.0,1.0,63.82763650662635,40.7682452159944,-73.9892753063878,97.0
+12082561,Manhattan,Chelsea,Apartment,strict,4,Entire home/apt,1.0,2.0,100.0,40.74976227784129,-73.99693743658169,88.0
+2634963,Manhattan,Harlem,Apartment,moderate,5,Entire home/apt,1.5,3.0,90.0,40.800286001809695,-73.95361963389715,80.0
+10886453,Manhattan,Harlem,Apartment,strict,2,Private room,1.0,1.0,63.82763650662635,40.81004013298036,-73.95187220135547,80.0
+15675274,Manhattan,Upper East Side,Apartment,moderate,2,Entire home/apt,1.0,0.0,75.0,40.77539950443466,-73.95235673323414,100.0
+17515321,Manhattan,Harlem,Apartment,strict,3,Private room,1.0,1.0,30.0,40.809355543198684,-73.9525721703684,100.0
+10358712,Manhattan,Washington Heights,Apartment,strict,1,Private room,1.0,1.0,29.0,40.83495537049141,-73.94394528789212,76.0
+4330251,Manhattan,Upper West Side,Apartment,strict,6,Entire home/apt,1.0,2.0,100.0,40.79092774062896,-73.96678096937706,98.0
+9695552,Manhattan,Morningside Heights,Apartment,strict,4,Entire home/apt,1.0,1.0,50.0,40.804622384802286,-73.96074117657325,95.0
+16054869,Manhattan,Murray Hill,Apartment,moderate,4,Entire home/apt,1.0,1.0,100.0,40.74653524426381,-73.97489877766095,100.0
+15409913,Manhattan,Greenwich Village,Apartment,strict,12,Entire home/apt,2.0,3.0,250.0,40.72877523420353,-73.99838029133909,100.0
+861689,Manhattan,West Village,Apartment,moderate,2,Entire home/apt,1.0,1.0,60.0,40.73535051684167,-74.00503069482899,98.0
+11567121,Manhattan,West Village,Apartment,moderate,2,Entire home/apt,1.0,0.0,60.0,40.72982609901078,-74.00556612571451,100.0
+7949889,Manhattan,Midtown,Apartment,moderate,1,Shared room,1.0,1.0,5.0,40.75991695410621,-73.96836683651424,98.0
+3543227,Manhattan,Harlem,Apartment,strict,2,Private room,1.0,1.0,63.82763650662635,40.82192773873953,-73.94498879898043,94.0
+8925731,Manhattan,Hell's Kitchen,Apartment,strict,6,Entire home/apt,1.0,2.0,200.0,40.760053096644214,-73.9887134045053,97.0
+4085104,Manhattan,Nolita,Apartment,strict,2,Entire home/apt,1.0,1.0,60.0,40.72104942311943,-73.99532731172322,91.0
+14010252,Manhattan,East Village,Apartment,strict,4,Entire home/apt,1.0,1.0,100.0,40.723794967802895,-73.9822387887507,86.0
+13541941,Manhattan,East Harlem,Apartment,moderate,4,Entire home/apt,1.0,2.0,63.82763650662635,40.792802669182684,-73.93936826014391,95.0
+3455410,Manhattan,West Village,Apartment,strict,4,Entire home/apt,1.0,1.0,55.0,40.73505603742447,-73.99976777777593,89.0
+8553166,Manhattan,Upper West Side,Apartment,strict,2,Entire home/apt,1.0,0.0,50.0,40.79251852594432,-73.97166170817407,90.0
+8581716,Manhattan,Hell's Kitchen,Apartment,strict,2,Private room,1.0,1.0,50.0,40.769973753465045,-73.99040357226443,93.0
+10837866,Manhattan,Chinatown,Apartment,strict,2,Entire home/apt,1.0,1.0,8.0,40.71362620821772,-73.99070202111635,95.0
+8628309,Manhattan,Financial District,Apartment,strict,6,Entire home/apt,1.0,2.0,100.0,40.708378098333114,-74.00880171517417,95.0
+4854417,Manhattan,Upper West Side,Apartment,strict,6,Entire home/apt,1.0,3.0,90.0,40.79655577873158,-73.96237931281561,90.0
+4023422,Manhattan,Chinatown,Apartment,moderate,2,Private room,1.0,1.0,10.0,40.71400644493717,-73.99360810452711,84.0
+12056684,Manhattan,Harlem,Apartment,moderate,2,Entire home/apt,1.0,2.0,63.82763650662635,40.809701141434495,-73.94256019318621,95.0
+8956039,Manhattan,Upper West Side,Apartment,moderate,3,Private room,1.0,1.0,50.0,40.770159019936244,-73.98749899490345,100.0
+13788229,Manhattan,Chelsea,Apartment,flexible,2,Private room,1.0,1.0,30.0,40.740049649355534,-74.00237196810816,100.0
+631134,Manhattan,Chelsea,Apartment,strict,2,Entire home/apt,1.0,1.0,50.0,40.737945821329404,-73.99645078003509,99.0
+1975069,Manhattan,Greenwich Village,Apartment,flexible,2,Private room,1.0,1.0,10.0,40.72795634807093,-73.99760737505629,72.0
+1279073,Manhattan,Upper West Side,Apartment,flexible,6,Entire home/apt,2.0,2.0,63.82763650662635,40.77446305168352,-73.98812961618434,100.0
+16320520,Manhattan,East Harlem,Apartment,strict,4,Entire home/apt,1.0,1.0,100.0,40.7914171994425,-73.93979945202895,93.0
+16986251,Manhattan,West Village,Apartment,strict,8,Entire home/apt,4.0,3.0,200.0,40.734458208599385,-74.0002111857162,87.0
+11478813,Manhattan,Flatiron District,Apartment,strict,8,Entire home/apt,2.0,3.0,63.82763650662635,40.73994071517196,-73.99004566459944,83.0
+11370047,Manhattan,East Harlem,Apartment,strict,2,Private room,1.0,1.0,20.0,40.80739041005562,-73.93936585226379,90.0
+12976191,Manhattan,Midtown,Apartment,strict,6,Entire home/apt,1.0,1.0,20.0,40.75143973714954,-73.98507900777342,94.0
+9431369,Manhattan,East Village,Townhouse,strict,8,Entire home/apt,2.0,3.0,150.0,40.72338076694209,-73.98793755425105,80.0
+7480229,Manhattan,Harlem,Apartment,moderate,2,Private room,1.0,1.0,40.0,40.825132350416716,-73.94836908727399,95.0
+5326414,Manhattan,Nolita,Apartment,strict,5,Entire home/apt,2.0,3.0,100.0,40.72063861467827,-73.99671880052938,90.0
+10100121,Manhattan,Chelsea,Apartment,strict,2,Entire home/apt,1.0,1.0,125.0,40.7420103482277,-74.0032486844783,99.0
+4611203,Manhattan,East Harlem,Apartment,flexible,4,Entire home/apt,1.0,1.0,63.82763650662635,40.79037616841366,-73.94411546938531,80.0
+6101104,Manhattan,Upper East Side,Apartment,moderate,2,Entire home/apt,1.0,1.0,50.0,40.77525912505004,-73.95074658026736,95.0
+773993,Manhattan,Upper East Side,Apartment,moderate,2,Private room,1.0,1.0,50.0,40.770322950572144,-73.95331237025553,94.0
+5727093,Brooklyn,Williamsburg,Loft,flexible,2,Private room,1.0,1.0,63.82763650662635,40.70505821022062,-73.9320109237323,100.0
+13309188,Manhattan,Roosevelt Island,Apartment,strict,2,Entire home/apt,1.0,1.0,75.0,40.76719642882783,-73.94551580276874,80.0
+14714093,Manhattan,Harlem,Apartment,strict,2,Private room,1.0,1.0,25.0,40.82315088126278,-73.93725872606608,99.0
+15769652,Manhattan,Chelsea,House,strict,12,Entire home/apt,1.5,4.0,189.0,40.74406721561561,-73.99365587601656,95.0
+3789685,Manhattan,East Harlem,Apartment,moderate,1,Private room,1.0,1.0,63.82763650662635,40.79705254307608,-73.94757830086803,89.0
+15532958,Manhattan,West Village,Townhouse,moderate,2,Entire home/apt,1.0,1.0,80.0,40.7320866085547,-74.0066373544195,100.0
+13709262,Manhattan,Harlem,Apartment,flexible,2,Private room,1.5,1.0,10.0,40.822249365847576,-73.93800491486536,87.0
+3978543,Manhattan,Harlem,House,moderate,4,Entire home/apt,1.5,1.0,60.0,40.80580842839025,-73.94556731106205,97.0
+4197904,Manhattan,Washington Heights,Apartment,moderate,6,Entire home/apt,1.0,2.0,50.0,40.85421608101324,-73.92882260243105,85.0
+4746363,Manhattan,Harlem,Apartment,strict,10,Entire home/apt,1.5,4.0,150.0,40.81369745125377,-73.95012890221919,82.0
+2185668,Manhattan,Chelsea,Apartment,strict,1,Private room,1.0,1.0,63.82763650662635,40.741062346366334,-74.00262292658255,100.0
+17284246,Manhattan,Lower East Side,Apartment,strict,2,Entire home/apt,1.0,0.0,85.0,40.71829682459567,-73.98749834256441,83.0
+14408309,Manhattan,Hell's Kitchen,Apartment,strict,2,Private room,1.0,1.0,25.0,40.76230806387858,-73.99411624304376,87.0
+17633820,Manhattan,Greenwich Village,Apartment,strict,4,Entire home/apt,1.0,2.0,45.0,40.729563477768394,-73.99979100139376,100.0
+13996328,Manhattan,Hell's Kitchen,Apartment,strict,3,Entire home/apt,1.0,1.0,95.0,40.75778613666283,-73.99998197828305,100.0
+14403222,Manhattan,East Village,Apartment,flexible,2,Entire home/apt,1.0,1.0,63.82763650662635,40.72345964106011,-73.99032897677634,100.0
+17826986,Manhattan,Midtown,Apartment,strict,3,Entire home/apt,1.0,1.0,75.0,40.74508544955057,-73.98254199833583,100.0
+14916950,Manhattan,NoHo,Apartment,strict,4,Entire home/apt,1.5,2.0,80.0,40.7285034003227,-73.99355298951862,100.0
+9429015,Manhattan,Upper West Side,Apartment,strict,4,Entire home/apt,1.0,1.0,75.0,40.78198217714738,-73.97803125270715,95.0
+2030001,Manhattan,Nolita,Apartment,strict,2,Entire home/apt,1.5,1.0,275.0,40.723668129124924,-73.99349635774558,96.0
+6866419,Manhattan,East Harlem,Apartment,flexible,2,Private room,1.0,1.0,63.82763650662635,40.79136211113523,-73.94963591968566,73.0
+14291973,Manhattan,Inwood,Apartment,moderate,3,Entire home/apt,1.0,1.0,25.0,40.861942272905566,-73.92625191965747,93.0
+2320028,Manhattan,East Harlem,Apartment,strict,3,Private room,1.0,1.0,30.0,40.790326086290676,-73.94715355392479,98.0
+4288483,Manhattan,Hell's Kitchen,Apartment,strict,2,Private room,1.0,1.0,50.0,40.76431213304582,-73.99400478747339,75.0
+9910133,Manhattan,Midtown,Apartment,flexible,2,Entire home/apt,1.0,0.0,63.82763650662635,40.74149579459355,-73.98354180337988,100.0
+174563,Manhattan,East Village,Condominium,flexible,2,Entire home/apt,1.0,0.0,63.82763650662635,40.72443889960968,-73.98602885911555,95.0
+13026702,Manhattan,Lower East Side,Apartment,moderate,2,Entire home/apt,1.0,1.0,63.82763650662635,40.720329133530655,-73.98766605196269,100.0
+12664893,Manhattan,Harlem,Apartment,strict,2,Private room,1.0,1.0,20.0,40.80990529598157,-73.94272959113252,95.0
+8085549,Manhattan,Hell's Kitchen,Apartment,strict,3,Entire home/apt,1.0,0.0,63.82763650662635,40.762574388729924,-73.98730151757644,96.0
+74821,Manhattan,Harlem,Apartment,strict,5,Entire home/apt,1.0,2.0,100.0,40.80647890590262,-73.94869558557414,94.0
+4098642,Manhattan,Kips Bay,Apartment,strict,8,Entire home/apt,1.5,4.0,150.0,40.74146334753728,-73.97658507615711,79.0
+15984213,Manhattan,Midtown,Apartment,moderate,1,Shared room,1.0,1.0,10.0,40.75349742394524,-73.97370344217127,100.0
+67208,Manhattan,East Village,Apartment,strict,4,Private room,1.0,2.0,63.82763650662635,40.731333246240865,-73.98773740366651,96.0
+10967698,Manhattan,Upper East Side,Apartment,flexible,2,Private room,1.0,1.0,30.0,40.774644770030655,-73.95582851044726,90.0
+13670094,Manhattan,East Harlem,Apartment,flexible,3,Entire home/apt,1.0,1.0,25.0,40.79878425160672,-73.94495345143062,92.0
+13797545,Manhattan,Lower East Side,Apartment,moderate,2,Private room,1.0,1.0,60.0,40.7214861948839,-73.9881788529336,95.0
+15037036,Manhattan,Upper West Side,Apartment,strict,6,Entire home/apt,1.0,2.0,120.0,40.77253378548463,-73.9800119778067,100.0
+3309761,Manhattan,Morningside Heights,Apartment,flexible,2,Private room,1.0,1.0,25.0,40.80588555600116,-73.95857915752241,87.0
+11123996,Manhattan,Gramercy,Apartment,flexible,2,Entire home/apt,1.0,0.0,63.82763650662635,40.73427270495407,-73.98455890080791,100.0
+15841588,Manhattan,Upper East Side,Apartment,flexible,2,Private room,1.0,1.0,63.82763650662635,40.77621196862026,-73.95354542998908,89.0
+4013339,Manhattan,Little Italy,Apartment,moderate,2,Private room,1.0,1.0,58.0,40.72022907774516,-73.9969339171848,97.0
+8782984,Manhattan,Hell's Kitchen,Apartment,strict,1,Private room,1.0,1.0,30.0,40.76660591787089,-73.99155326050982,87.0
+4144823,Manhattan,Hell's Kitchen,Apartment,moderate,3,Entire home/apt,1.0,1.0,63.82763650662635,40.761975214265405,-73.98809745296099,100.0
+15098387,Manhattan,West Village,Apartment,flexible,2,Entire home/apt,1.0,1.0,150.0,40.73638318571248,-74.00884329558251,95.0
+13148991,Manhattan,Upper West Side,Apartment,strict,2,Entire home/apt,1.0,1.0,47.0,40.786332385668956,-73.97113451866869,100.0
+3979360,Manhattan,Midtown,Apartment,strict,4,Entire home/apt,1.0,0.0,70.0,40.74819190932665,-73.98559509384258,84.0
+6364150,Manhattan,East Village,Apartment,flexible,4,Entire home/apt,1.0,1.0,79.0,40.729172613476855,-73.98222646694373,95.0
+16028615,Manhattan,Harlem,Apartment,strict,2,Private room,1.0,1.0,20.0,40.81631992657634,-73.94190714197556,100.0
+13186796,Manhattan,Washington Heights,Apartment,strict,2,Entire home/apt,1.0,1.0,60.0,40.845752661306854,-73.93932516490136,80.0
+15582736,Manhattan,Lower East Side,Apartment,strict,1,Private room,1.0,1.0,49.0,40.720131573444036,-73.98367335934931,100.0
+3016563,Manhattan,Hell's Kitchen,Apartment,strict,3,Entire home/apt,1.0,0.0,50.0,40.765736863162864,-73.99134587548673,92.0
+16068854,Manhattan,West Village,Townhouse,strict,6,Entire home/apt,1.0,2.0,160.0,40.73608020621056,-74.00197641692854,96.0
+13281582,Manhattan,Washington Heights,Apartment,strict,2,Private room,1.0,1.0,20.0,40.843854720961296,-73.94097175567538,68.0
+10204479,Manhattan,Harlem,Apartment,strict,6,Entire home/apt,2.0,2.0,100.0,40.80350949594581,-73.95028550357223,100.0
+9573507,Manhattan,Chelsea,Apartment,strict,2,Entire home/apt,1.0,0.0,70.0,40.74165401487284,-74.00259361259364,95.0
+4576244,Manhattan,Harlem,Apartment,moderate,2,Private room,1.0,1.0,60.0,40.80181818797061,-73.95063183206824,93.0
+4348907,Manhattan,Harlem,Apartment,strict,2,Private room,1.0,1.0,50.0,40.811697359669616,-73.94356720659694,98.0
+6933326,Manhattan,Harlem,Apartment,moderate,2,Private room,1.0,1.0,30.0,40.82231461714986,-73.95626311944487,93.0
+449553,Manhattan,Greenwich Village,Apartment,flexible,4,Entire home/apt,1.5,2.0,60.0,40.72818544143169,-74.002277305991,96.0
+9844567,Manhattan,Harlem,Apartment,moderate,3,Entire home/apt,1.0,1.0,30.0,40.824876665144785,-73.94407349459618,95.0
+101633,Manhattan,Chelsea,Apartment,moderate,1,Private room,1.0,1.0,25.0,40.73907430254857,-73.99984175745497,95.0
+15553484,Manhattan,East Village,Apartment,flexible,2,Private room,1.0,1.0,63.82763650662635,40.729838882178456,-73.9865967898873,100.0
+14818827,Manhattan,Hell's Kitchen,Apartment,flexible,2,Private room,1.0,1.0,50.0,40.76005660431254,-73.99201050955426,100.0
+13292993,Manhattan,Kips Bay,Apartment,flexible,4,Entire home/apt,1.0,2.0,63.82763650662635,40.744286493085546,-73.97663033243444,90.0
+4916340,Manhattan,Upper West Side,Apartment,strict,5,Entire home/apt,1.0,1.0,65.0,40.7833382876564,-73.97452318603153,88.0
+3774509,Manhattan,Washington Heights,Apartment,moderate,2,Private room,1.0,1.0,10.0,40.83871971738853,-73.94203939103828,97.0
+5298299,Manhattan,Chelsea,Apartment,moderate,2,Private room,1.0,1.0,60.0,40.73885472132924,-73.99700846070319,90.0
+607312,Manhattan,Lower East Side,Apartment,strict,2,Entire home/apt,1.0,1.0,100.0,40.71435425381932,-73.98429243809359,91.0
+12462634,Manhattan,Upper West Side,Apartment,moderate,2,Entire home/apt,1.0,1.0,63.82763650662635,40.77775271070616,-73.98168724516474,100.0
+7610785,Manhattan,Harlem,Apartment,strict,4,Entire home/apt,1.5,3.0,100.0,40.81094938627444,-73.95296184233356,87.0
+8485671,Manhattan,Gramercy,Apartment,flexible,2,Entire home/apt,1.0,0.0,30.0,40.73809279261868,-73.98215194989723,80.0
+7108992,Manhattan,Upper West Side,Apartment,flexible,6,Entire home/apt,1.0,2.0,63.82763650662635,40.7982037928817,-73.96930558163945,100.0
+7652929,Manhattan,Upper West Side,Apartment,flexible,2,Private room,1.0,1.0,63.82763650662635,40.785567967460224,-73.9721375143271,90.0
+386744,Manhattan,Upper East Side,Apartment,strict,2,Private room,1.0,1.0,25.0,40.76849827023603,-73.96033534712745,91.0
+1399448,Manhattan,East Village,Apartment,strict,5,Entire home/apt,1.0,1.0,75.0,40.72462859056059,-73.9893779497352,88.0
+13843286,Manhattan,West Village,Apartment,strict,3,Entire home/apt,1.0,1.0,75.0,40.73510905386049,-74.00370082736899,97.0
+9024874,Manhattan,East Village,Apartment,strict,2,Entire home/apt,1.0,1.0,70.0,40.72320064888822,-73.98560672713596,100.0
+14696542,Brooklyn,Bedford-Stuyvesant,Apartment,moderate,1,Private room,1.0,1.0,25.0,40.699184106618304,-73.94513261346118,99.0
+4257078,Manhattan,Lower East Side,Apartment,strict,2,Shared room,1.0,1.0,25.0,40.71737735579336,-73.98333670660342,99.0
+16285014,Manhattan,Murray Hill,Apartment,strict,4,Entire home/apt,1.0,1.0,150.0,40.74585072807046,-73.97446872221981,80.0
+6628193,Manhattan,Upper West Side,Apartment,moderate,2,Private room,1.0,1.0,50.0,40.786016903071896,-73.97728618953056,96.0
+15176427,Manhattan,Upper East Side,Apartment,strict,6,Entire home/apt,1.0,2.0,150.0,40.771495457102716,-73.95222159991395,87.0
+9409391,Manhattan,Chelsea,Apartment,strict,4,Entire home/apt,1.0,1.0,50.0,40.738314514012345,-73.99894508460373,87.0
+15274681,Manhattan,Upper East Side,Apartment,flexible,1,Private room,1.0,1.0,63.82763650662635,40.76378670730548,-73.9598349690388,90.0
+8665047,Manhattan,East Village,Apartment,strict,4,Entire home/apt,1.0,2.0,50.0,40.73160391001114,-73.98542991011685,91.0
+13926549,Manhattan,Upper West Side,Apartment,flexible,2,Entire home/apt,1.0,1.0,63.82763650662635,40.78295669764493,-73.97742953274101,100.0
+17434237,Manhattan,East Harlem,Apartment,flexible,2,Private room,1.5,1.0,63.82763650662635,40.78552067563301,-73.9411963050773,100.0
+4220151,Manhattan,Chelsea,Apartment,strict,4,Entire home/apt,1.0,0.0,114.0,40.74588028735776,-74.00055098851419,87.0
+8425148,Manhattan,Lower East Side,Apartment,flexible,2,Entire home/apt,1.0,1.0,63.82763650662635,40.719783454463936,-73.98424346734392,97.0
+8954035,Manhattan,East Village,Apartment,moderate,2,Private room,1.0,1.0,10.0,40.72139052896792,-73.97950055746075,93.0
+188087,Manhattan,Tribeca,Loft,moderate,4,Entire home/apt,1.5,2.0,80.0,40.71941443059596,-74.00415780027319,90.0
+7517614,Manhattan,Washington Heights,Apartment,flexible,5,Entire home/apt,1.0,2.0,120.0,40.832701934307906,-73.94486281786847,100.0
+17331035,Manhattan,East Harlem,Apartment,moderate,2,Entire home/apt,1.0,1.0,50.0,40.79784187519788,-73.94404013265681,100.0
+1081932,Manhattan,East Village,Apartment,strict,6,Entire home/apt,1.0,2.0,60.0,40.72253542565543,-73.98320028029919,94.0
+9178165,Manhattan,Harlem,Apartment,flexible,3,Private room,1.0,1.0,63.82763650662635,40.7974391823273,-73.94971484599412,89.0
+3844026,Manhattan,Greenwich Village,Apartment,strict,1,Private room,1.0,1.0,63.82763650662635,40.72731805342174,-73.99717143087022,100.0
+11799747,Manhattan,Upper West Side,Apartment,strict,4,Entire home/apt,1.0,1.0,60.0,40.790700852550295,-73.97471092158406,96.0
+18134537,Manhattan,Upper West Side,Apartment,flexible,2,Entire home/apt,1.0,1.0,63.82763650662635,40.777765040726855,-73.97938928578996,100.0
+13560331,Manhattan,Lower East Side,Apartment,flexible,2,Entire home/apt,1.0,0.0,50.0,40.719653957406095,-73.98207615335622,100.0
+15206836,Manhattan,Midtown,Timeshare,strict,3,Entire home/apt,1.0,0.0,100.0,40.75350635268971,-73.97196361603271,90.0
+6972046,Manhattan,Upper West Side,Apartment,flexible,2,Private room,1.0,1.0,63.82763650662635,40.78566775100754,-73.97664561607155,83.0
+2244103,Manhattan,East Village,Apartment,strict,2,Entire home/apt,1.0,1.0,125.0,40.72657222073068,-73.98813298971207,97.0
+9316872,Manhattan,Midtown,Apartment,strict,1,Private room,0.5,1.0,63.82763650662635,40.750452912715424,-73.9712704079746,90.0
+521038,Manhattan,Harlem,Apartment,strict,5,Entire home/apt,1.0,2.0,58.0,40.82749310984216,-73.93819838589687,100.0
+828553,Manhattan,Gramercy,Apartment,flexible,2,Entire home/apt,1.0,1.030153495512657,63.82763650662635,40.73490141208109,-73.98548959822794,94.0
+13138133,Manhattan,East Harlem,Apartment,strict,2,Private room,1.0,1.0,20.0,40.8035029864924,-73.9393196253028,70.0
+15814363,Manhattan,East Village,Apartment,flexible,2,Private room,1.0,1.0,30.0,40.724608441189744,-73.98171767604003,96.0
+11163615,Manhattan,Upper West Side,Apartment,moderate,2,Entire home/apt,1.0,0.0,50.0,40.800078484429825,-73.9637522131448,92.0
+8417134,Manhattan,Hell's Kitchen,Apartment,moderate,2,Private room,1.0,1.0,63.82763650662635,40.76745125762314,-73.9910779500533,98.0
+13477359,Manhattan,Morningside Heights,Apartment,moderate,2,Private room,1.0,1.0,6.0,40.80727986422318,-73.96634180450665,95.0
+16587707,Manhattan,Hell's Kitchen,Apartment,flexible,4,Entire home/apt,1.0,1.0,70.0,40.759104631923705,-73.99150092162567,100.0
+173742,Manhattan,Gramercy,Apartment,moderate,5,Entire home/apt,2.5,2.0,120.0,40.734757270375844,-73.984517930734,93.0
+7726982,Manhattan,Washington Heights,Apartment,flexible,1,Shared room,2.0,1.0,63.82763650662635,40.85053986154106,-73.93515856935882,93.0
+9616924,Manhattan,Lower East Side,Apartment,strict,2,Private room,1.0,1.0,10.0,40.72012108536576,-73.99100975977977,87.0
+15139530,Manhattan,Harlem,Apartment,moderate,4,Private room,1.0,1.0,100.0,40.83160169511467,-73.947202756533,100.0
+14039050,Manhattan,Chelsea,Apartment,flexible,2,Private room,1.0,1.0,63.82763650662635,40.741302760386716,-74.00098107791074,70.0
+14339989,Manhattan,Kips Bay,Apartment,strict,2,Entire home/apt,1.0,1.0,65.0,40.74042306041631,-73.98139481612314,97.0
+15817415,Manhattan,Upper West Side,Apartment,strict,3,Entire home/apt,1.0,1.0,75.0,40.77682588731038,-73.97773930835325,95.0
+18208335,Manhattan,East Village,Apartment,strict,9,Entire home/apt,1.0,3.0,80.0,40.72818975089577,-73.98087940807815,100.0
+6679063,Manhattan,Hell's Kitchen,Apartment,flexible,1,Private room,1.0,1.0,63.82763650662635,40.758850530986685,-73.99583818280647,90.0
+12736761,Manhattan,Harlem,Apartment,moderate,6,Entire home/apt,1.0,3.0,63.82763650662635,40.82862567907989,-73.94756731710093,92.0
+18120374,Manhattan,Inwood,Apartment,moderate,2,Entire home/apt,1.0,1.0,75.0,40.86447806314178,-73.92753550654206,80.0
+3847733,Brooklyn,Bedford-Stuyvesant,Apartment,moderate,2,Private room,1.0,1.0,15.0,40.68082120229477,-73.93599134400039,98.0
+7859403,Manhattan,Upper East Side,Apartment,moderate,2,Private room,1.0,1.0,20.0,40.78372038595264,-73.95276373712426,90.0
+7023818,Manhattan,Midtown,Apartment,flexible,2,Private room,1.0,1.0,63.82763650662635,40.75869554265228,-73.96704963127289,100.0
+17264335,Manhattan,Lower East Side,Apartment,strict,2,Entire home/apt,1.0,1.0,85.0,40.71833346700614,-73.98844060107713,60.0
+15039238,Manhattan,Harlem,Apartment,strict,2,Entire home/apt,1.0,1.0,25.0,40.805549359241866,-73.95705621951382,100.0
+470090,Manhattan,Lower East Side,Apartment,strict,2,Entire home/apt,1.0,0.0,85.0,40.721465449720434,-73.9920812668416,92.0
+8482952,Manhattan,West Village,Apartment,moderate,2,Entire home/apt,1.0,1.0,125.0,40.73798085996053,-73.99963168003812,100.0
+9711488,Manhattan,Upper West Side,Apartment,flexible,4,Entire home/apt,1.0,1.0,63.82763650662635,40.77888445910745,-73.9790691643025,100.0
+6499447,Manhattan,Upper East Side,Apartment,strict,2,Entire home/apt,1.0,1.0,100.0,40.7781555808419,-73.95047888472399,97.0
+18296166,Manhattan,East Village,Apartment,flexible,2,Private room,1.0,1.0,40.0,40.72589781916985,-73.97752090006675,100.0
+17039919,Manhattan,Midtown,House,strict,1,Shared room,1.0,1.0,63.82763650662635,40.749747107521024,-73.9862990403977,86.0
+13895892,Manhattan,East Village,Townhouse,strict,2,Private room,3.5,1.0,79.0,40.73067766115469,-73.98843859716804,90.0
+12562302,Manhattan,Washington Heights,Apartment,flexible,2,Private room,1.0,1.0,63.82763650662635,40.83141085372578,-73.94175239603881,100.0
+16639117,Manhattan,Hell's Kitchen,Apartment,moderate,2,Private room,1.0,1.0,15.0,40.762227860180666,-73.9886192192996,90.0
+2445856,Queens,Long Island City,Apartment,strict,2,Private room,1.0,1.0,15.0,40.749546886720815,-73.95080869583563,94.0
+11293039,Manhattan,Greenwich Village,Apartment,moderate,2,Entire home/apt,1.0,1.0,85.0,40.73073349263022,-73.99559865041846,99.0
+926020,Manhattan,West Village,Apartment,moderate,2,Entire home/apt,1.0,1.0,63.82763650662635,40.73585976100418,-74.00727194123036,87.0
+9821024,Manhattan,Greenwich Village,Apartment,flexible,2,Entire home/apt,1.0,1.0,160.0,40.73135122335928,-74.00039740161338,60.0
+8798516,Manhattan,Chelsea,Apartment,moderate,4,Private room,1.0,1.0,30.0,40.749870752540396,-73.99697985915554,95.0
+4840794,Manhattan,Little Italy,Apartment,moderate,2,Entire home/apt,1.0,1.0,50.0,40.717632273212,-73.99752555563444,100.0
+4235201,Manhattan,Harlem,Apartment,strict,2,Private room,1.0,1.0,45.0,40.79974433508965,-73.95389580097942,97.0
+405408,Manhattan,SoHo,Loft,strict,2,Entire home/apt,1.0,1.0,100.0,40.720574954215984,-73.9997633473663,97.0
+7895928,Manhattan,West Village,Apartment,strict,4,Entire home/apt,1.0,1.0,100.0,40.73403013728232,-74.0079923809012,93.0
+3094833,Manhattan,SoHo,Apartment,strict,2,Entire home/apt,1.0,1.0,63.82763650662635,40.72229655314021,-73.99925076565415,99.0
+5329041,Manhattan,Lower East Side,Apartment,moderate,4,Entire home/apt,1.0,1.0,35.0,40.71964065420074,-73.9844817662043,93.0
+9835350,Manhattan,Harlem,Apartment,strict,8,Entire home/apt,1.0,2.0,125.0,40.80522440483436,-73.94973428386677,89.0
+15178929,Manhattan,East Harlem,Apartment,strict,4,Entire home/apt,1.0,0.0,25.0,40.79527897640823,-73.94418267830774,95.0
+1593444,Manhattan,Greenwich Village,Apartment,strict,1,Entire home/apt,1.0,0.0,100.0,40.73157503638231,-73.99254389100221,100.0
+1147814,Manhattan,Chelsea,Apartment,moderate,4,Entire home/apt,2.0,1.0,100.0,40.738009959971315,-73.99384913248635,98.0
+741806,Manhattan,Inwood,Apartment,strict,2,Private room,1.0,1.0,40.0,40.859528828195245,-73.93135759656282,100.0
+8459345,Manhattan,Upper West Side,Apartment,strict,8,Entire home/apt,2.0,4.0,63.82763650662635,40.78530752500146,-73.97564219781688,94.0
+17714478,Manhattan,Harlem,Apartment,moderate,2,Private room,1.0,1.0,5.0,40.806353790114045,-73.95593781108023,100.0
+9136175,Manhattan,Upper West Side,Apartment,flexible,3,Entire home/apt,1.0,2.0,60.0,40.79217002965471,-73.96566585645476,40.0
+13237190,Manhattan,Upper East Side,Apartment,moderate,2,Shared room,1.0,1.0,20.0,40.769953747560564,-73.95604089075538,98.0
+8016420,Manhattan,Harlem,Apartment,strict,2,Private room,1.0,1.0,30.0,40.806132542641954,-73.95271063529586,94.0
+1994574,Manhattan,West Village,Apartment,strict,2,Private room,1.0,1.0,80.0,40.73772116426826,-73.99931844251549,68.0
+15957209,Manhattan,East Village,Apartment,flexible,2,Private room,1.0,1.0,63.82763650662635,40.72396696041531,-73.98452784167567,60.0
+148825,Manhattan,Upper West Side,Apartment,strict,4,Entire home/apt,1.0,2.0,85.0,40.79765089094829,-73.96244597211523,92.0
+568933,Manhattan,Washington Heights,Apartment,moderate,3,Entire home/apt,1.5,2.0,63.82763650662635,40.85486727318242,-73.93505265513295,96.0
+18238216,Manhattan,Chelsea,Apartment,flexible,3,Private room,1.0,1.0,20.0,40.746258211915716,-73.99075714799379,100.0
+4642539,Manhattan,Hell's Kitchen,Apartment,strict,2,Entire home/apt,1.0,2.0,100.0,40.761598062633404,-73.99677164335353,98.0
+2881692,Manhattan,Upper West Side,Apartment,strict,2,Entire home/apt,1.0,1.0,75.0,40.7755083186439,-73.97860331620466,85.0
+15344308,Manhattan,Upper West Side,Apartment,flexible,1,Shared room,1.0,1.0,63.82763650662635,40.79649571881377,-73.96297039882806,88.0
+2636534,Manhattan,Lower East Side,Apartment,strict,2,Private room,1.0,1.0,15.0,40.720727685599826,-73.98954391262177,90.0
+2658325,Manhattan,East Village,Apartment,moderate,2,Private room,1.0,1.0,63.82763650662635,40.72100437349325,-73.98168945156546,93.0
+9612732,Manhattan,Harlem,Apartment,strict,2,Private room,1.0,1.0,80.0,40.81523498138802,-73.95505150417979,95.0
+13644095,Manhattan,Washington Heights,Apartment,strict,2,Private room,1.0,1.0,30.0,40.84322491429656,-73.93566800626611,100.0
+7598279,Manhattan,East Harlem,Apartment,flexible,2,Entire home/apt,1.0,1.0,63.82763650662635,40.810096178641736,-73.93829590838254,100.0
+8889664,Manhattan,East Village,Apartment,moderate,2,Private room,1.0,1.0,63.82763650662635,40.72796816115113,-73.97786621717343,96.0
+11658950,Manhattan,Gramercy,Apartment,moderate,2,Private room,1.0,1.0,60.0,40.73457892173693,-73.98127599429411,96.0
+13926341,Manhattan,Lower East Side,Apartment,strict,3,Entire home/apt,1.0,1.0,100.0,40.71939802165235,-73.99199966078835,80.0
+3870294,Manhattan,East Village,Apartment,strict,2,Entire home/apt,1.0,1.0,75.0,40.724714962120295,-73.98673139081848,99.0
+16193891,Manhattan,Stuyvesant Town,Apartment,strict,2,Entire home/apt,1.0,1.0,70.0,40.72943272880922,-73.97792588350559,100.0
+4241486,Manhattan,East Village,Apartment,flexible,4,Entire home/apt,1.0,1.0,63.82763650662635,40.726851412715945,-73.98638017267096,95.0
+13434030,Manhattan,Murray Hill,Apartment,flexible,2,Private room,1.0,1.0,63.82763650662635,40.746361650041145,-73.97352182776578,80.0
+13724675,Manhattan,Murray Hill,Apartment,flexible,2,Entire home/apt,1.0,0.0,40.0,40.748162005961106,-73.97725727294691,100.0
+746346,Manhattan,Chinatown,Apartment,strict,2,Entire home/apt,1.0,0.0,35.0,40.71714154100949,-73.9913891810324,91.0
+13937701,Manhattan,Washington Heights,Apartment,strict,2,Entire home/apt,1.0,1.0,60.0,40.836250373185145,-73.93914727456001,96.0
+13314442,Brooklyn,Bushwick,Apartment,flexible,2,Private room,1.0,1.0,63.82763650662635,40.70043647416257,-73.9390909600897,80.0
+15671751,Manhattan,East Harlem,Apartment,strict,2,Private room,1.0,1.0,15.0,40.78941447470696,-73.94881300613011,97.0
+537232,Manhattan,East Village,Apartment,moderate,2,Private room,1.0,1.0,25.0,40.7316518740793,-73.98503165736345,97.0
+13638628,Manhattan,East Harlem,Apartment,moderate,4,Entire home/apt,1.0,1.0,63.82763650662635,40.796392722833865,-73.93805484049844,67.0
+17318814,Manhattan,Harlem,Loft,moderate,4,Entire home/apt,1.0,1.0,70.0,40.819610764411436,-73.94582820632478,99.0
+15417373,Manhattan,Harlem,Townhouse,flexible,4,Private room,1.0,1.0,63.82763650662635,40.83034151294861,-73.94773344979801,93.0
+6169412,Manhattan,Inwood,Apartment,strict,1,Private room,1.0,1.0,20.0,40.86727760116447,-73.92679372959225,95.0
+7480729,Manhattan,East Village,Apartment,strict,3,Private room,1.0,1.0,80.0,40.72527639363096,-73.97882328365323,89.0
+13315940,Manhattan,Morningside Heights,Apartment,strict,4,Entire home/apt,1.0,1.0,63.82763650662635,40.809042275838756,-73.9580651352518,80.0
+15896274,Manhattan,Harlem,Apartment,moderate,6,Entire home/apt,2.0,3.0,125.0,40.80367554271979,-73.94397197911995,97.0
+7529908,Manhattan,Washington Heights,Apartment,strict,2,Private room,1.0,1.0,60.0,40.85185021402883,-73.93075569902444,100.0
+9332926,Manhattan,Washington Heights,Apartment,flexible,1,Private room,1.0,1.0,63.82763650662635,40.838190419880384,-73.94372901835284,100.0
